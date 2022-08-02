@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_huongdan",
+    "texture": "615b41a8-470f-42ad-9fdd-e5a3fe75331a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

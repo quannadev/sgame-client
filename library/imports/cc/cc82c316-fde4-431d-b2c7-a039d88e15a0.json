@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnBackOn",
+    "texture": "94835abd-ce8d-46d2-9f59-ae36b33a4983",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

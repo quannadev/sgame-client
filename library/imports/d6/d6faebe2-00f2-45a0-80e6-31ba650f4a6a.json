@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "KimCuong-Thang-Text",
+    "texture": "65c1171f-1e23-4e98-aea4-933ebed0a2f8",
+    "atlas": "",
+    "rect": [
+      3,
+      12,
+      2002,
+      1945
+    ],
+    "offset": [
+      -20,
+      39.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

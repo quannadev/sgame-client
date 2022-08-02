@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cuadat-small",
+    "texture": "df2b3750-15ef-4d96-acc0-93f78f7af7ed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      154,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

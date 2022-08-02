@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tx_animation_0013",
+    "texture": "ee17eddd-5b57-44a0-b937-cc623f6b1f84",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      340,
+      321
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      340,
+      321
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

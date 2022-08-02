@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ocvit",
+    "texture": "073c6e7a-d17c-4d5e-90e8-b8ba2cd6db22",
+    "atlas": "",
+    "rect": [
+      7,
+      1,
+      92,
+      93
+    ],
+    "offset": [
+      2.5,
+      0.5
+    ],
+    "originalSize": [
+      101,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

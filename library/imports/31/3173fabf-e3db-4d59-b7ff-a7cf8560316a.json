@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ngthongbao",
+    "texture": "561374ec-8d6c-4a6e-a9c1-bd1a243300c8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      834,
+      184
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      834,
+      184
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

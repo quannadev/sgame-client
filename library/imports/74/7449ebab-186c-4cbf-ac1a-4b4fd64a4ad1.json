@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chia_o",
+    "texture": "770621bb-4a08-40e1-937d-7e040a351e0c",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      929,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      931,
+      3
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

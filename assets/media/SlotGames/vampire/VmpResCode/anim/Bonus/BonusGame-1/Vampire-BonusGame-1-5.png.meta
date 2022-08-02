@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9d16da38-8d5b-45f4-9180-7fe08c959499",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Vampire-BonusGame-1-5": {
+      "ver": "1.0.4",
+      "uuid": "19aec9f2-321b-43f9-a7d1-b7103371b2fe",
+      "rawTextureUuid": "9d16da38-8d5b-45f4-9180-7fe08c959499",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -120.5,
+      "offsetY": 102.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 267,
+      "height": 303,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

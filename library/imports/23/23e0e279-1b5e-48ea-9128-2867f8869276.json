@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuquay-btn",
+    "texture": "1e3104b6-5933-4562-8010-b9c412f1edb1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

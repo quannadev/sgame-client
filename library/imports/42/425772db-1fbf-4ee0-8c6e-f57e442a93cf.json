@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_cau_black",
+    "texture": "c10d809f-db67-4e4e-96ee-3e4deda7c804",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      47,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      47,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

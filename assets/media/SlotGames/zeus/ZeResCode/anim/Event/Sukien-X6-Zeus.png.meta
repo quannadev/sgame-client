@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "da686dfb-3da2-49b8-aa88-2c765b33fb44",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Sukien-X6-Zeus": {
+      "ver": "1.0.4",
+      "uuid": "79976541-0a2e-4c11-aab5-a40f7785ae0b",
+      "rawTextureUuid": "da686dfb-3da2-49b8-aa88-2c765b33fb44",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -31.5,
+      "offsetY": 26,
+      "trimX": 3,
+      "trimY": 4,
+      "width": 443,
+      "height": 452,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

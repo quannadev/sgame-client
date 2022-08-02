@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon-Wild",
+    "texture": "c2b8df03-0e7d-4d72-aea4-3dedd3b36958",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1967,
+      1016
+    ],
+    "offset": [
+      -37.5,
+      1
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

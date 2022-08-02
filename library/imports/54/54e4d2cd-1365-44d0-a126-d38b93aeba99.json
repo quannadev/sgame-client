@@ -1,0 +1,919 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Vampire-BonusGame-Lose",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "QIFZvLPqBwoSxSgAyY3iNbZTIZg",
+      "spine": "3.6.53",
+      "width": 0,
+      "height": 0,
+      "images": "../../../"
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "Badquy",
+        "bone": "root"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Badquy": {
+          "images/bonusgame/Badquy-P/1": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/2": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/3": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/4": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/5": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/6": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/7": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/8": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/9": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/10": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/11": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/12": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/13": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/14": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/15": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/16": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/17": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/18": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/19": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/20": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/21": {
+            "width": 488,
+            "height": 393
+          },
+          "images/bonusgame/Badquy-P/22": {
+            "width": 488,
+            "height": 393
+          }
+        }
+      }
+    },
+    "animations": {
+      "Lose": {
+        "slots": {
+          "Badquy": {
+            "color": [
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 11.6333,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.6667,
+                "name": "images/bonusgame/Badquy-P/1"
+              },
+              {
+                "time": 0.7,
+                "name": "images/bonusgame/Badquy-P/2"
+              },
+              {
+                "time": 0.7333,
+                "name": "images/bonusgame/Badquy-P/3"
+              },
+              {
+                "time": 0.7667,
+                "name": "images/bonusgame/Badquy-P/4"
+              },
+              {
+                "time": 0.8,
+                "name": "images/bonusgame/Badquy-P/5"
+              },
+              {
+                "time": 0.8333,
+                "name": "images/bonusgame/Badquy-P/6"
+              },
+              {
+                "time": 0.8667,
+                "name": "images/bonusgame/Badquy-P/7"
+              },
+              {
+                "time": 0.9,
+                "name": "images/bonusgame/Badquy-P/8"
+              },
+              {
+                "time": 0.9333,
+                "name": "images/bonusgame/Badquy-P/9"
+              },
+              {
+                "time": 0.9667,
+                "name": "images/bonusgame/Badquy-P/10"
+              },
+              {
+                "time": 1,
+                "name": "images/bonusgame/Badquy-P/11"
+              },
+              {
+                "time": 1.0333,
+                "name": "images/bonusgame/Badquy-P/12"
+              },
+              {
+                "time": 1.0667,
+                "name": "images/bonusgame/Badquy-P/13"
+              },
+              {
+                "time": 1.1,
+                "name": "images/bonusgame/Badquy-P/14"
+              },
+              {
+                "time": 1.1333,
+                "name": "images/bonusgame/Badquy-P/15"
+              },
+              {
+                "time": 1.1667,
+                "name": "images/bonusgame/Badquy-P/16"
+              },
+              {
+                "time": 1.2,
+                "name": "images/bonusgame/Badquy-P/17"
+              },
+              {
+                "time": 1.2333,
+                "name": "images/bonusgame/Badquy-P/18"
+              },
+              {
+                "time": 1.2667,
+                "name": "images/bonusgame/Badquy-P/19"
+              },
+              {
+                "time": 1.3,
+                "name": "images/bonusgame/Badquy-P/20"
+              },
+              {
+                "time": 1.3333,
+                "name": "images/bonusgame/Badquy-P/21"
+              },
+              {
+                "time": 1.3667,
+                "name": "images/bonusgame/Badquy-P/22"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "root": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3667,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.7333,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 4.1,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 5.4667,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.8333,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 8.2,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 9.5667,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 10.9333,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 12.3,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.6667,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 15.0333,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 16.4,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 17.7667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3667,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.0333,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.7333,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3.4,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4.1,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4.7667,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 5.4667,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6.1333,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6.8333,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 7.5,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8.2,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8.8667,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 9.5667,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 10.2333,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 10.9333,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 11.6,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 12.3,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 12.9667,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 13.6667,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 14.3333,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 15.0333,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 15.7,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 16.4,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 17.0667,
+                "x": 0,
+                "y": -4.69,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 17.7667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3667,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.0333,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 2.7333,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 3.4,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4.1,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 4.7667,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 5.4667,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6.1333,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 6.8333,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 7.5,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8.2,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 8.8667,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 9.5667,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 10.2333,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 10.9333,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 11.6,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 12.3,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 12.9667,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 13.6667,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 14.3333,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 15.0333,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 15.7,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 16.4,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 17.0667,
+                "x": 0.953,
+                "y": 0.953,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 17.7667,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3667,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.7333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nVampire-BonusGame-Lose.png\r\nsize: 2048,2048\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nimages/bonusgame/Badquy-P/1\r\n  rotate: false\r\n  xy: 408, 754\r\n  size: 316, 337\r\n  orig: 488, 393\r\n  offset: 67, 30\r\n  index: -1\r\nimages/bonusgame/Badquy-P/10\r\n  rotate: false\r\n  xy: 2, 366\r\n  size: 396, 362\r\n  orig: 488, 393\r\n  offset: 21, 31\r\n  index: -1\r\nimages/bonusgame/Badquy-P/11\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 393, 362\r\n  orig: 488, 393\r\n  offset: 36, 31\r\n  index: -1\r\nimages/bonusgame/Badquy-P/12\r\n  rotate: false\r\n  xy: 2, 1447\r\n  size: 444, 357\r\n  orig: 488, 393\r\n  offset: 26, 32\r\n  index: -1\r\nimages/bonusgame/Badquy-P/13\r\n  rotate: false\r\n  xy: 866, 1151\r\n  size: 423, 321\r\n  orig: 488, 393\r\n  offset: 36, 47\r\n  index: -1\r\nimages/bonusgame/Badquy-P/14\r\n  rotate: false\r\n  xy: 2, 730\r\n  size: 404, 361\r\n  orig: 488, 393\r\n  offset: 36, 32\r\n  index: -1\r\nimages/bonusgame/Badquy-P/15\r\n  rotate: false\r\n  xy: 1299, 1139\r\n  size: 414, 335\r\n  orig: 488, 393\r\n  offset: 42, 29\r\n  index: -1\r\nimages/bonusgame/Badquy-P/16\r\n  rotate: false\r\n  xy: 863, 826\r\n  size: 412, 323\r\n  orig: 488, 393\r\n  offset: 36, 39\r\n  index: -1\r\nimages/bonusgame/Badquy-P/17\r\n  rotate: false\r\n  xy: 866, 1474\r\n  size: 431, 330\r\n  orig: 488, 393\r\n  offset: 9, 35\r\n  index: -1\r\nimages/bonusgame/Badquy-P/18\r\n  rotate: false\r\n  xy: 1299, 1476\r\n  size: 427, 328\r\n  orig: 488, 393\r\n  offset: 12, 36\r\n  index: -1\r\nimages/bonusgame/Badquy-P/19\r\n  rotate: false\r\n  xy: 1277, 803\r\n  size: 411, 334\r\n  orig: 488, 393\r\n  offset: 37, 24\r\n  index: -1\r\nimages/bonusgame/Badquy-P/2\r\n  rotate: false\r\n  xy: 400, 391\r\n  size: 315, 337\r\n  orig: 488, 393\r\n  offset: 67, 30\r\n  index: -1\r\nimages/bonusgame/Badquy-P/20\r\n  rotate: false\r\n  xy: 2, 1093\r\n  size: 427, 352\r\n  orig: 488, 393\r\n  offset: 38, 19\r\n  index: -1\r\nimages/bonusgame/Badquy-P/21\r\n  rotate: false\r\n  xy: 448, 1105\r\n  size: 413, 342\r\n  orig: 488, 393\r\n  offset: 38, 13\r\n  index: -1\r\nimages/bonusgame/Badquy-P/22\r\n  rotate: false\r\n  xy: 448, 1449\r\n  size: 416, 355\r\n  orig: 488, 393\r\n  offset: 27, 14\r\n  index: -1\r\nimages/bonusgame/Badquy-P/3\r\n  rotate: false\r\n  xy: 1728, 1456\r\n  size: 317, 348\r\n  orig: 488, 393\r\n  offset: 65, 44\r\n  index: -1\r\nimages/bonusgame/Badquy-P/4\r\n  rotate: false\r\n  xy: 397, 27\r\n  size: 315, 337\r\n  orig: 488, 393\r\n  offset: 67, 30\r\n  index: -1\r\nimages/bonusgame/Badquy-P/5\r\n  rotate: true\r\n  xy: 1049, 159\r\n  size: 315, 326\r\n  orig: 488, 393\r\n  offset: 67, 41\r\n  index: -1\r\nimages/bonusgame/Badquy-P/6\r\n  rotate: false\r\n  xy: 1049, 476\r\n  size: 323, 325\r\n  orig: 488, 393\r\n  offset: 60, 41\r\n  index: -1\r\nimages/bonusgame/Badquy-P/7\r\n  rotate: false\r\n  xy: 1715, 1119\r\n  size: 331, 335\r\n  orig: 488, 393\r\n  offset: 52, 31\r\n  index: -1\r\nimages/bonusgame/Badquy-P/8\r\n  rotate: true\r\n  xy: 717, 417\r\n  size: 335, 330\r\n  orig: 488, 393\r\n  offset: 47, 37\r\n  index: -1\r\nimages/bonusgame/Badquy-P/9\r\n  rotate: false\r\n  xy: 1690, 802\r\n  size: 352, 315\r\n  orig: 488, 393\r\n  offset: 38, 52\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "d9025085-5b2b-405b-aa62-cf674de66e50"
+    }
+  ],
+  "textureNames": [
+    "Vampire-BonusGame-Lose.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_demnguoc",
+    "texture": "2bae1fa5-9a86-4077-b626-4db4cad659a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

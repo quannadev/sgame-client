@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2928ce56-4dd9-4eaf-baed-f3d0155e0b48",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 4096,
+  "height": 4096,
+  "platformSettings": {},
+  "subMetas": {
+    "KimCuong-NoHu-Coin": {
+      "ver": "1.0.4",
+      "uuid": "c811490d-3d6b-477c-8d36-52519fc6c9ce",
+      "rawTextureUuid": "2928ce56-4dd9-4eaf-baed-f3d0155e0b48",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -121,
+      "offsetY": -15,
+      "trimX": 1,
+      "trimY": 143,
+      "width": 3852,
+      "height": 3840,
+      "rawWidth": 4096,
+      "rawHeight": 4096,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9b0c0248-e87a-4ffd-ac0d-f81cfa7fe333",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 4096,
+  "height": 4096,
+  "platformSettings": {},
+  "subMetas": {
+    "KimCuong-ThangLon-Coin": {
+      "ver": "1.0.4",
+      "uuid": "c70ef285-c584-4c64-ad5a-fff4cf5a9f91",
+      "rawTextureUuid": "9b0c0248-e87a-4ffd-ac0d-f81cfa7fe333",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -121.5,
+      "offsetY": -56,
+      "trimX": 1,
+      "trimY": 224,
+      "width": 3851,
+      "height": 3760,
+      "rawWidth": 4096,
+      "rawHeight": 4096,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

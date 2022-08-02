@@ -1,0 +1,20 @@
+
+Zeus-ThangLon-2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+InGame/Arboad/Fx/nohu-fx
+  rotate: false
+  xy: 2, 2
+  size: 509, 189
+  orig: 509, 189
+  offset: 0, 0
+  index: -1
+InGame/Arboad/Fx/thang-lon-Fx
+  rotate: false
+  xy: 2, 193
+  size: 684, 172
+  orig: 684, 172
+  offset: 0, 0
+  index: -1

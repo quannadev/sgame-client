@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-tanloc",
+    "texture": "32ea32ed-1d05-48f4-8fc9-dc2f2770f81e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

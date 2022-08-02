@@ -1,0 +1,778 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "thang",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "fwzTxvt/noed90CM2wGPl/YfeUE",
+      "spine": "3.7.94",
+      "width": 385.03,
+      "height": 77.5,
+      "images": "./images/",
+      "audio": "C:/Users/Toanp/OneDrive/Máy tính/Backup/2020.06.26/braccat/spine/thang"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "y": 3.58
+      },
+      {
+        "name": "thang_cai",
+        "parent": "root",
+        "x": -3.16,
+        "y": 3.45
+      },
+      {
+        "name": "light",
+        "parent": "root",
+        "x": 105.42,
+        "y": 29.09
+      },
+      {
+        "name": "light2",
+        "parent": "root",
+        "x": -114.61,
+        "y": -16.42
+      }
+    ],
+    "slots": [
+      {
+        "name": "thang_cai",
+        "bone": "thang_cai",
+        "attachment": "thang_cai"
+      },
+      {
+        "name": "thang",
+        "bone": "thang_cai",
+        "attachment": "thang"
+      },
+      {
+        "name": "light",
+        "bone": "light",
+        "attachment": "light",
+        "blend": "additive"
+      },
+      {
+        "name": "light2",
+        "bone": "light2",
+        "attachment": "light",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "light": {
+          "light": {
+            "x": 3.8,
+            "y": -0.95,
+            "width": 165,
+            "height": 32
+          }
+        },
+        "light2": {
+          "light": {
+            "x": 3.8,
+            "y": -0.95,
+            "width": 165,
+            "height": 32
+          }
+        },
+        "thang": {
+          "hoa": {
+            "x": 3.16,
+            "y": -3.45,
+            "width": 62,
+            "height": 32
+          },
+          "thang": {
+            "x": 0.47,
+            "y": 1.25,
+            "width": 95,
+            "height": 35
+          }
+        },
+        "thang_cai": {
+          "hoa_bg": {
+            "x": 3.16,
+            "y": -2.95,
+            "width": 172,
+            "height": 53
+          },
+          "thang_cai": {
+            "x": 0.71,
+            "y": -0.32,
+            "width": 164,
+            "height": 54
+          },
+          "thang_con": {
+            "x": 3.66,
+            "y": -2.95,
+            "width": 173,
+            "height": 53
+          }
+        }
+      }
+    },
+    "animations": {
+      "hoa_1": {
+        "slots": {
+          "light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "thang": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "hoa"
+              }
+            ]
+          },
+          "thang_cai": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "hoa_bg"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "thang_cai": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 0
+              },
+              {
+                "time": 0.1667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "light": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": -2.11
+              },
+              {
+                "time": 1.3333,
+                "x": -230.68,
+                "y": -4.22
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "light2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": -2.81
+              },
+              {
+                "time": 1.3333,
+                "x": 202.67,
+                "y": -3.52
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      },
+      "hoa_2": {
+        "slots": {
+          "light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "thang": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "hoa"
+              }
+            ]
+          },
+          "thang_cai": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "hoa_bg"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "light": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -230.68,
+                "y": -4.22
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "light2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 202.67,
+                "y": -3.52
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      },
+      "thangcai_1": {
+        "slots": {
+          "light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "thang_cai": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 0
+              },
+              {
+                "time": 0.1667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "light": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.3333,
+                "x": -230.68,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "light2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1.3333,
+                "x": 202.67,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      },
+      "thangcai_2": {
+        "slots": {
+          "light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "light": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -230.68,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "light2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 202.67,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      },
+      "thangcon_1": {
+        "slots": {
+          "light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "thang_cai": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "thang_con"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "thang_cai": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 0
+              },
+              {
+                "time": 0.1667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "light": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": -3.22
+              },
+              {
+                "time": 1.3333,
+                "x": -230.68,
+                "y": -3.22
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "light2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": -3.87
+              },
+              {
+                "time": 1.3333,
+                "x": 202.67,
+                "y": -4.52
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      },
+      "thangcon_2": {
+        "slots": {
+          "light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "thang_cai": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "thang_con"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "light": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -230.68,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "light2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 202.67,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nthang.png\r\nsize: 128,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nhoa\r\n  rotate: false\r\n  xy: 2, 205\r\n  size: 47, 24\r\n  orig: 47, 24\r\n  offset: 0, 0\r\n  index: -1\r\nhoa_bg\r\n  rotate: true\r\n  xy: 2, 3\r\n  size: 129, 40\r\n  orig: 129, 40\r\n  offset: 0, 0\r\n  index: -1\r\nlight\r\n  rotate: false\r\n  xy: 2, 177\r\n  size: 124, 24\r\n  orig: 124, 24\r\n  offset: 0, 0\r\n  index: -1\r\nthang\r\n  rotate: false\r\n  xy: 51, 203\r\n  size: 71, 26\r\n  orig: 71, 26\r\n  offset: 0, 0\r\n  index: -1\r\nthang_cai\r\n  rotate: false\r\n  xy: 2, 134\r\n  size: 123, 41\r\n  orig: 123, 41\r\n  offset: 0, 0\r\n  index: -1\r\nthang_con\r\n  rotate: true\r\n  xy: 44, 2\r\n  size: 130, 40\r\n  orig: 130, 40\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "24b4d2ac-b18b-4320-a4e7-25ace34778a7"
+    }
+  ],
+  "textureNames": [
+    "thang.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e2c43365-025e-42bb-87ce-60eaf3f85db8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1150,
+  "height": 445,
+  "platformSettings": {},
+  "subMetas": {
+    "rongho-thele": {
+      "ver": "1.0.4",
+      "uuid": "901530e9-f92a-4aa0-88b8-647a296a0697",
+      "rawTextureUuid": "e2c43365-025e-42bb-87ce-60eaf3f85db8",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1150,
+      "height": 445,
+      "rawWidth": 1150,
+      "rawHeight": 445,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

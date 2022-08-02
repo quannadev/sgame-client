@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lichsuhu-btn",
+    "texture": "d82ca3a1-c1a1-44bc-b3d3-afa6fe98e902",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

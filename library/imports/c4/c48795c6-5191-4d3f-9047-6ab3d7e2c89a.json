@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cuser",
+    "texture": "fd07b82c-d249-4560-9b47-5be97b7dcf04",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      31,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

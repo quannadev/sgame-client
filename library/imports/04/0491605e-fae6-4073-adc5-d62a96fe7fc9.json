@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fold-tag",
+    "texture": "c677bba3-72ca-4ec7-ad0b-6eca88ddeea3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      85,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      85,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

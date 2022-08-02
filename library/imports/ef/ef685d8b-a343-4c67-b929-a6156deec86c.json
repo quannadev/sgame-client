@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hongnhat",
+    "texture": "39536ac8-17e6-4334-aeee-768d628598d9",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      85,
+      4
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      86,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

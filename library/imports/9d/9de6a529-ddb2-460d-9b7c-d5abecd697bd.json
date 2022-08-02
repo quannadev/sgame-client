@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "border-phong3",
+    "texture": "9f16326f-a147-4a1f-81b6-bd027a19be85",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1165,
+      650
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1165,
+      650
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

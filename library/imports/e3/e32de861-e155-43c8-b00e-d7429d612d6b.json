@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-xinloc",
+    "texture": "964f79bc-1b3d-4a00-8c6d-70dcaf2c6098",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

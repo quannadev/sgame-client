@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c6e5a74d-892f-4742-99e1-31b4b343b22b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Sukien-X6-Sindbad": {
+      "ver": "1.0.4",
+      "uuid": "6c5558e0-dad7-452c-8417-8c31aeabf3bc",
+      "rawTextureUuid": "c6e5a74d-892f-4742-99e1-31b4b343b22b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -14.5,
+      "offsetY": 4,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 477,
+      "height": 242,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

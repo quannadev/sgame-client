@@ -1,0 +1,69 @@
+
+baccarat.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 848, 73
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+baccarat
+  rotate: false
+  xy: 178, 35
+  size: 160, 41
+  orig: 160, 41
+  offset: 0, 0
+  index: -1
+ban
+  rotate: false
+  xy: 672, 22
+  size: 174, 102
+  orig: 174, 102
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 78
+  size: 174, 333
+  orig: 174, 333
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 33
+  size: 174, 43
+  orig: 174, 43
+  offset: 0, 0
+  index: -1
+lighttt
+  rotate: true
+  xy: 337, 78
+  size: 174, 333
+  orig: 174, 333
+  offset: 0, 0
+  index: -1
+ng
+  rotate: true
+  xy: 672, 126
+  size: 126, 276
+  orig: 126, 276
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 950, 144
+  size: 48, 108
+  orig: 48, 108
+  offset: 0, 0
+  index: -1

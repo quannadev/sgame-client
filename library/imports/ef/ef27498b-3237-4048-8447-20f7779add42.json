@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bangthuong-line",
+    "texture": "030d6c01-b230-4f35-ac0d-baedecd1c738",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      239,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      239,
+      1
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

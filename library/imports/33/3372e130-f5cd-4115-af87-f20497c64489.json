@@ -1,0 +1,648 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "baccarat",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "U84ZXs2ptrhQhw2asYCjv5tpY2U",
+      "spine": "3.6.53",
+      "width": 175,
+      "height": 334,
+      "images": "../images/"
+    },
+    "bones": [
+      {
+        "name": "root",
+        "x": 0.46,
+        "y": 0.06
+      },
+      {
+        "name": "bg",
+        "parent": "root",
+        "length": 37.75,
+        "rotation": 92.6,
+        "x": -34.17,
+        "y": -166.62
+      },
+      {
+        "name": "3",
+        "parent": "bg",
+        "length": 26.06,
+        "rotation": -30.01,
+        "x": 250.61,
+        "y": -92.03
+      },
+      {
+        "name": "Layer 1",
+        "parent": "bg",
+        "length": 20.06,
+        "rotation": 17.38,
+        "x": 264.85,
+        "y": 13.7
+      },
+      {
+        "name": "ban",
+        "parent": "bg",
+        "length": 39.65,
+        "rotation": -8.81,
+        "x": 95.18,
+        "y": -38.64
+      },
+      {
+        "name": "baccarat",
+        "parent": "ban",
+        "length": 24,
+        "rotation": 6.2,
+        "x": 17.32,
+        "y": -0.7
+      },
+      {
+        "name": "lighttt",
+        "parent": "bg",
+        "length": 32.67,
+        "rotation": 1.91,
+        "x": 0.54,
+        "y": 11.99
+      },
+      {
+        "name": "light",
+        "parent": "lighttt",
+        "length": 17.23,
+        "rotation": -10.22,
+        "x": 314.38,
+        "y": -68.66
+      },
+      {
+        "name": "ng",
+        "parent": "bg",
+        "length": 90.88,
+        "rotation": -4.22,
+        "x": -1.05,
+        "y": -41.99
+      },
+      {
+        "name": "tay",
+        "parent": "ng",
+        "length": 53,
+        "rotation": 24.45,
+        "x": 142.54,
+        "y": 52.9
+      }
+    ],
+    "slots": [
+      {
+        "name": "bg",
+        "bone": "bg",
+        "attachment": "bg"
+      },
+      {
+        "name": "ng",
+        "bone": "ng",
+        "attachment": "ng"
+      },
+      {
+        "name": "tay",
+        "bone": "tay",
+        "attachment": "tay"
+      },
+      {
+        "name": "ban",
+        "bone": "ban",
+        "attachment": "ban"
+      },
+      {
+        "name": "3",
+        "bone": "3",
+        "attachment": "3"
+      },
+      {
+        "name": "Layer 1",
+        "bone": "Layer 1",
+        "attachment": "Layer 1"
+      },
+      {
+        "name": "lighttt",
+        "bone": "lighttt",
+        "attachment": "lighttt"
+      },
+      {
+        "name": "baccarat",
+        "bone": "baccarat",
+        "attachment": "baccarat"
+      },
+      {
+        "name": "light",
+        "bone": "light",
+        "attachment": "light"
+      }
+    ],
+    "skins": {
+      "default": {
+        "3": {
+          "3": {
+            "x": 12.37,
+            "y": -1.2,
+            "rotation": -62.59,
+            "width": 49,
+            "height": 51
+          }
+        },
+        "Layer 1": {
+          "Layer 1": {
+            "x": 8.54,
+            "y": 0.06,
+            "rotation": -109.98,
+            "width": 27,
+            "height": 29
+          }
+        },
+        "baccarat": {
+          "baccarat": {
+            "x": 10.97,
+            "y": 2.04,
+            "rotation": -90,
+            "width": 160,
+            "height": 41
+          }
+        },
+        "ban": {
+          "ban": {
+            "x": 39.22,
+            "y": 5.74,
+            "rotation": -83.8,
+            "width": 174,
+            "height": 102
+          }
+        },
+        "bg": {
+          "bg": {
+            "x": 163.25,
+            "y": -41.27,
+            "rotation": -92.6,
+            "width": 174,
+            "height": 333
+          }
+        },
+        "light": {
+          "light": {
+            "x": -8.6,
+            "y": -2.97,
+            "rotation": -84.29,
+            "width": 174,
+            "height": 43
+          }
+        },
+        "lighttt": {
+          "lighttt": {
+            "x": 160.84,
+            "y": -58.65,
+            "rotation": -94.51,
+            "width": 174,
+            "height": 333
+          }
+        },
+        "ng": {
+          "ng": {
+            "x": 134.68,
+            "y": -1.01,
+            "rotation": -88.38,
+            "width": 126,
+            "height": 276
+          }
+        },
+        "tay": {
+          "tay": {
+            "x": 41.69,
+            "y": -3.09,
+            "rotation": -112.83,
+            "width": 48,
+            "height": 108
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.6667,
+                "angle": 32.44
+              },
+              {
+                "time": 1.3333,
+                "angle": 2.15
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.6667,
+                "x": 20.75,
+                "y": -10.53
+              },
+              {
+                "time": 1.3333,
+                "x": 2.7,
+                "y": -8.34
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6667,
+                "x": 0.96,
+                "y": 0.96
+              },
+              {
+                "time": 1.3333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bg": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "tay": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": -18.7
+              },
+              {
+                "time": 0.6667,
+                "angle": -24.82
+              },
+              {
+                "time": 1.3333,
+                "angle": -17.57
+              },
+              {
+                "time": 2,
+                "angle": -18.7
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6667,
+                "x": 0.98,
+                "y": 0.98
+              },
+              {
+                "time": 1.3333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "ng": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6667,
+                "x": 0.99,
+                "y": 0.99
+              },
+              {
+                "time": 1.3333,
+                "x": 1.01,
+                "y": 1.01
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "lighttt": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "baccarat": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6667,
+                "x": 0.93,
+                "y": 0.93
+              },
+              {
+                "time": 1.3333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "ban": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.6667,
+                "x": -5.99,
+                "y": 0.27
+              },
+              {
+                "time": 1.3333,
+                "x": 1.28,
+                "y": -0.06
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "Layer 1": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.6667,
+                "angle": -48.53
+              },
+              {
+                "time": 1.3333,
+                "angle": -1.02
+              },
+              {
+                "time": 2,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.6667,
+                "x": 0.25,
+                "y": 5.47
+              },
+              {
+                "time": 1.3333,
+                "x": -3.98,
+                "y": 2.92
+              },
+              {
+                "time": 2,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.6667,
+                "x": 0.96,
+                "y": 0.96
+              },
+              {
+                "time": 1.3333,
+                "x": 1.03,
+                "y": 1.03
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nbaccarat.png\r\nsize: 1024,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n3\r\n  rotate: false\r\n  xy: 848, 73\r\n  size: 49, 51\r\n  orig: 49, 51\r\n  offset: 0, 0\r\n  index: -1\r\nLayer 1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 27, 29\r\n  orig: 27, 29\r\n  offset: 0, 0\r\n  index: -1\r\nbaccarat\r\n  rotate: false\r\n  xy: 178, 35\r\n  size: 160, 41\r\n  orig: 160, 41\r\n  offset: 0, 0\r\n  index: -1\r\nban\r\n  rotate: false\r\n  xy: 672, 22\r\n  size: 174, 102\r\n  orig: 174, 102\r\n  offset: 0, 0\r\n  index: -1\r\nbg\r\n  rotate: true\r\n  xy: 2, 78\r\n  size: 174, 333\r\n  orig: 174, 333\r\n  offset: 0, 0\r\n  index: -1\r\nlight\r\n  rotate: false\r\n  xy: 2, 33\r\n  size: 174, 43\r\n  orig: 174, 43\r\n  offset: 0, 0\r\n  index: -1\r\nlighttt\r\n  rotate: true\r\n  xy: 337, 78\r\n  size: 174, 333\r\n  orig: 174, 333\r\n  offset: 0, 0\r\n  index: -1\r\nng\r\n  rotate: true\r\n  xy: 672, 126\r\n  size: 126, 276\r\n  orig: 126, 276\r\n  offset: 0, 0\r\n  index: -1\r\ntay\r\n  rotate: false\r\n  xy: 950, 144\r\n  size: 48, 108\r\n  orig: 48, 108\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "8f666f83-0c2f-4ddc-85a4-f0616444500f"
+    }
+  ],
+  "textureNames": [
+    "baccarat.png"
+  ],
+  "scale": 1
+}

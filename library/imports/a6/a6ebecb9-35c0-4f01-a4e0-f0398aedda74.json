@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vampire-Thang-Text",
+    "texture": "8ee9712c-8778-4bb3-9cd8-4e1047981320",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1013,
+      903
+    ],
+    "offset": [
+      -3.5,
+      58.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

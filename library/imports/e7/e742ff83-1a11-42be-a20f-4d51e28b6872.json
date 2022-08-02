@@ -1,0 +1,812 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "minipoker",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "nMr2Rc1g3Rst+zBsCz+40yHsb/Y",
+      "spine": "3.6.53",
+      "width": 265.91,
+      "height": 266.93,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root",
+        "x": 0.04,
+        "y": 0.18
+      },
+      {
+        "name": "lightttt",
+        "parent": "root",
+        "length": 23.94,
+        "rotation": 90,
+        "x": -4.84,
+        "y": 2.58
+      },
+      {
+        "name": "bg",
+        "parent": "lightttt",
+        "length": 41.67,
+        "rotation": -3.14,
+        "x": 127.11,
+        "y": -135.09
+      },
+      {
+        "name": "bg2",
+        "parent": "bg",
+        "length": 27.93,
+        "rotation": -0.02,
+        "x": 22.03,
+        "y": 0.07
+      },
+      {
+        "name": "lightttt3",
+        "parent": "lightttt",
+        "length": 28.5,
+        "x": 10.83,
+        "y": 0.57
+      },
+      {
+        "name": "light",
+        "parent": "lightttt3",
+        "length": 25.09,
+        "rotation": 1.3,
+        "x": 14.82
+      },
+      {
+        "name": "light122",
+        "parent": "bg",
+        "length": 17.11,
+        "rotation": -26.85,
+        "x": -9.03,
+        "y": 70.95,
+        "scaleX": 1.2,
+        "scaleY": 1.2
+      },
+      {
+        "name": "poker",
+        "parent": "lightttt",
+        "length": 36.5,
+        "rotation": -1.79,
+        "x": 29.64,
+        "y": -136.23
+      },
+      {
+        "name": "light124",
+        "parent": "poker",
+        "length": 17.11,
+        "rotation": -28.19,
+        "x": 20.47,
+        "y": 16.15
+      },
+      {
+        "name": "light125",
+        "parent": "bg",
+        "length": 17.11,
+        "rotation": -26.85,
+        "x": -10.53,
+        "y": -54.93,
+        "scaleX": 0.5,
+        "scaleY": 0.5
+      },
+      {
+        "name": "lightttt2",
+        "parent": "lightttt",
+        "length": 28.4,
+        "rotation": 3.27,
+        "x": 0.37,
+        "y": -52.01
+      },
+      {
+        "name": "mini",
+        "parent": "poker",
+        "length": 19.39,
+        "rotation": 0.11,
+        "x": 49.89,
+        "y": -63.45
+      }
+    ],
+    "slots": [
+      {
+        "name": "bg",
+        "bone": "lightttt",
+        "attachment": "bg"
+      },
+      {
+        "name": "bg1",
+        "bone": "lightttt2",
+        "attachment": "bg1"
+      },
+      {
+        "name": "Layer 97",
+        "bone": "bg",
+        "attachment": "Layer 97"
+      },
+      {
+        "name": "89",
+        "bone": "bg2",
+        "attachment": "Layer 98"
+      },
+      {
+        "name": "light122",
+        "bone": "light122",
+        "attachment": "light122"
+      },
+      {
+        "name": "light125",
+        "bone": "light125",
+        "attachment": "light122"
+      },
+      {
+        "name": "poker",
+        "bone": "poker",
+        "attachment": "poker"
+      },
+      {
+        "name": "mini",
+        "bone": "mini",
+        "attachment": "mini"
+      },
+      {
+        "name": "lightttt",
+        "bone": "lightttt3",
+        "attachment": "lightttt"
+      },
+      {
+        "name": "light124",
+        "bone": "light124",
+        "attachment": "light122"
+      },
+      {
+        "name": "light",
+        "bone": "light",
+        "attachment": "light"
+      }
+    ],
+    "skins": {
+      "default": {
+        "89": {
+          "Layer 98": {
+            "x": -29.37,
+            "y": -0.94,
+            "rotation": -87.51,
+            "width": 218,
+            "height": 184
+          }
+        },
+        "Layer 97": {
+          "Layer 97": {
+            "x": -8.28,
+            "y": -1.28,
+            "rotation": -86.86,
+            "width": 218,
+            "height": 184
+          }
+        },
+        "bg": {
+          "bg": {
+            "x": 128.78,
+            "y": -136.41,
+            "rotation": -90,
+            "width": 265,
+            "height": 266
+          }
+        },
+        "bg1": {
+          "bg1": {
+            "x": 123.86,
+            "y": -91.59,
+            "rotation": -93.07,
+            "width": 265,
+            "height": 266
+          }
+        },
+        "light": {
+          "light": {
+            "x": 211.22,
+            "y": -152.32,
+            "rotation": -91.3,
+            "width": 242,
+            "height": 43
+          }
+        },
+        "light122": {
+          "light122": {
+            "x": 1.09,
+            "y": 0.13,
+            "rotation": -60.02,
+            "width": 61,
+            "height": 67
+          }
+        },
+        "light124": {
+          "light122": {
+            "x": 0.58,
+            "scaleX": 0.5,
+            "scaleY": 0.5,
+            "rotation": -60.02,
+            "width": 61,
+            "height": 67
+          }
+        },
+        "light125": {
+          "light122": {
+            "x": 1.09,
+            "y": 0.13,
+            "rotation": -60.02,
+            "width": 61,
+            "height": 67
+          }
+        },
+        "lightttt": {
+          "lightttt": {
+            "x": 118.45,
+            "y": -136.48,
+            "rotation": -90,
+            "width": 264,
+            "height": 265
+          }
+        },
+        "mini": {
+          "mini": {
+            "x": 11.76,
+            "y": 0.14,
+            "rotation": -88.32,
+            "width": 79,
+            "height": 35
+          }
+        },
+        "poker": {
+          "poker": {
+            "x": 32.56,
+            "y": 2.84,
+            "rotation": -88.21,
+            "width": 231,
+            "height": 89
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "89": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff88"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.6667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "bg1": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.6667,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.6667,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "lightttt": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "mini": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 0.8,
+                "y": 0.8
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 0.8,
+                "y": 0.8
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "poker": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.9,
+                "y": 0.9,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 0.9,
+                "y": 0.9
+              }
+            ]
+          },
+          "light": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "lightttt3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "light122": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.3333,
+                "angle": -61.96
+              },
+              {
+                "time": 0.8333,
+                "angle": 177.16
+              },
+              {
+                "time": 1.3333,
+                "angle": 0
+              },
+              {
+                "time": 1.6667,
+                "angle": -61.96
+              },
+              {
+                "time": 2.1667,
+                "angle": 177.16
+              },
+              {
+                "time": 2.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "bg": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 1,
+                "x": 1.34,
+                "y": 0
+              },
+              {
+                "time": 1.5,
+                "x": 8.06,
+                "y": 0
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.5,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 1,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.5,
+                "x": 1.05,
+                "y": 1.05
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "light124": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.3333,
+                "angle": -61.96
+              },
+              {
+                "time": 0.8333,
+                "angle": 177.16
+              },
+              {
+                "time": 1.3333,
+                "angle": 0
+              },
+              {
+                "time": 1.6667,
+                "angle": -61.96
+              },
+              {
+                "time": 2.1667,
+                "angle": 177.16
+              },
+              {
+                "time": 2.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "light125": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.3333,
+                "angle": -61.96
+              },
+              {
+                "time": 0.8333,
+                "angle": 177.16
+              },
+              {
+                "time": 1.3333,
+                "angle": 0
+              },
+              {
+                "time": 1.6667,
+                "angle": -61.96
+              },
+              {
+                "time": 2.1667,
+                "angle": 177.16
+              },
+              {
+                "time": 2.6667,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 2.6667,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nminipoker.png\r\nsize: 1024,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nLayer 97\r\n  rotate: false\r\n  xy: 2, 246\r\n  size: 218, 184\r\n  orig: 218, 184\r\n  offset: 0, 0\r\n  index: -1\r\nLayer 98\r\n  rotate: false\r\n  xy: 269, 515\r\n  size: 218, 184\r\n  orig: 218, 184\r\n  offset: 0, 0\r\n  index: -1\r\nbg\r\n  rotate: false\r\n  xy: 2, 432\r\n  size: 265, 266\r\n  orig: 265, 266\r\n  offset: 0, 0\r\n  index: -1\r\nbg1\r\n  rotate: false\r\n  xy: 2, 700\r\n  size: 265, 266\r\n  orig: 265, 266\r\n  offset: 0, 0\r\n  index: -1\r\nlight\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 242, 43\r\n  orig: 242, 43\r\n  offset: 0, 0\r\n  index: -1\r\nlight122\r\n  rotate: false\r\n  xy: 269, 446\r\n  size: 61, 67\r\n  orig: 61, 67\r\n  offset: 0, 0\r\n  index: -1\r\nlightttt\r\n  rotate: false\r\n  xy: 269, 701\r\n  size: 264, 265\r\n  orig: 264, 265\r\n  offset: 0, 0\r\n  index: -1\r\nmini\r\n  rotate: true\r\n  xy: 222, 351\r\n  size: 79, 35\r\n  orig: 79, 35\r\n  offset: 0, 0\r\n  index: -1\r\npoker\r\n  rotate: false\r\n  xy: 535, 877\r\n  size: 231, 89\r\n  orig: 231, 89\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "5157febe-6a25-40e9-b8b9-ecf8231699bd"
+    }
+  ],
+  "textureNames": [
+    "minipoker.png"
+  ],
+  "scale": 1
+}

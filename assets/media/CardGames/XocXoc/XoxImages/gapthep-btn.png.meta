@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ac380499-fa56-46dc-baf6-08700a52a312",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 76,
+  "height": 94,
+  "platformSettings": {},
+  "subMetas": {
+    "gapthep-btn": {
+      "ver": "1.0.4",
+      "uuid": "66ce34c0-4fc6-4a1a-8320-6f44532fc522",
+      "rawTextureUuid": "ac380499-fa56-46dc-baf6-08700a52a312",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 76,
+      "height": 94,
+      "rawWidth": 76,
+      "rawHeight": 94,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

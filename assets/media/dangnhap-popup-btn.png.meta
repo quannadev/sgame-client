@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0a58f334-b172-404b-99e9-ce04acc8f124",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 177,
+  "height": 56,
+  "platformSettings": {},
+  "subMetas": {
+    "dangnhap-popup-btn": {
+      "ver": "1.0.4",
+      "uuid": "d01862be-5726-4574-8696-4f379350775f",
+      "rawTextureUuid": "0a58f334-b172-404b-99e9-ce04acc8f124",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 177,
+      "height": 56,
+      "rawWidth": 177,
+      "rawHeight": 56,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

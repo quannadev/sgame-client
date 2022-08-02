@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "KimCuong-Lobby-P00",
+    "texture": "020219ab-69c9-4036-8293-b060a5eb8e3a",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      813,
+      503
+    ],
+    "offset": [
+      -103.5,
+      1.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

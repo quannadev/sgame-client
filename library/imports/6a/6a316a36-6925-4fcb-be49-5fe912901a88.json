@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "circle-effect",
+    "texture": "9f7ba643-3f65-4a60-8a5c-27f494b4a843",
+    "atlas": "",
+    "rect": [
+      30,
+      32,
+      357,
+      366
+    ],
+    "offset": [
+      -14.5,
+      11.5
+    ],
+    "originalSize": [
+      446,
+      453
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_gui",
+    "texture": "011f37ea-4b16-4f44-9915-8e9d9f154922",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

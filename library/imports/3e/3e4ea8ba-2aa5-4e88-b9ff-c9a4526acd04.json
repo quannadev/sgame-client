@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic-baccarat-small",
+    "texture": "7e6cf59e-937d-466d-8a13-8cbc7449aa8e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      469,
+      209
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      469,
+      209
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

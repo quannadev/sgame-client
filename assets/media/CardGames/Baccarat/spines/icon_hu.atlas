@@ -1,0 +1,55 @@
+
+icon_hu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG TIEN
+  rotate: false
+  xy: 293, 170
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+COIN
+  rotate: false
+  xy: 293, 134
+  size: 188, 34
+  orig: 188, 34
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 113, 82
+  orig: 113, 82
+  offset: 0, 0
+  index: -1
+iconhu
+  rotate: false
+  xy: 293, 46
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 86
+  size: 163, 129
+  orig: 163, 129
+  offset: 0, 0
+  index: -1
+light 1
+  rotate: false
+  xy: 398, 87
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+vong
+  rotate: false
+  xy: 167, 91
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1

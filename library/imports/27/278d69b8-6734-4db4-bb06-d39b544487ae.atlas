@@ -1,0 +1,132 @@
+
+Ares jackpot.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 302
+  size: 186, 191
+  orig: 186, 191
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0000_16
+  rotate: false
+  xy: 190, 332
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0001_15
+  rotate: false
+  xy: 320, 332
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0002_14
+  rotate: false
+  xy: 450, 332
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0003_13
+  rotate: false
+  xy: 580, 332
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0004_12
+  rotate: false
+  xy: 710, 332
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0005_11
+  rotate: false
+  xy: 840, 332
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0006_10
+  rotate: false
+  xy: 132, 139
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0007_9
+  rotate: false
+  xy: 262, 169
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0008_8
+  rotate: false
+  xy: 392, 169
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0009_7
+  rotate: false
+  xy: 522, 169
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0010_6
+  rotate: false
+  xy: 652, 169
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0011_5
+  rotate: false
+  xy: 782, 169
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0012_4
+  rotate: true
+  xy: 138, 9
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0013_3
+  rotate: true
+  xy: 301, 39
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0014_2
+  rotate: true
+  xy: 464, 39
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+fx-14-2/fx-14-2_0015_1
+  rotate: false
+  xy: 2, 139
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1

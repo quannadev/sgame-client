@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avatar-portal-bg",
+    "texture": "47529371-d99e-4812-ad31-ac4f858a859a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      63
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

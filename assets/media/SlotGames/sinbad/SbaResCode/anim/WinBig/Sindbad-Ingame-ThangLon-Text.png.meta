@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0d1906c4-0b9f-451e-aaa5-714795b1e07b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "Sindbad-Ingame-ThangLon-Text": {
+      "ver": "1.0.4",
+      "uuid": "ec00ac03-e625-4a11-afe6-8d5ae66396ab",
+      "rawTextureUuid": "0d1906c4-0b9f-451e-aaa5-714795b1e07b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -9,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 490,
+      "height": 123,
+      "rawWidth": 512,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-menu-duongke",
+    "texture": "711a9dc8-5b47-4c30-acda-f23c9b5d8730",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      652,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      652,
+      1
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

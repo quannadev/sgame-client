@@ -1,0 +1,62 @@
+
+aladdin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+aladdin
+  rotate: true
+  xy: 178, 540
+  size: 174, 105
+  orig: 174, 105
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 602
+  size: 174, 333
+  orig: 174, 333
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 178, 364
+  size: 174, 43
+  orig: 174, 43
+  offset: 0, 0
+  index: -1
+lighttt
+  rotate: false
+  xy: 2, 267
+  size: 174, 333
+  orig: 174, 333
+  offset: 0, 0
+  index: -1
+ng
+  rotate: false
+  xy: 2, 46
+  size: 169, 219
+  orig: 169, 219
+  offset: 0, 0
+  index: -1
+ng1
+  rotate: false
+  xy: 178, 716
+  size: 169, 219
+  orig: 169, 219
+  offset: 0, 0
+  index: -1
+vang
+  rotate: false
+  xy: 349, 865
+  size: 174, 70
+  orig: 174, 70
+  offset: 0, 0
+  index: -1

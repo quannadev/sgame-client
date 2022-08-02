@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "phong-bg",
+    "texture": "19b030f3-bdc4-4238-a2f1-4f144724b724",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      172,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

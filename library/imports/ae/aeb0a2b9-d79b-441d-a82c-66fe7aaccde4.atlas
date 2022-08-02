@@ -1,0 +1,13 @@
+
+Line-1.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx-1
+  rotate: false
+  xy: 2, 2
+  size: 152, 34
+  orig: 152, 34
+  offset: 0, 0
+  index: -1

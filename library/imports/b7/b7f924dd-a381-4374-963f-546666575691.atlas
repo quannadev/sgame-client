@@ -1,0 +1,27 @@
+
+XocXoc-Bat.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bat
+  rotate: false
+  xy: 2, 100
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+images/bat1
+  rotate: false
+  xy: 2, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+images/bat2
+  rotate: false
+  xy: 100, 137
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1

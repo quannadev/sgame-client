@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "XeDien-Thang-Coin",
+    "texture": "8a6243bd-531c-4525-8901-ba7d1e15c56e",
+    "atlas": "",
+    "rect": [
+      2,
+      143,
+      3850,
+      3839
+    ],
+    "offset": [
+      -121,
+      -14.5
+    ],
+    "originalSize": [
+      4096,
+      4096
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

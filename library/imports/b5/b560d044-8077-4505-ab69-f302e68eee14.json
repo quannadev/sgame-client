@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nanbai-text",
+    "texture": "e43d2f6f-8b51-4fac-92ba-fc2977e45a3c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      302,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      302,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "download-icon-big",
+    "texture": "63d299bd-190e-4a42-977a-c767631329b8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      216,
+      388
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      216,
+      388
+    ],
+    "capInsets": [
+      32,
+      35,
+      32,
+      41
+    ]
+  }
+}

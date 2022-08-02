@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "giftode-btn",
+    "texture": "6e8bdf2f-b7dc-47d9-962b-8d111a961d77",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

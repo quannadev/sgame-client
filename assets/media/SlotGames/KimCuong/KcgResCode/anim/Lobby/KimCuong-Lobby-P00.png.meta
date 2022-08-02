@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "020219ab-69c9-4036-8293-b060a5eb8e3a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "KimCuong-Lobby-P00": {
+      "ver": "1.0.4",
+      "uuid": "db3e9e7e-96bd-4df7-acb9-fcf24eb3e396",
+      "rawTextureUuid": "020219ab-69c9-4036-8293-b060a5eb8e3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -103.5,
+      "offsetY": 1.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 813,
+      "height": 503,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

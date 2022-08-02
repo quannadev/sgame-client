@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_account",
+    "texture": "0185a358-e3d2-4749-bf0d-c1ab7405a779",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      218,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      220,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

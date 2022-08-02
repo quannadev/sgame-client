@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rongho-thele",
+    "texture": "e2c43365-025e-42bb-87ce-60eaf3f85db8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1150,
+      445
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1150,
+      445
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

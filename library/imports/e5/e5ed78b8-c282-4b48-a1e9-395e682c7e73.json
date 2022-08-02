@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "soduhu-export",
+    "texture": "dab405f6-0db0-4454-b449-02ec0fbe876f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      308
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      275,
+      309
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

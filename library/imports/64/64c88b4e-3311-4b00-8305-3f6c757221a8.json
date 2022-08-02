@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "refunds",
+    "texture": "2e4c71c4-bff7-4078-a071-409074fbd456",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      210,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      212,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

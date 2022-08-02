@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b044ed4f-0598-4d84-ba43-e5b4fcdac30f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Vampire-Lobby-P100": {
+      "ver": "1.0.4",
+      "uuid": "d49e23f1-08b0-4140-ba99-af946c8a1f38",
+      "rawTextureUuid": "b044ed4f-0598-4d84-ba43-e5b4fcdac30f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -116.5,
+      "offsetY": 40,
+      "trimX": 4,
+      "trimY": 8,
+      "width": 271,
+      "height": 416,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

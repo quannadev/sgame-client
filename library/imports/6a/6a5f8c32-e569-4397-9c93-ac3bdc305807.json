@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vinhdanh-btn",
+    "texture": "b9dee809-4f1f-4bad-9b90-e429a62dcf88",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,587 @@
+
+Vampire-Character.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Vampire/images/nhanvat/PNG/1/Idle/01
+  rotate: false
+  xy: 2185, 1632
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/03
+  rotate: false
+  xy: 2254, 1090
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/05
+  rotate: true
+  xy: 2515, 1959
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/07
+  rotate: true
+  xy: 3057, 1959
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/09
+  rotate: true
+  xy: 2480, 1664
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/11
+  rotate: true
+  xy: 3022, 1664
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/13
+  rotate: false
+  xy: 2549, 1122
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/15
+  rotate: false
+  xy: 2844, 1122
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/17
+  rotate: false
+  xy: 3139, 1122
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/19
+  rotate: false
+  xy: 3434, 1122
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/21
+  rotate: false
+  xy: 3599, 1712
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/23
+  rotate: false
+  xy: 3729, 1170
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/25
+  rotate: true
+  xy: 2549, 827
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/27
+  rotate: true
+  xy: 3091, 827
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/29
+  rotate: true
+  xy: 2489, 532
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Idle/30
+  rotate: true
+  xy: 3031, 532
+  size: 293, 540
+  orig: 293, 540
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/01
+  rotate: true
+  xy: 2247, 2800
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/03
+  rotate: true
+  xy: 2793, 2800
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/05
+  rotate: true
+  xy: 3339, 2800
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/07
+  rotate: true
+  xy: 1658, 2485
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/09
+  rotate: true
+  xy: 1658, 2174
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/11
+  rotate: true
+  xy: 1639, 1863
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/13
+  rotate: true
+  xy: 1639, 1552
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/15
+  rotate: false
+  xy: 1632, 1006
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/17
+  rotate: false
+  xy: 1943, 1006
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/19
+  rotate: true
+  xy: 1632, 695
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/21
+  rotate: true
+  xy: 1632, 384
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/23
+  rotate: true
+  xy: 1589, 73
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/25
+  rotate: false
+  xy: 2178, 460
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/27
+  rotate: false
+  xy: 2204, 2250
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/29
+  rotate: false
+  xy: 2515, 2254
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/31
+  rotate: false
+  xy: 2826, 2254
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/33
+  rotate: false
+  xy: 3137, 2254
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/35
+  rotate: false
+  xy: 3448, 2254
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-1/36
+  rotate: false
+  xy: 3759, 2254
+  size: 309, 544
+  orig: 309, 544
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/01
+  rotate: false
+  xy: 2, 3496
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/03
+  rotate: false
+  xy: 2, 2924
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/05
+  rotate: false
+  xy: 336, 3496
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/07
+  rotate: false
+  xy: 2, 2352
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/09
+  rotate: false
+  xy: 336, 2924
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/11
+  rotate: false
+  xy: 670, 3496
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/13
+  rotate: false
+  xy: 2, 1780
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/15
+  rotate: false
+  xy: 336, 2352
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/17
+  rotate: false
+  xy: 670, 2924
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/19
+  rotate: false
+  xy: 1004, 3496
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/21
+  rotate: false
+  xy: 2, 1208
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/23
+  rotate: false
+  xy: 336, 1780
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/25
+  rotate: false
+  xy: 670, 2352
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/27
+  rotate: false
+  xy: 1004, 2924
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/29
+  rotate: false
+  xy: 1338, 3496
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-3/30
+  rotate: false
+  xy: 2, 636
+  size: 332, 570
+  orig: 332, 570
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/01
+  rotate: false
+  xy: 336, 1201
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/03
+  rotate: true
+  xy: 1672, 3741
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/05
+  rotate: false
+  xy: 2, 57
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/07
+  rotate: true
+  xy: 2251, 3741
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/09
+  rotate: true
+  xy: 2830, 3741
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/11
+  rotate: true
+  xy: 3409, 3741
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/13
+  rotate: false
+  xy: 670, 1773
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/15
+  rotate: false
+  xy: 1004, 2345
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/17
+  rotate: false
+  xy: 1338, 2917
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/19
+  rotate: false
+  xy: 336, 622
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/21
+  rotate: false
+  xy: 663, 1194
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/23
+  rotate: false
+  xy: 663, 615
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/25
+  rotate: false
+  xy: 997, 1766
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/27
+  rotate: false
+  xy: 990, 1187
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/29
+  rotate: false
+  xy: 990, 608
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-4/30
+  rotate: false
+  xy: 1331, 2338
+  size: 325, 577
+  orig: 325, 577
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/01
+  rotate: false
+  xy: 1324, 1756
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/03
+  rotate: false
+  xy: 1317, 1174
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/05
+  rotate: false
+  xy: 1317, 592
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/07
+  rotate: false
+  xy: 329, 40
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/09
+  rotate: false
+  xy: 644, 33
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/11
+  rotate: false
+  xy: 959, 26
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/13
+  rotate: false
+  xy: 1274, 10
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/15
+  rotate: true
+  xy: 1672, 3426
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/17
+  rotate: true
+  xy: 2254, 3426
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/19
+  rotate: true
+  xy: 2836, 3426
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/21
+  rotate: true
+  xy: 1665, 3111
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/23
+  rotate: true
+  xy: 2247, 3111
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/25
+  rotate: true
+  xy: 2829, 3111
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/27
+  rotate: true
+  xy: 3418, 3426
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/29
+  rotate: true
+  xy: 3411, 3111
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1
+Vampire/images/nhanvat/PNG/1/Quay-5/30
+  rotate: true
+  xy: 1665, 2796
+  size: 313, 580
+  orig: 313, 580
+  offset: 0, 0
+  index: -1

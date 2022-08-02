@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "footercloud",
+    "texture": "a714dac3-cc64-4b86-af86-ea7a1bf0c28b",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      2124,
+      497
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      2124,
+      498
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

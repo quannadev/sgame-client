@@ -1,0 +1,27 @@
+
+KimCuong-Lobby-P00.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kimcuong/Spine/Lobby/P0/1
+  rotate: false
+  xy: 2, 2
+  size: 322, 192
+  orig: 322, 192
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/Lobby/P0/2
+  rotate: false
+  xy: 654, 464
+  size: 162, 42
+  orig: 162, 42
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/Lobby/fx
+  rotate: false
+  xy: 2, 196
+  size: 650, 310
+  orig: 650, 310
+  offset: 0, 0
+  index: -1

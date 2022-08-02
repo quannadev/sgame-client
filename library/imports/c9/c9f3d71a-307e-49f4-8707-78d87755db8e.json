@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xem-btn",
+    "texture": "54ac3450-5c2a-4a62-9eac-81c8e1376e38",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

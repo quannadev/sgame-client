@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khung_red",
+    "texture": "fe8e4a23-8008-4670-8c24-c6a3e9bc3b85",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      92,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      92,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cong-btn",
+    "texture": "7c655c9e-61f2-49aa-9074-48b1d90ca0be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

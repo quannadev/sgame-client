@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "24_avatarchoi01",
+    "texture": "01a3d2b2-319c-463d-a25c-828f8dd04b78",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

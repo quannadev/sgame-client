@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "check",
+    "texture": "d2af87e4-105e-4791-a4b2-315412389ba4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

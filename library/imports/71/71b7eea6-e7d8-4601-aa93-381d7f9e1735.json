@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SindBad-Lobby",
+    "texture": "8a04fc1b-b88c-4389-b555-dc78387cc5ec",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2041,
+      2043
+    ],
+    "offset": [
+      -1.5,
+      0.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

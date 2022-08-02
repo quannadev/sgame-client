@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sieutoc-dung-btn",
+    "texture": "61296414-af76-4ed2-a2b1-ff66269ca1b7",
+    "atlas": "",
+    "rect": [
+      1,
+      5,
+      165,
+      70
+    ],
+    "offset": [
+      -0.5,
+      -2
+    ],
+    "originalSize": [
+      168,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

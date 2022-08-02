@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconzalo",
+    "texture": "d1b65d7b-d3e7-4f75-afd2-08e4470ea3a6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khung_trang",
+    "texture": "1e05f582-9ed5-4b65-842b-7b5865c25833",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      91
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      91
+    ],
+    "capInsets": [
+      24,
+      26,
+      28,
+      25
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-thang",
+    "texture": "ed501a5f-6853-493c-be0c-1b4071009279",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      270,
+      103
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      270,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

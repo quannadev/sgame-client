@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zeus-BonusGame",
+    "texture": "81b9e320-bc45-4ec1-9412-2052723efc2f",
+    "atlas": "",
+    "rect": [
+      2,
+      8,
+      989,
+      491
+    ],
+    "offset": [
+      -15.5,
+      2.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

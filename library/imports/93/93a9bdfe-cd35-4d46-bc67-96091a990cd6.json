@@ -1,0 +1,709 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Icon-Scacter",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "0ujbtZe9TpsJty/Mt6OGigTpGrQ",
+      "spine": "3.6.53",
+      "width": 0,
+      "height": 0,
+      "images": "./Ingame-Icon/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "Sacter/11_0",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_01",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_05",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_06",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_08",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_09",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_10",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_11",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_12",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_13",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_14",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_15",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_16",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_17",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_18",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_22",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_23",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_24",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_27",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_29",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_30",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_32",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_33",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_34",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_35",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_36",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_37",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_38",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_43",
+        "bone": "root"
+      },
+      {
+        "name": "Sacter/11_44",
+        "bone": "root"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Sacter/11_0": {
+          "Sacter/11_00": {
+            "x": 4.69,
+            "y": 28.07,
+            "width": 139,
+            "height": 163
+          }
+        },
+        "Sacter/11_01": {
+          "Sacter/11_01": {
+            "x": 10.46,
+            "y": 40.64,
+            "width": 139,
+            "height": 163
+          }
+        },
+        "Sacter/11_05": {
+          "Sacter/11_05": {
+            "x": 11.75,
+            "y": 28.77,
+            "width": 123,
+            "height": 143
+          }
+        },
+        "Sacter/11_06": {
+          "Sacter/11_06": {
+            "x": 11.38,
+            "y": 28.22,
+            "width": 120,
+            "height": 140
+          }
+        },
+        "Sacter/11_08": {
+          "Sacter/11_08": {
+            "x": 12.3,
+            "y": 33.28,
+            "width": 119,
+            "height": 120
+          }
+        },
+        "Sacter/11_09": {
+          "Sacter/11_09": {
+            "x": 10.92,
+            "y": 26.38,
+            "width": 125,
+            "height": 112
+          }
+        },
+        "Sacter/11_10": {
+          "Sacter/11_10": {
+            "x": 10.92,
+            "y": 21.78,
+            "width": 126,
+            "height": 109
+          }
+        },
+        "Sacter/11_11": {
+          "Sacter/11_11": {
+            "x": 8.16,
+            "y": 20.86,
+            "width": 124,
+            "height": 111
+          }
+        },
+        "Sacter/11_12": {
+          "Sacter/11_12": {
+            "x": 3.1,
+            "y": 19.02,
+            "width": 125,
+            "height": 112
+          }
+        },
+        "Sacter/11_13": {
+          "Sacter/11_13": {
+            "x": -0.12,
+            "y": 19.48,
+            "width": 126,
+            "height": 116
+          }
+        },
+        "Sacter/11_14": {
+          "Sacter/11_14": {
+            "x": 1.72,
+            "y": 24.54,
+            "width": 125,
+            "height": 133
+          }
+        },
+        "Sacter/11_15": {
+          "Sacter/11_15": {
+            "x": 6.32,
+            "y": 26.38,
+            "width": 134,
+            "height": 150
+          }
+        },
+        "Sacter/11_16": {
+          "Sacter/11_16": {
+            "x": 7.24,
+            "y": 22.24,
+            "width": 148,
+            "height": 170
+          }
+        },
+        "Sacter/11_17": {
+          "Sacter/11_17": {
+            "x": -0.12,
+            "y": 19.02,
+            "width": 168,
+            "height": 177
+          }
+        },
+        "Sacter/11_18": {
+          "Sacter/11_18": {
+            "x": -1.5,
+            "y": 19.02,
+            "width": 169,
+            "height": 179
+          }
+        },
+        "Sacter/11_22": {
+          "Sacter/11_22": {
+            "x": -5.18,
+            "y": 16.26,
+            "width": 172,
+            "height": 181
+          }
+        },
+        "Sacter/11_23": {
+          "Sacter/11_23": {
+            "x": -5.18,
+            "y": 17.64,
+            "width": 174,
+            "height": 181
+          }
+        },
+        "Sacter/11_24": {
+          "Sacter/11_24": {
+            "x": -6.56,
+            "y": 17.18,
+            "width": 175,
+            "height": 180
+          }
+        },
+        "Sacter/11_27": {
+          "Sacter/11_27": {
+            "x": -7.02,
+            "y": 17.64,
+            "width": 181,
+            "height": 177
+          }
+        },
+        "Sacter/11_29": {
+          "Sacter/11_29": {
+            "x": -7.48,
+            "y": 15.8,
+            "width": 181,
+            "height": 177
+          }
+        },
+        "Sacter/11_30": {
+          "Sacter/11_30": {
+            "x": -6.1,
+            "y": 14.88,
+            "width": 179,
+            "height": 175
+          }
+        },
+        "Sacter/11_32": {
+          "Sacter/11_32": {
+            "x": -7.02,
+            "y": 15.34,
+            "width": 174,
+            "height": 175
+          }
+        },
+        "Sacter/11_33": {
+          "Sacter/11_33": {
+            "x": -6.56,
+            "y": 15.34,
+            "width": 170,
+            "height": 175
+          }
+        },
+        "Sacter/11_34": {
+          "Sacter/11_34": {
+            "x": -9.32,
+            "y": 14.88,
+            "width": 164,
+            "height": 175
+          }
+        },
+        "Sacter/11_37": {
+          "Sacter/11_37": {
+            "x": -9.78,
+            "y": 15.8,
+            "width": 168,
+            "height": 175
+          }
+        },
+        "Sacter/11_43": {
+          "Sacter/11_43": {
+            "x": -8.4,
+            "y": 13.96,
+            "width": 164,
+            "height": 167
+          }
+        },
+        "Sacter/11_44": {
+          "Sacter/11_44": {
+            "x": -8.86,
+            "y": 14.42,
+            "width": 160,
+            "height": 167
+          }
+        }
+      }
+    },
+    "animations": {
+      "Idle": {
+        "slots": {
+          "Sacter/11_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Sacter/11_00"
+              },
+              {
+                "time": 0.0333,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_01": {
+            "attachment": [
+              {
+                "time": 0.0333,
+                "name": "Sacter/11_01"
+              },
+              {
+                "time": 0.0667,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_05": {
+            "attachment": [
+              {
+                "time": 0.0667,
+                "name": "Sacter/11_05"
+              },
+              {
+                "time": 0.1,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_06": {
+            "attachment": [
+              {
+                "time": 0.1,
+                "name": "Sacter/11_06"
+              },
+              {
+                "time": 0.1333,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_08": {
+            "attachment": [
+              {
+                "time": 0.1333,
+                "name": "Sacter/11_08"
+              },
+              {
+                "time": 0.1667,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_09": {
+            "attachment": [
+              {
+                "time": 0.1667,
+                "name": "Sacter/11_09"
+              },
+              {
+                "time": 0.2,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_10": {
+            "attachment": [
+              {
+                "time": 0.2,
+                "name": "Sacter/11_10"
+              },
+              {
+                "time": 0.2333,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_11": {
+            "attachment": [
+              {
+                "time": 0.2333,
+                "name": "Sacter/11_11"
+              },
+              {
+                "time": 0.2667,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_12": {
+            "attachment": [
+              {
+                "time": 0.2667,
+                "name": "Sacter/11_12"
+              },
+              {
+                "time": 0.3,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_13": {
+            "attachment": [
+              {
+                "time": 0.3,
+                "name": "Sacter/11_13"
+              },
+              {
+                "time": 0.3333,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_14": {
+            "attachment": [
+              {
+                "time": 0.3333,
+                "name": "Sacter/11_14"
+              },
+              {
+                "time": 0.3667,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_15": {
+            "attachment": [
+              {
+                "time": 0.3667,
+                "name": "Sacter/11_15"
+              },
+              {
+                "time": 0.4,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_16": {
+            "attachment": [
+              {
+                "time": 0.4,
+                "name": "Sacter/11_16"
+              },
+              {
+                "time": 0.4333,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_17": {
+            "attachment": [
+              {
+                "time": 0.4333,
+                "name": "Sacter/11_17"
+              },
+              {
+                "time": 0.4667,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_18": {
+            "attachment": [
+              {
+                "time": 0.4667,
+                "name": "Sacter/11_18"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_22": {
+            "attachment": [
+              {
+                "time": 0.5,
+                "name": "Sacter/11_22"
+              },
+              {
+                "time": 0.5333,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_23": {
+            "attachment": [
+              {
+                "time": 0.5333,
+                "name": "Sacter/11_23"
+              },
+              {
+                "time": 0.5667,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_24": {
+            "attachment": [
+              {
+                "time": 0.5667,
+                "name": "Sacter/11_24"
+              },
+              {
+                "time": 0.6,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_27": {
+            "attachment": [
+              {
+                "time": 0.6,
+                "name": "Sacter/11_27"
+              },
+              {
+                "time": 0.6333,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_29": {
+            "attachment": [
+              {
+                "time": 0.6333,
+                "name": "Sacter/11_29"
+              },
+              {
+                "time": 0.6667,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_30": {
+            "attachment": [
+              {
+                "time": 0.6667,
+                "name": "Sacter/11_30"
+              },
+              {
+                "time": 0.7,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_32": {
+            "attachment": [
+              {
+                "time": 0.7,
+                "name": "Sacter/11_32"
+              },
+              {
+                "time": 0.7333,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_33": {
+            "attachment": [
+              {
+                "time": 0.7333,
+                "name": "Sacter/11_33"
+              },
+              {
+                "time": 0.7667,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_34": {
+            "attachment": [
+              {
+                "time": 0.7667,
+                "name": "Sacter/11_34"
+              },
+              {
+                "time": 0.8,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_37": {
+            "attachment": [
+              {
+                "time": 0.8,
+                "name": "Sacter/11_37"
+              },
+              {
+                "time": 0.8333,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_43": {
+            "attachment": [
+              {
+                "time": 0.8333,
+                "name": "Sacter/11_43"
+              },
+              {
+                "time": 0.8667,
+                "name": null
+              }
+            ]
+          },
+          "Sacter/11_44": {
+            "attachment": [
+              {
+                "time": 0.8667,
+                "name": "Sacter/11_44"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "root": {
+            "shear": [
+              {
+                "time": 1.0667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nIcon-Scacter.png\r\nsize: 1024,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nSacter/11_00\r\n  rotate: false\r\n  xy: 341, 504\r\n  size: 139, 163\r\n  orig: 139, 163\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_01\r\n  rotate: false\r\n  xy: 341, 504\r\n  size: 139, 163\r\n  orig: 139, 163\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_05\r\n  rotate: false\r\n  xy: 618, 525\r\n  size: 123, 143\r\n  orig: 123, 143\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_06\r\n  rotate: true\r\n  xy: 179, 375\r\n  size: 120, 140\r\n  orig: 120, 140\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_08\r\n  rotate: false\r\n  xy: 173, 142\r\n  size: 119, 120\r\n  orig: 119, 120\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_09\r\n  rotate: false\r\n  xy: 897, 775\r\n  size: 125, 112\r\n  orig: 125, 112\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_10\r\n  rotate: false\r\n  xy: 176, 264\r\n  size: 126, 109\r\n  orig: 126, 109\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_11\r\n  rotate: true\r\n  xy: 321, 371\r\n  size: 124, 111\r\n  orig: 124, 111\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_12\r\n  rotate: false\r\n  xy: 130, 6\r\n  size: 125, 112\r\n  orig: 125, 112\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_13\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 126, 116\r\n  orig: 126, 116\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_14\r\n  rotate: false\r\n  xy: 897, 889\r\n  size: 125, 133\r\n  orig: 125, 133\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_15\r\n  rotate: false\r\n  xy: 482, 518\r\n  size: 134, 150\r\n  orig: 134, 150\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_16\r\n  rotate: false\r\n  xy: 698, 675\r\n  size: 148, 170\r\n  orig: 148, 170\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_17\r\n  rotate: true\r\n  xy: 718, 854\r\n  size: 168, 177\r\n  orig: 168, 177\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_18\r\n  rotate: false\r\n  xy: 2, 120\r\n  size: 169, 179\r\n  orig: 169, 179\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_22\r\n  rotate: false\r\n  xy: 2, 301\r\n  size: 172, 181\r\n  orig: 172, 181\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_23\r\n  rotate: false\r\n  xy: 185, 841\r\n  size: 174, 181\r\n  orig: 174, 181\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_24\r\n  rotate: false\r\n  xy: 2, 484\r\n  size: 175, 180\r\n  orig: 175, 180\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_27\r\n  rotate: false\r\n  xy: 2, 845\r\n  size: 181, 177\r\n  orig: 181, 177\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_29\r\n  rotate: false\r\n  xy: 2, 666\r\n  size: 181, 177\r\n  orig: 181, 177\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_30\r\n  rotate: false\r\n  xy: 361, 847\r\n  size: 179, 175\r\n  orig: 179, 175\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_32\r\n  rotate: false\r\n  xy: 542, 847\r\n  size: 174, 175\r\n  orig: 174, 175\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_33\r\n  rotate: true\r\n  xy: 185, 669\r\n  size: 170, 175\r\n  orig: 170, 175\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_34\r\n  rotate: false\r\n  xy: 532, 670\r\n  size: 164, 175\r\n  orig: 164, 175\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_37\r\n  rotate: false\r\n  xy: 362, 670\r\n  size: 168, 175\r\n  orig: 168, 175\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_43\r\n  rotate: true\r\n  xy: 848, 609\r\n  size: 164, 167\r\n  orig: 164, 167\r\n  offset: 0, 0\r\n  index: -1\r\nSacter/11_44\r\n  rotate: false\r\n  xy: 179, 497\r\n  size: 160, 167\r\n  orig: 160, 167\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "3d1f5ea3-0283-4046-be71-56722750e385"
+    }
+  ],
+  "textureNames": [
+    "Icon-Scacter.png"
+  ],
+  "scale": 1
+}

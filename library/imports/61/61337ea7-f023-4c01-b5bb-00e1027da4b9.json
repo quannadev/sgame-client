@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Player_Time_light",
+    "texture": "cc752cb0-51c8-4f9f-b72b-1da5750939e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khung_zoom",
+    "texture": "3feeaf5c-5b55-4472-8067-56d58366c385",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      271
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      274,
+      271
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

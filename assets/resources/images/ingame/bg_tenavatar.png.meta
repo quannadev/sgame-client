@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "eac548c9-ea20-4ecd-ae00-496c266c6e3b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 30,
+  "height": 28,
+  "platformSettings": {},
+  "subMetas": {
+    "bg_tenavatar": {
+      "ver": "1.0.4",
+      "uuid": "8cf48323-e7cc-41f6-8ba5-849668fb83cf",
+      "rawTextureUuid": "eac548c9-ea20-4ecd-ae00-496c266c6e3b",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 30,
+      "height": 28,
+      "rawWidth": 30,
+      "rawHeight": 28,
+      "borderTop": 10,
+      "borderBottom": 10,
+      "borderLeft": 10,
+      "borderRight": 10,
+      "subMetas": {}
+    }
+  }
+}

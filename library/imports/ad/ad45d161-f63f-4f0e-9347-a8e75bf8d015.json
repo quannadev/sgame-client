@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bich",
+    "texture": "9d00b5d4-fd20-4c3d-a424-4b5c31ecd96c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

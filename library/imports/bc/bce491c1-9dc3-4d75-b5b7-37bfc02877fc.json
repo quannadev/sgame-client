@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xanhla",
+    "texture": "2430aa62-3ae0-4717-9749-5985e9d8a072",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      85,
+      4
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      86,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

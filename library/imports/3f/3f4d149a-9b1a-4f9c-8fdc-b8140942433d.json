@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_phien_cuoc",
+    "texture": "4e96ecb6-7d1a-49a2-89f8-3f33deac5382",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      331,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      331,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

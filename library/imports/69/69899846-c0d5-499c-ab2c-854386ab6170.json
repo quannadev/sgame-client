@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chedorung-icon",
+    "texture": "5d300a5c-eb9e-4898-914c-c812a4a0bc49",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

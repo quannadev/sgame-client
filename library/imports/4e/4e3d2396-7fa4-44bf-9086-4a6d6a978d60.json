@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "them-btn",
+    "texture": "3476f7c8-bf20-4d82-9081-50ecb8f60749",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Olympus",
+    "texture": "0cf70cb2-be0c-43c5-acdf-0ba0edc580e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      162
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      162
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

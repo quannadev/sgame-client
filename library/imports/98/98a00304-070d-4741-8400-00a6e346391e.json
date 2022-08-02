@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text-dongdatcuoc",
+    "texture": "1a978862-ea43-408a-b6ca-fd77f4861a44",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

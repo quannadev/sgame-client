@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khay-pot",
+    "texture": "7b45ba59-316e-4173-a88f-1ffdaf1c8d28",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      37
+    ],
+    "capInsets": [
+      45,
+      0,
+      45,
+      0
+    ]
+  }
+}

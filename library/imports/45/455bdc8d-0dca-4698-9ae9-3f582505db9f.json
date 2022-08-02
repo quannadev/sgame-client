@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vampire-Lobby",
+    "texture": "06fdefc2-b798-4daf-b102-c087d11eae0d",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      1000,
+      1020
+    ],
+    "offset": [
+      -10,
+      -2
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

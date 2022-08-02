@@ -1,0 +1,20 @@
+
+Vampire-BonusGame-1-6.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bonusgame/item4a
+  rotate: false
+  xy: 2, 55
+  size: 268, 71
+  orig: 268, 71
+  offset: 0, 0
+  index: -1
+images/bonusgame/item4b
+  rotate: false
+  xy: 2, 2
+  size: 256, 51
+  orig: 256, 51
+  offset: 0, 0
+  index: -1

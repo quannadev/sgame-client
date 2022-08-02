@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f0950093-ad46-4962-aa67-0c02c8acb038",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 75,
+  "height": 94,
+  "platformSettings": {},
+  "subMetas": {
+    "danhbai-btn": {
+      "ver": "1.0.4",
+      "uuid": "f6f74fc4-30b4-47b5-bc4d-1d2dba3ef59d",
+      "rawTextureUuid": "f0950093-ad46-4962-aa67-0c02c8acb038",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 75,
+      "height": 94,
+      "rawWidth": 75,
+      "rawHeight": 94,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

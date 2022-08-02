@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon-Zeus-jackpot",
+    "texture": "a0f4b804-ed3b-46e2-9d5a-d37e1c6e98ca",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      331,
+      184
+    ],
+    "offset": [
+      -87.5,
+      33
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

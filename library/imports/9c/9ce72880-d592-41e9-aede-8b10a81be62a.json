@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_diemcai",
+    "texture": "35fcf7f0-2c3e-4bb8-bc84-cf75331041f1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

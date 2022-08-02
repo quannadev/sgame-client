@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vampire-ThangLon-Coin",
+    "texture": "94f5fcc1-c720-438e-8332-97b6b238b329",
+    "atlas": "",
+    "rect": [
+      2,
+      135,
+      1798,
+      1897
+    ],
+    "offset": [
+      -123,
+      -59.5
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

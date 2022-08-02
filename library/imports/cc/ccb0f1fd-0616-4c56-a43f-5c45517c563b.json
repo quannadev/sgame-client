@@ -1,0 +1,109 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "KimCuong-Lobby-P00",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "jKCUwAUjA+iX8glPPi/p5VDQEQM",
+      "spine": "3.6.53",
+      "width": 650,
+      "height": 310,
+      "images": "../../../"
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "Kimcuong/Spine/Lobby/fx",
+        "bone": "root",
+        "attachment": "Kimcuong/Spine/Lobby/fx"
+      },
+      {
+        "name": "Kimcuong/Spine/Lobby/P0/1",
+        "bone": "root",
+        "attachment": "Kimcuong/Spine/Lobby/P0/1"
+      },
+      {
+        "name": "Kimcuong/Spine/Lobby/P0/2",
+        "bone": "root",
+        "attachment": "Kimcuong/Spine/Lobby/P0/2"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Kimcuong/Spine/Lobby/P0/1": {
+          "Kimcuong/Spine/Lobby/P0/1": {
+            "x": -3.34,
+            "y": -0.09,
+            "width": 322,
+            "height": 192
+          }
+        },
+        "Kimcuong/Spine/Lobby/P0/2": {
+          "Kimcuong/Spine/Lobby/P0/2": {
+            "x": -3.53,
+            "y": 10.38,
+            "width": 162,
+            "height": 42
+          }
+        },
+        "Kimcuong/Spine/Lobby/fx": {
+          "Kimcuong/Spine/Lobby/fx": {
+            "x": -16.34,
+            "y": -18.39,
+            "width": 650,
+            "height": 310
+          }
+        }
+      }
+    },
+    "animations": {
+      "idle": {
+        "slots": {
+          "Kimcuong/Spine/Lobby/fx": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 5.8667,
+                "color": "ffffff4e",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 13.3333,
+                "color": "ffffffff"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nKimCuong-Lobby-P00.png\r\nsize: 1024,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nKimcuong/Spine/Lobby/P0/1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 322, 192\r\n  orig: 322, 192\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Spine/Lobby/P0/2\r\n  rotate: false\r\n  xy: 654, 464\r\n  size: 162, 42\r\n  orig: 162, 42\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Spine/Lobby/fx\r\n  rotate: false\r\n  xy: 2, 196\r\n  size: 650, 310\r\n  orig: 650, 310\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "020219ab-69c9-4036-8293-b060a5eb8e3a"
+    }
+  ],
+  "textureNames": [
+    "KimCuong-Lobby-P00.png"
+  ],
+  "scale": 1
+}

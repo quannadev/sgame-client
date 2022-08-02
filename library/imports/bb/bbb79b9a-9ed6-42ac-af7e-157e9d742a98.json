@@ -1,0 +1,308 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Vampire-ThangLon-Coin",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "sXtGaLBpviZgXVwnAwimXN/h49k",
+      "spine": "3.7.94",
+      "width": 0,
+      "height": 0,
+      "images": "C:/Users/Asus/Desktop/Project_X/Cong-2/Zeus/Ncoin/Ncoin-1/",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "Coin",
+        "parent": "root",
+        "length": 95.92,
+        "rotation": 0.11,
+        "x": -7.85,
+        "y": 3.78
+      }
+    ],
+    "slots": [
+      {
+        "name": "coin",
+        "bone": "Coin"
+      }
+    ],
+    "skins": {
+      "default": {
+        "coin": {
+          "N2": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N9": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N13": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N17": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N21": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N25": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N29": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N33": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N37": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N41": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N45": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N48": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N50": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N51": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N52": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N53": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N54": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N55": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N56": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N57": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N58": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N59": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N60": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N62": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N64": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N66": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          },
+          "N68": {
+            "rotation": -0.11,
+            "width": 1280,
+            "height": 720
+          }
+        }
+      }
+    },
+    "animations": {
+      "Idle": {
+        "slots": {
+          "coin": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "N2"
+              },
+              {
+                "time": 0.0333,
+                "name": "N9"
+              },
+              {
+                "time": 0.0667,
+                "name": "N13"
+              },
+              {
+                "time": 0.1,
+                "name": "N17"
+              },
+              {
+                "time": 0.1333,
+                "name": "N21"
+              },
+              {
+                "time": 0.1667,
+                "name": "N25"
+              },
+              {
+                "time": 0.2,
+                "name": "N29"
+              },
+              {
+                "time": 0.2333,
+                "name": "N33"
+              },
+              {
+                "time": 0.2667,
+                "name": "N37"
+              },
+              {
+                "time": 0.3,
+                "name": "N41"
+              },
+              {
+                "time": 0.3333,
+                "name": "N45"
+              },
+              {
+                "time": 0.3667,
+                "name": "N48"
+              },
+              {
+                "time": 0.4,
+                "name": "N50"
+              },
+              {
+                "time": 0.4333,
+                "name": "N51"
+              },
+              {
+                "time": 0.4667,
+                "name": "N52"
+              },
+              {
+                "time": 0.5,
+                "name": "N53"
+              },
+              {
+                "time": 0.5333,
+                "name": "N54"
+              },
+              {
+                "time": 0.5667,
+                "name": "N55"
+              },
+              {
+                "time": 0.6,
+                "name": "N56"
+              },
+              {
+                "time": 0.6333,
+                "name": "N57"
+              },
+              {
+                "time": 0.6667,
+                "name": "N58"
+              },
+              {
+                "time": 0.7,
+                "name": "N59"
+              },
+              {
+                "time": 0.7333,
+                "name": "N60"
+              },
+              {
+                "time": 0.7667,
+                "name": "N62"
+              },
+              {
+                "time": 0.8,
+                "name": "N64"
+              },
+              {
+                "time": 0.8333,
+                "name": "N66"
+              },
+              {
+                "time": 0.8667,
+                "name": "N68"
+              },
+              {
+                "time": 0.9,
+                "name": null
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nVampire-ThangLon-Coin.png\r\nsize: 2048,2048\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nN13\r\n  rotate: false\r\n  xy: 452, 1780\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN17\r\n  rotate: false\r\n  xy: 2, 1272\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN2\r\n  rotate: false\r\n  xy: 2, 1780\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN21\r\n  rotate: false\r\n  xy: 452, 1526\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN25\r\n  rotate: false\r\n  xy: 902, 1780\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN29\r\n  rotate: false\r\n  xy: 2, 1018\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN33\r\n  rotate: false\r\n  xy: 452, 1272\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN37\r\n  rotate: false\r\n  xy: 902, 1526\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN41\r\n  rotate: false\r\n  xy: 1352, 1780\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN45\r\n  rotate: false\r\n  xy: 2, 764\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN48\r\n  rotate: false\r\n  xy: 452, 1018\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN50\r\n  rotate: false\r\n  xy: 902, 1272\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN51\r\n  rotate: false\r\n  xy: 1352, 1526\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN52\r\n  rotate: false\r\n  xy: 2, 510\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN53\r\n  rotate: false\r\n  xy: 452, 764\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN54\r\n  rotate: false\r\n  xy: 902, 1018\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN55\r\n  rotate: false\r\n  xy: 1352, 1272\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN56\r\n  rotate: false\r\n  xy: 2, 256\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN57\r\n  rotate: false\r\n  xy: 452, 510\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN58\r\n  rotate: false\r\n  xy: 902, 764\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN59\r\n  rotate: false\r\n  xy: 1352, 1018\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN60\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN62\r\n  rotate: false\r\n  xy: 452, 256\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN64\r\n  rotate: false\r\n  xy: 902, 510\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN66\r\n  rotate: false\r\n  xy: 1352, 764\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN68\r\n  rotate: false\r\n  xy: 452, 2\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\nN9\r\n  rotate: false\r\n  xy: 2, 1526\r\n  size: 448, 252\r\n  orig: 448, 252\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "94f5fcc1-c720-438e-8332-97b6b238b329"
+    }
+  ],
+  "textureNames": [
+    "Vampire-ThangLon-Coin.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "x2 active",
+    "texture": "a98b7fba-65a7-4e22-afcd-f2e9873c0538",
+    "atlas": "",
+    "rect": [
+      6,
+      17,
+      110,
+      88
+    ],
+    "offset": [
+      -1.5,
+      4
+    ],
+    "originalSize": [
+      125,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vampire-Lobby-P100",
+    "texture": "b044ed4f-0598-4d84-ba43-e5b4fcdac30f",
+    "atlas": "",
+    "rect": [
+      4,
+      8,
+      271,
+      416
+    ],
+    "offset": [
+      -116.5,
+      40
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

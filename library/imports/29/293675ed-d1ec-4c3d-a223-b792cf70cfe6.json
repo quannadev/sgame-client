@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huongdans",
+    "texture": "510e9e3d-b51f-4080-b4f2-9e3bed1c9981",
+    "atlas": "",
+    "rect": [
+      13,
+      37,
+      1078,
+      659
+    ],
+    "offset": [
+      2,
+      53.5
+    ],
+    "originalSize": [
+      1100,
+      840
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

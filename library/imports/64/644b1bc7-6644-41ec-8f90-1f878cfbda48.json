@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_condoi_dat",
+    "texture": "368dd703-9d39-4cb0-b347-7407d4630e9c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      169,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      123
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

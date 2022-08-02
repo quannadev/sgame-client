@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "den",
+    "texture": "5643b7c1-b524-4d1b-b0e7-842456cc07e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      23,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      23,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

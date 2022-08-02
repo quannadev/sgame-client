@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c021ccf9-d0ff-436b-b89d-0f1cd5eda7d6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "Zeus-ThangLon-1": {
+      "ver": "1.0.4",
+      "uuid": "d3ea9532-c47f-4fe6-9f87-20d3e8bb364c",
+      "rawTextureUuid": "c021ccf9-d0ff-436b-b89d-0f1cd5eda7d6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -41.5,
+      "offsetY": 29,
+      "trimX": 2,
+      "trimY": 28,
+      "width": 1961,
+      "height": 1934,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

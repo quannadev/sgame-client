@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ic_nhacai",
+    "texture": "6c3050b2-f9cf-48aa-a5a1-7edcf3c4f38c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      17,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      17,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

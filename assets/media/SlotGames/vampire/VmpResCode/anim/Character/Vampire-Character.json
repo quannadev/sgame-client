@@ -1,0 +1,235 @@
+{
+"skeleton": { "hash": "B6qFR/Ah4UkOGtubNw//UtosH10", "spine": "3.7.94", "width": 0, "height": 0, "images": "../../../", "audio": "C:/Users/Asus/Desktop/Project_X/Cong-4/Slot-Game/Vampire/images/nhanvat" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Idle", "bone": "root" },
+	{ "name": "Quay-2", "bone": "root" },
+	{ "name": "Quay-3", "bone": "root" },
+	{ "name": "Quay-4", "bone": "root" },
+	{ "name": "Quay-5", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Idle": {
+			"Vampire/images/nhanvat/PNG/1/Idle/01": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/03": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/05": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/07": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/09": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/11": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/13": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/15": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/17": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/19": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/21": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/23": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/25": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/27": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/29": { "width": 345, "height": 635 },
+			"Vampire/images/nhanvat/PNG/1/Idle/30": { "width": 345, "height": 635 }
+		},
+		"Quay-2": {
+			"Vampire/images/nhanvat/PNG/1/Quay-1/01": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/03": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/05": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/07": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/09": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/11": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/13": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/15": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/17": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/19": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/21": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/23": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/25": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/27": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/29": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/31": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/33": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/35": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 },
+			"Vampire/images/nhanvat/PNG/1/Quay-1/36": { "x": 9.41, "y": 2.74, "width": 364, "height": 640 }
+		},
+		"Quay-3": {
+			"Vampire/images/nhanvat/PNG/1/Quay-3/01": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/03": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/05": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/07": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/09": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/11": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/13": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/15": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/17": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/19": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/21": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/23": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/25": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/27": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/29": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 },
+			"Vampire/images/nhanvat/PNG/1/Quay-3/30": { "x": 22.48, "y": 17.37, "width": 390, "height": 670 }
+		},
+		"Quay-4": {
+			"Vampire/images/nhanvat/PNG/1/Quay-4/01": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/03": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/05": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/07": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/09": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/11": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/13": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/15": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/17": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/19": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/21": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/23": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/25": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/27": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/29": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 },
+			"Vampire/images/nhanvat/PNG/1/Quay-4/30": { "x": 18.4, "y": 21.97, "width": 382, "height": 679 }
+		},
+		"Quay-5": {
+			"Vampire/images/nhanvat/PNG/1/Quay-5/01": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/03": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/05": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/07": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/09": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/11": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/13": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/15": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/17": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/19": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/21": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/23": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/25": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/27": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/29": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 },
+			"Vampire/images/nhanvat/PNG/1/Quay-5/30": { "x": 11.24, "y": 23.51, "width": 368, "height": 682 }
+		}
+	}
+},
+"animations": {
+	"Idle": {
+		"slots": {
+			"Idle": {
+				"attachment": [
+					{ "time": 0, "name": "Vampire/images/nhanvat/PNG/1/Idle/01" },
+					{ "time": 0.1333, "name": "Vampire/images/nhanvat/PNG/1/Idle/03" },
+					{ "time": 0.2667, "name": "Vampire/images/nhanvat/PNG/1/Idle/05" },
+					{ "time": 0.4, "name": "Vampire/images/nhanvat/PNG/1/Idle/07" },
+					{ "time": 0.5333, "name": "Vampire/images/nhanvat/PNG/1/Idle/09" },
+					{ "time": 0.6667, "name": "Vampire/images/nhanvat/PNG/1/Idle/11" },
+					{ "time": 0.8, "name": "Vampire/images/nhanvat/PNG/1/Idle/13" },
+					{ "time": 0.9333, "name": "Vampire/images/nhanvat/PNG/1/Idle/15" },
+					{ "time": 1.0667, "name": "Vampire/images/nhanvat/PNG/1/Idle/17" },
+					{ "time": 1.2, "name": "Vampire/images/nhanvat/PNG/1/Idle/19" },
+					{ "time": 1.3333, "name": "Vampire/images/nhanvat/PNG/1/Idle/21" },
+					{ "time": 1.4667, "name": "Vampire/images/nhanvat/PNG/1/Idle/23" },
+					{ "time": 1.6, "name": "Vampire/images/nhanvat/PNG/1/Idle/25" },
+					{ "time": 1.7333, "name": "Vampire/images/nhanvat/PNG/1/Idle/27" },
+					{ "time": 1.8667, "name": "Vampire/images/nhanvat/PNG/1/Idle/29" },
+					{ "time": 1.9333, "name": "Vampire/images/nhanvat/PNG/1/Idle/30" }
+				]
+			}
+		}
+	},
+	"Quay-2": {
+		"slots": {
+			"Quay-2": {
+				"attachment": [
+					{ "time": 0, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/01" },
+					{ "time": 0.0667, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/03" },
+					{ "time": 0.1333, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/05" },
+					{ "time": 0.2, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/07" },
+					{ "time": 0.2667, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/09" },
+					{ "time": 0.3333, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/11" },
+					{ "time": 0.4, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/13" },
+					{ "time": 0.4667, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/15" },
+					{ "time": 0.5333, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/17" },
+					{ "time": 0.6, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/19" },
+					{ "time": 0.6667, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/21" },
+					{ "time": 0.7333, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/23" },
+					{ "time": 0.8, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/25" },
+					{ "time": 0.8667, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/27" },
+					{ "time": 0.9333, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/29" },
+					{ "time": 1, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/31" },
+					{ "time": 1.0667, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/33" },
+					{ "time": 1.1333, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/35" },
+					{ "time": 1.1667, "name": "Vampire/images/nhanvat/PNG/1/Quay-1/36" }
+				]
+			}
+		}
+	},
+	"Quay-3": {
+		"slots": {
+			"Quay-3": {
+				"attachment": [
+					{ "time": 0, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/01" },
+					{ "time": 0.0667, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/03" },
+					{ "time": 0.1333, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/05" },
+					{ "time": 0.2, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/07" },
+					{ "time": 0.2667, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/09" },
+					{ "time": 0.3333, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/11" },
+					{ "time": 0.4, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/13" },
+					{ "time": 0.4667, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/15" },
+					{ "time": 0.5333, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/17" },
+					{ "time": 0.6, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/19" },
+					{ "time": 0.6667, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/21" },
+					{ "time": 0.7333, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/23" },
+					{ "time": 0.8, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/25" },
+					{ "time": 0.8667, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/27" },
+					{ "time": 0.9333, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/29" },
+					{ "time": 0.9667, "name": "Vampire/images/nhanvat/PNG/1/Quay-3/30" }
+				]
+			}
+		}
+	},
+	"Quay-4": {
+		"slots": {
+			"Quay-4": {
+				"attachment": [
+					{ "time": 0, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/01" },
+					{ "time": 0.0667, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/03" },
+					{ "time": 0.1333, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/05" },
+					{ "time": 0.2, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/07" },
+					{ "time": 0.2667, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/09" },
+					{ "time": 0.3333, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/11" },
+					{ "time": 0.4, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/13" },
+					{ "time": 0.4667, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/15" },
+					{ "time": 0.5333, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/17" },
+					{ "time": 0.6, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/19" },
+					{ "time": 0.6667, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/21" },
+					{ "time": 0.7333, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/23" },
+					{ "time": 0.8, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/25" },
+					{ "time": 0.8667, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/27" },
+					{ "time": 0.9333, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/29" },
+					{ "time": 0.9667, "name": "Vampire/images/nhanvat/PNG/1/Quay-4/30" }
+				]
+			}
+		}
+	},
+	"Thang": {
+		"slots": {
+			"Quay-5": {
+				"attachment": [
+					{ "time": 0, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/01" },
+					{ "time": 0.0667, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/03" },
+					{ "time": 0.1333, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/05" },
+					{ "time": 0.2, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/07" },
+					{ "time": 0.2667, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/09" },
+					{ "time": 0.3333, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/11" },
+					{ "time": 0.4, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/13" },
+					{ "time": 0.4667, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/15" },
+					{ "time": 0.5333, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/17" },
+					{ "time": 0.6, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/19" },
+					{ "time": 0.6667, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/21" },
+					{ "time": 0.7333, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/23" },
+					{ "time": 0.8, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/25" },
+					{ "time": 0.8667, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/27" },
+					{ "time": 0.9333, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/29" },
+					{ "time": 0.9667, "name": "Vampire/images/nhanvat/PNG/1/Quay-5/30" }
+				]
+			}
+		}
+	}
+}
+}

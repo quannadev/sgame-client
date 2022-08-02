@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "khung_totalbet",
+    "texture": "784bfa36-7db4-457d-8b69-ca8da35d7beb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      563,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      563,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

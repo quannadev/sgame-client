@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scroll-bet",
+    "texture": "a0bf77a3-9f0f-4f80-8e5a-3f4ece1f998d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      94,
+      390
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      390
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

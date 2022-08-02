@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tánloc",
+    "texture": "ecddee88-0365-4bd8-b46f-dd26a763e494",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

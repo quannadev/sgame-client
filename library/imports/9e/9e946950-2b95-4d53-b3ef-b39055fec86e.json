@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dotXiu",
+    "texture": "ba956784-b522-4f6c-8210-bfd624f8166c",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      33,
+      32
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      35,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

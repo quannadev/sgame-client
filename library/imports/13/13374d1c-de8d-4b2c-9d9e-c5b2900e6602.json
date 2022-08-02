@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vampire4",
+    "texture": "23489701-3ced-4076-83e6-b89804978a7a",
+    "atlas": "",
+    "rect": [
+      19,
+      4,
+      1903,
+      1826
+    ],
+    "offset": [
+      -53.5,
+      107
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

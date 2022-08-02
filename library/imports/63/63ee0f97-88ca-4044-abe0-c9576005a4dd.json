@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "latbai-btn",
+    "texture": "c2a39235-8874-469e-8e1a-188a962fb3f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

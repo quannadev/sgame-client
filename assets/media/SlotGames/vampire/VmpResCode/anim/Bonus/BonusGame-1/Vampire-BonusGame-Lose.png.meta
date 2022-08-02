@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d9025085-5b2b-405b-aa62-cf674de66e50",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "Vampire-BonusGame-Lose": {
+      "ver": "1.0.4",
+      "uuid": "6badd047-acd5-4741-8253-b243dd534369",
+      "rawTextureUuid": "d9025085-5b2b-405b-aa62-cf674de66e50",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 121,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 2044,
+      "height": 1802,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

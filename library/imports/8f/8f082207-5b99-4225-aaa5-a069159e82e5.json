@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thanhmenu2",
+    "texture": "47ab38c3-a17d-41e6-b8a8-6ad213b3338b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1020,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1020,
+      1
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

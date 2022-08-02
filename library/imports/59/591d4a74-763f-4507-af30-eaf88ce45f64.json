@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Q-hu",
+    "texture": "36f8ede9-4b04-4c58-ac15-8210423faa5c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

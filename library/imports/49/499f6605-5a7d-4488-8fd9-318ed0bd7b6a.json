@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quaynhanh-btn",
+    "texture": "bbc1bcc4-7182-4964-8bd6-f1ef40cba547",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      160,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

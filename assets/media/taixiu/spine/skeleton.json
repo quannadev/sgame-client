@@ -1,0 +1,103 @@
+{
+"skeleton": { "hash": "bUzgv+cUMmNLUNoGIECJ7eWl3Qc", "spine": "3.6.53", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 133.05, "scaleX": -1.19, "scaleY": 1.19 }
+],
+"slots": [
+	{ "name": "fx-3", "bone": "bone" }
+],
+"skins": {
+	"default": {
+		"fx-3": {
+			"fx-34-2/fx-34-2_0000s_0000_Main_35": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0001_Main_34": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0002_Main_33": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0003_Main_32": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0004_Main_31": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0005_Main_30": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0006_Main_29": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0007_Main_28": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0008_Main_27": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0009_Main_26": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0010_Main_25": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0011_Main_24": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0012_Main_23": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0013_Main_22": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0014_Main_21": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0015_Main_20": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0016_Main_19": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0017_Main_18": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0018_Main_17": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0019_Main_16": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0020_Main_15": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0021_Main_14": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0022_Main_13": { "width": 256, "height": 203 },
+			"fx-34-2/fx-34-2_0000s_0023_Main_12": { "width": 256, "height": 203 }
+		}
+	}
+},
+"animations": {
+	"Idle": {
+		"slots": {
+			"fx-3": {
+				"color": [
+					{
+						"time": 0.8333,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.4667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "fx-34-2/fx-34-2_0000s_0023_Main_12" },
+					{ "time": 0.2667, "name": "fx-34-2/fx-34-2_0000s_0022_Main_13" },
+					{ "time": 0.3, "name": "fx-34-2/fx-34-2_0000s_0021_Main_14" },
+					{ "time": 0.3333, "name": "fx-34-2/fx-34-2_0000s_0020_Main_15" },
+					{ "time": 0.3667, "name": "fx-34-2/fx-34-2_0000s_0019_Main_16" },
+					{ "time": 0.4, "name": "fx-34-2/fx-34-2_0000s_0018_Main_17" },
+					{ "time": 0.4333, "name": "fx-34-2/fx-34-2_0000s_0017_Main_18" },
+					{ "time": 0.4667, "name": "fx-34-2/fx-34-2_0000s_0016_Main_19" },
+					{ "time": 0.5, "name": "fx-34-2/fx-34-2_0000s_0015_Main_20" },
+					{ "time": 0.5333, "name": "fx-34-2/fx-34-2_0000s_0014_Main_21" },
+					{ "time": 0.5667, "name": "fx-34-2/fx-34-2_0000s_0013_Main_22" },
+					{ "time": 0.6, "name": "fx-34-2/fx-34-2_0000s_0012_Main_23" },
+					{ "time": 0.6333, "name": "fx-34-2/fx-34-2_0000s_0011_Main_24" },
+					{ "time": 0.6667, "name": "fx-34-2/fx-34-2_0000s_0010_Main_25" },
+					{ "time": 0.7, "name": "fx-34-2/fx-34-2_0000s_0009_Main_26" },
+					{ "time": 0.7333, "name": "fx-34-2/fx-34-2_0000s_0008_Main_27" },
+					{ "time": 0.7667, "name": "fx-34-2/fx-34-2_0000s_0007_Main_28" },
+					{ "time": 0.8, "name": "fx-34-2/fx-34-2_0000s_0006_Main_29" },
+					{ "time": 0.8333, "name": "fx-34-2/fx-34-2_0000s_0005_Main_30" },
+					{ "time": 0.8667, "name": "fx-34-2/fx-34-2_0000s_0004_Main_31" },
+					{ "time": 0.9, "name": "fx-34-2/fx-34-2_0000s_0003_Main_32" },
+					{ "time": 0.9333, "name": "fx-34-2/fx-34-2_0000s_0002_Main_33" },
+					{ "time": 0.9667, "name": "fx-34-2/fx-34-2_0000s_0001_Main_34" },
+					{ "time": 1, "name": "fx-34-2/fx-34-2_0000s_0000_Main_35" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1.4667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.4667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.4667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.4667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

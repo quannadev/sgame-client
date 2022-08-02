@@ -1,0 +1,160 @@
+
+Icon-Bonus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ingame-Icon/Bonus/12_00
+  rotate: false
+  xy: 360, 545
+  size: 164, 168
+  orig: 164, 168
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_01
+  rotate: false
+  xy: 360, 545
+  size: 164, 168
+  orig: 164, 168
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_03
+  rotate: false
+  xy: 845, 557
+  size: 164, 166
+  orig: 164, 166
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_04
+  rotate: true
+  xy: 665, 385
+  size: 164, 163
+  orig: 164, 163
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_06
+  rotate: false
+  xy: 665, 233
+  size: 164, 150
+  orig: 164, 150
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_07
+  rotate: true
+  xy: 830, 389
+  size: 164, 149
+  orig: 164, 149
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_14
+  rotate: true
+  xy: 693, 555
+  size: 167, 150
+  orig: 167, 150
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_15
+  rotate: true
+  xy: 831, 224
+  size: 163, 150
+  orig: 163, 150
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_17
+  rotate: false
+  xy: 526, 551
+  size: 165, 168
+  orig: 165, 168
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_21
+  rotate: true
+  xy: 174, 367
+  size: 172, 163
+  orig: 172, 163
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_22
+  rotate: true
+  xy: 2, 2
+  size: 175, 162
+  orig: 175, 162
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_24
+  rotate: true
+  xy: 2, 179
+  size: 179, 166
+  orig: 179, 166
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_25
+  rotate: false
+  xy: 2, 715
+  size: 179, 172
+  orig: 179, 172
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_26
+  rotate: false
+  xy: 2, 541
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_31
+  rotate: false
+  xy: 183, 715
+  size: 177, 172
+  orig: 177, 172
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_33
+  rotate: true
+  xy: 2, 360
+  size: 179, 170
+  orig: 179, 170
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_35
+  rotate: false
+  xy: 182, 545
+  size: 176, 168
+  orig: 176, 168
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_38
+  rotate: false
+  xy: 362, 721
+  size: 180, 166
+  orig: 180, 166
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_41
+  rotate: false
+  xy: 724, 725
+  size: 174, 162
+  orig: 174, 162
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_46
+  rotate: true
+  xy: 339, 372
+  size: 171, 161
+  orig: 171, 161
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_47
+  rotate: true
+  xy: 502, 372
+  size: 171, 161
+  orig: 171, 161
+  offset: 0, 0
+  index: -1
+Ingame-Icon/Bonus/12_mb
+  rotate: true
+  xy: 544, 724
+  size: 163, 178
+  orig: 163, 178
+  offset: 0, 0
+  index: -1

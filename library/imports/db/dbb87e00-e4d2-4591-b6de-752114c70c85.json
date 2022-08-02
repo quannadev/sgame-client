@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgso",
+    "texture": "14f62874-5f88-4bdc-af70-be6c2b167495",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      101,
+      66
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      105,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

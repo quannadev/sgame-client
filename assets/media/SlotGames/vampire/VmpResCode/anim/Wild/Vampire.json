@@ -1,0 +1,262 @@
+{
+"skeleton": { "hash": "ZtYDM0UQfopjvjdG1F5wUZqKvEc", "spine": "3.6.52", "width": 368, "height": 682, "images": "../../../" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "thang-2", "parent": "root", "length": 175.2, "rotation": -0.32, "x": 9.22, "y": 20.54 },
+	{ "name": "thang-3", "parent": "root", "length": 175.2, "rotation": -0.32, "x": 0.41, "y": -0.01 },
+	{ "name": "thang-4", "parent": "root", "length": 175.2, "rotation": -0.32, "x": 8.54, "y": -0.2 }
+],
+"slots": [
+	{ "name": "thang-2", "bone": "thang-2", "attachment": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_01" },
+	{ "name": "thang-3", "bone": "thang-3" },
+	{ "name": "thang-4", "bone": "thang-4" }
+],
+"skins": {
+	"default": {
+		"thang-2": {
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_01": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_02": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_03": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_04": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_05": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_06": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_07": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_08": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_09": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_10": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_11": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_12": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_13": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_14": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_15": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_16": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_17": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_18": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_19": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_20": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_21": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_22": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_23": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_24": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_25": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_26": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_27": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_28": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_29": { "rotation": 0.32, "width": 368, "height": 682 },
+			"slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_30": { "rotation": 0.32, "width": 368, "height": 682 }
+		},
+		"thang-3": {
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_01": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_02": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_03": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_04": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_05": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_06": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_07": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_08": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_09": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_10": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_11": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_12": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_13": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_14": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_15": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_16": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_17": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_18": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_19": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_20": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_21": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_22": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_23": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_24": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_25": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_26": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_27": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_28": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_29": { "width": 350, "height": 640 },
+			"slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_30": { "width": 350, "height": 640 }
+		},
+		"thang-4": {
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_01": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_02": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_03": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_04": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_05": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_06": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_07": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_08": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_09": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_10": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_11": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_12": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_13": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_14": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_15": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_16": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_17": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_18": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_19": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_20": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_21": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_22": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_23": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_24": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_25": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_26": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_27": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_28": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_29": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_30": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_31": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_32": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_33": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_34": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_35": { "rotation": 0.32, "width": 364, "height": 640 },
+			"slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_36": { "rotation": 0.32, "width": 364, "height": 640 }
+		}
+	}
+},
+"animations": {
+	"Will-1": {
+		"slots": {
+			"thang-2": {
+				"attachment": [
+					{ "time": 0, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_01" },
+					{ "time": 0.0333, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_02" },
+					{ "time": 0.0667, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_03" },
+					{ "time": 0.1, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_04" },
+					{ "time": 0.1333, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_05" },
+					{ "time": 0.1667, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_06" },
+					{ "time": 0.2, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_07" },
+					{ "time": 0.2333, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_08" },
+					{ "time": 0.2667, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_09" },
+					{ "time": 0.3, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_10" },
+					{ "time": 0.3333, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_11" },
+					{ "time": 0.3667, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_12" },
+					{ "time": 0.4, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_13" },
+					{ "time": 0.4333, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_14" },
+					{ "time": 0.4667, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_15" },
+					{ "time": 0.5, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_16" },
+					{ "time": 0.5333, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_17" },
+					{ "time": 0.5667, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_18" },
+					{ "time": 0.6, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_19" },
+					{ "time": 0.6333, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_20" },
+					{ "time": 0.6667, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_21" },
+					{ "time": 0.7, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_22" },
+					{ "time": 0.7333, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_23" },
+					{ "time": 0.7667, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_24" },
+					{ "time": 0.8, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_25" },
+					{ "time": 0.8333, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_26" },
+					{ "time": 0.8667, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_27" },
+					{ "time": 0.9, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_28" },
+					{ "time": 0.9333, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_29" },
+					{ "time": 0.9667, "name": "slots/Vampire/images/nhanvat/1/images/nhanvat-chuyendong9_30" }
+				]
+			},
+			"thang-4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"Will-2": {
+		"slots": {
+			"thang-2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"thang-3": {
+				"attachment": [
+					{ "time": 0, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_01" },
+					{ "time": 0.0333, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_02" },
+					{ "time": 0.0667, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_03" },
+					{ "time": 0.1, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_04" },
+					{ "time": 0.1333, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_05" },
+					{ "time": 0.1667, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_06" },
+					{ "time": 0.2, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_07" },
+					{ "time": 0.2333, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_08" },
+					{ "time": 0.2667, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_09" },
+					{ "time": 0.3, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_10" },
+					{ "time": 0.3333, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_11" },
+					{ "time": 0.3667, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_12" },
+					{ "time": 0.4, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_13" },
+					{ "time": 0.4333, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_14" },
+					{ "time": 0.4667, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_15" },
+					{ "time": 0.5, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_16" },
+					{ "time": 0.5333, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_17" },
+					{ "time": 0.5667, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_18" },
+					{ "time": 0.6, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_19" },
+					{ "time": 0.6333, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_20" },
+					{ "time": 0.6667, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_21" },
+					{ "time": 0.7, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_22" },
+					{ "time": 0.7333, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_23" },
+					{ "time": 0.7667, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_24" },
+					{ "time": 0.8, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_25" },
+					{ "time": 0.8333, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_26" },
+					{ "time": 0.8667, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_27" },
+					{ "time": 0.9, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_28" },
+					{ "time": 0.9333, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_29" },
+					{ "time": 0.9667, "name": "slots/Vampire/images/nhanvat/2/images/nhanvat-chuyendong4_30" }
+				]
+			},
+			"thang-4": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	},
+	"Will-3": {
+		"slots": {
+			"thang-2": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"thang-4": {
+				"attachment": [
+					{ "time": 0, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_01" },
+					{ "time": 0.0333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_02" },
+					{ "time": 0.0667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_03" },
+					{ "time": 0.1, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_04" },
+					{ "time": 0.1333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_05" },
+					{ "time": 0.1667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_06" },
+					{ "time": 0.2, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_07" },
+					{ "time": 0.2333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_08" },
+					{ "time": 0.2667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_09" },
+					{ "time": 0.3, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_10" },
+					{ "time": 0.3333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_11" },
+					{ "time": 0.3667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_12" },
+					{ "time": 0.4, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_13" },
+					{ "time": 0.4333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_14" },
+					{ "time": 0.4667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_15" },
+					{ "time": 0.5, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_16" },
+					{ "time": 0.5333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_17" },
+					{ "time": 0.5667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_18" },
+					{ "time": 0.6, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_19" },
+					{ "time": 0.6333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_20" },
+					{ "time": 0.6667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_21" },
+					{ "time": 0.7, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_22" },
+					{ "time": 0.7333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_23" },
+					{ "time": 0.7667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_24" },
+					{ "time": 0.8, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_25" },
+					{ "time": 0.8333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_26" },
+					{ "time": 0.8667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_27" },
+					{ "time": 0.9, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_28" },
+					{ "time": 0.9333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_29" },
+					{ "time": 0.9667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_30" },
+					{ "time": 1, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_31" },
+					{ "time": 1.0333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_32" },
+					{ "time": 1.0667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_33" },
+					{ "time": 1.1, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_34" },
+					{ "time": 1.1333, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_35" },
+					{ "time": 1.1667, "name": "slots/Vampire/images/nhanvat/4/images/nhanvat-chuyendong5_36" }
+				]
+			}
+		}
+	}
+}
+}

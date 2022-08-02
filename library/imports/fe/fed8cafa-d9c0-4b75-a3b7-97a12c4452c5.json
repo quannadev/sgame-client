@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zeus-NoHu-1",
+    "texture": "7be47b3e-4c17-4840-b27b-898e3e5cebac",
+    "atlas": "",
+    "rect": [
+      1,
+      104,
+      3851,
+      3879
+    ],
+    "offset": [
+      -121.5,
+      4.5
+    ],
+    "originalSize": [
+      4096,
+      4096
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

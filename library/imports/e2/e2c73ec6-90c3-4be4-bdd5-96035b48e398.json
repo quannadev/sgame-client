@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button-sieutoc-act",
+    "texture": "d1c816aa-b9a2-4f41-a74a-ef83fa2f99d9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sukien-X6-Zeus",
+    "texture": "da686dfb-3da2-49b8-aa88-2c765b33fb44",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      443,
+      452
+    ],
+    "offset": [
+      -31.5,
+      26
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ngonnen",
+    "texture": "0fce7e1f-ff35-4dbe-baff-145a972347d9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1006,
+      263
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      1007,
+      263
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

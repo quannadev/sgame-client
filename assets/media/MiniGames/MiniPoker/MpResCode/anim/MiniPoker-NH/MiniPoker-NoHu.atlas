@@ -1,0 +1,76 @@
+
+MiniPoker-NoHu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MiniPoker/Coin/1
+  rotate: false
+  xy: 427, 405
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+MiniPoker/Coin/2
+  rotate: false
+  xy: 427, 451
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+MiniPoker/Coin/3
+  rotate: false
+  xy: 304, 212
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+MiniPoker/Coin/4
+  rotate: false
+  xy: 304, 257
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+MiniPoker/Coin/5
+  rotate: true
+  xy: 479, 452
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+MiniPoker/Coin/6
+  rotate: false
+  xy: 427, 366
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+MiniPoker/Coin/7
+  rotate: false
+  xy: 356, 264
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+MiniPoker/Coin/8
+  rotate: false
+  xy: 304, 160
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+MiniPoker/Minipoker/images/nohu-light
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+MiniPoker/Minipoker/images/nohu-text
+  rotate: false
+  xy: 2, 304
+  size: 423, 198
+  orig: 423, 198
+  offset: 0, 0
+  index: -1

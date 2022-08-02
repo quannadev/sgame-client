@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8a6243bd-531c-4525-8901-ba7d1e15c56e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 4096,
+  "height": 4096,
+  "platformSettings": {},
+  "subMetas": {
+    "XeDien-Thang-Coin": {
+      "ver": "1.0.4",
+      "uuid": "62c3186a-baaa-4f38-9163-c1f92dc455b5",
+      "rawTextureUuid": "8a6243bd-531c-4525-8901-ba7d1e15c56e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -121,
+      "offsetY": -14.5,
+      "trimX": 2,
+      "trimY": 143,
+      "width": 3850,
+      "height": 3839,
+      "rawWidth": 4096,
+      "rawHeight": 4096,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,27 @@
+
+Icon-Bonus.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spine/Ingame-Icon/Bonus/1
+  rotate: false
+  xy: 2, 84
+  size: 175, 147
+  orig: 175, 147
+  offset: 0, 0
+  index: -1
+Spine/Ingame-Icon/Bonus/2
+  rotate: false
+  xy: 2, 2
+  size: 175, 80
+  orig: 175, 80
+  offset: 0, 0
+  index: -1
+Spine/Ingame-Icon/light
+  rotate: true
+  xy: 179, 31
+  size: 200, 46
+  orig: 200, 46
+  offset: 0, 0
+  index: -1

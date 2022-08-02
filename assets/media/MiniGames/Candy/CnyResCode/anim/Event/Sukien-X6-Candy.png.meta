@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e06c4c26-a51e-4a7f-b86a-15f14e9e1c27",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Sukien-X6-Candy": {
+      "ver": "1.0.4",
+      "uuid": "3c2a67e5-41e9-4383-995c-a14ed145ed9f",
+      "rawTextureUuid": "e06c4c26-a51e-4a7f-b86a-15f14e9e1c27",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

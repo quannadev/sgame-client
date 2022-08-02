@@ -1,0 +1,693 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "BonusGame-X2-X3-X4",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "MixmDh9okwN7C91t8vhCmYVj5FA",
+      "spine": "3.6.53",
+      "width": 436,
+      "height": 426,
+      "images": "../"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "fx",
+        "parent": "root",
+        "length": 22.6,
+        "x": 3.14,
+        "y": 23.07,
+        "scaleX": 2.036,
+        "scaleY": 2.036
+      },
+      {
+        "name": "item",
+        "parent": "root",
+        "length": 106.55
+      }
+    ],
+    "slots": [
+      {
+        "name": "Bonus game/light",
+        "bone": "root",
+        "attachment": "Bonus game/light"
+      },
+      {
+        "name": "item",
+        "bone": "item",
+        "attachment": "Item"
+      },
+      {
+        "name": "fx",
+        "bone": "fx"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Bonus game/light": {
+          "Bonus game/light": {
+            "x": -3.41,
+            "y": 6.24,
+            "width": 436,
+            "height": 426
+          }
+        },
+        "fx": {
+          "fx/fx-24-2/fx-24-2_0000_17": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0001_16": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0002_15": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0003_14": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0004_13": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0005_12": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0006_11": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0007_10": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0008_9": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0009_8": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0010_7": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0011_6": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0012_5": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0013_4": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0014_3": {
+            "width": 200,
+            "height": 167
+          },
+          "fx/fx-24-2/fx-24-2_0016_1": {
+            "width": 200,
+            "height": 167
+          }
+        }
+      },
+      "Item-1": {
+        "item": {
+          "Item": {
+            "name": "Bonus game/item1",
+            "width": 251,
+            "height": 251
+          }
+        }
+      },
+      "Item-2": {
+        "item": {
+          "Item": {
+            "name": "Bonus game/item2",
+            "width": 251,
+            "height": 251
+          }
+        }
+      },
+      "Item-3": {
+        "item": {
+          "Item": {
+            "name": "Bonus game/item3",
+            "width": 251,
+            "height": 251
+          }
+        }
+      }
+    },
+    "animations": {
+      "Attack": {
+        "slots": {
+          "Bonus game/light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5333,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.8667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2333,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.8333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "fx": {
+            "attachment": [
+              {
+                "time": 0.4667,
+                "name": "fx/fx-24-2/fx-24-2_0016_1"
+              },
+              {
+                "time": 0.5,
+                "name": "fx/fx-24-2/fx-24-2_0014_3"
+              },
+              {
+                "time": 0.5333,
+                "name": "fx/fx-24-2/fx-24-2_0013_4"
+              },
+              {
+                "time": 0.6,
+                "name": "fx/fx-24-2/fx-24-2_0012_5"
+              },
+              {
+                "time": 0.6667,
+                "name": "fx/fx-24-2/fx-24-2_0011_6"
+              },
+              {
+                "time": 0.7333,
+                "name": "fx/fx-24-2/fx-24-2_0010_7"
+              },
+              {
+                "time": 0.8,
+                "name": "fx/fx-24-2/fx-24-2_0009_8"
+              },
+              {
+                "time": 0.8667,
+                "name": "fx/fx-24-2/fx-24-2_0008_9"
+              },
+              {
+                "time": 0.9333,
+                "name": "fx/fx-24-2/fx-24-2_0007_10"
+              },
+              {
+                "time": 1,
+                "name": "fx/fx-24-2/fx-24-2_0006_11"
+              },
+              {
+                "time": 1.0667,
+                "name": "fx/fx-24-2/fx-24-2_0005_12"
+              },
+              {
+                "time": 1.1333,
+                "name": "fx/fx-24-2/fx-24-2_0004_13"
+              },
+              {
+                "time": 1.2,
+                "name": "fx/fx-24-2/fx-24-2_0003_14"
+              },
+              {
+                "time": 1.2667,
+                "name": "fx/fx-24-2/fx-24-2_0002_15"
+              },
+              {
+                "time": 1.3333,
+                "name": "fx/fx-24-2/fx-24-2_0001_16"
+              },
+              {
+                "time": 1.4,
+                "name": "fx/fx-24-2/fx-24-2_0000_17"
+              }
+            ]
+          },
+          "item": {
+            "color": [
+              {
+                "time": 0.4667,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "item": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": -1.36,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 0.0333,
+                "angle": 1.77,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.0667,
+                "angle": -1.36,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 0.1,
+                "angle": 1.77,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1333,
+                "angle": -1.36,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 0.1667,
+                "angle": 1.77,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "angle": -1.36,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 0.2333,
+                "angle": 1.77,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2667,
+                "angle": -1.36,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 0.3,
+                "angle": 1.77,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3333,
+                "angle": -1.36,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 0.3667,
+                "angle": 1.77,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4,
+                "angle": -1.36,
+                "curve": [
+                  0.25,
+                  0,
+                  0.625,
+                  0.5
+                ]
+              },
+              {
+                "time": 0.4333,
+                "angle": 1.77,
+                "curve": [
+                  0.375,
+                  0.5,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4667,
+                "angle": -1.36
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.0667,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2667,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4667,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.0667,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2667,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4667,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.0667,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2667,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      },
+      "Idle": {
+        "slots": {
+          "Bonus game/light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "root": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "item": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "fx": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nBonusGame-X2-X3-X4.png\r\nsize: 1024,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nBonus game/item1\r\n  rotate: false\r\n  xy: 2, 335\r\n  size: 251, 251\r\n  orig: 251, 251\r\n  offset: 0, 0\r\n  index: -1\r\nBonus game/item2\r\n  rotate: false\r\n  xy: 440, 763\r\n  size: 251, 251\r\n  orig: 251, 251\r\n  offset: 0, 0\r\n  index: -1\r\nBonus game/item3\r\n  rotate: false\r\n  xy: 2, 82\r\n  size: 251, 251\r\n  orig: 251, 251\r\n  offset: 0, 0\r\n  index: -1\r\nBonus game/light\r\n  rotate: false\r\n  xy: 2, 588\r\n  size: 436, 426\r\n  orig: 436, 426\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0000_17\r\n  rotate: false\r\n  xy: 440, 594\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0001_16\r\n  rotate: false\r\n  xy: 693, 847\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0002_15\r\n  rotate: true\r\n  xy: 255, 184\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0003_14\r\n  rotate: false\r\n  xy: 693, 678\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0004_13\r\n  rotate: false\r\n  xy: 255, 15\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0005_12\r\n  rotate: false\r\n  xy: 642, 509\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0006_11\r\n  rotate: false\r\n  xy: 440, 425\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0007_10\r\n  rotate: false\r\n  xy: 424, 256\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0008_9\r\n  rotate: true\r\n  xy: 457, 54\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0009_8\r\n  rotate: false\r\n  xy: 642, 340\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0010_7\r\n  rotate: false\r\n  xy: 626, 171\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0011_6\r\n  rotate: false\r\n  xy: 626, 2\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0012_5\r\n  rotate: true\r\n  xy: 844, 476\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0013_4\r\n  rotate: true\r\n  xy: 844, 274\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0014_3\r\n  rotate: true\r\n  xy: 828, 72\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\nfx/fx-24-2/fx-24-2_0016_1\r\n  rotate: true\r\n  xy: 255, 386\r\n  size: 200, 167\r\n  orig: 200, 167\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "6089e0b6-b757-4c22-9baa-f93783a532f4"
+    }
+  ],
+  "textureNames": [
+    "BonusGame-X2-X3-X4.png"
+  ],
+  "scale": 1
+}

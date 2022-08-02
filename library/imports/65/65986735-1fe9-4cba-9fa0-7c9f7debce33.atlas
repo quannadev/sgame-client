@@ -1,0 +1,27 @@
+
+InGame-Thang-1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Poker/InGame/Thang-2/User/3
+  rotate: false
+  xy: 2, 2
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Poker/InGame/Thang-2/User/4
+  rotate: false
+  xy: 259, 54
+  size: 124, 49
+  orig: 124, 49
+  offset: 0, 0
+  index: -1
+Poker/InGame/Thang-2/User/toitrang
+  rotate: false
+  xy: 2, 29
+  size: 255, 74
+  orig: 255, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+Vampire-Lobby.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Vampire/Fx/May/May-1
+  rotate: false
+  xy: 448, 870
+  size: 399, 152
+  orig: 399, 152
+  offset: 0, 0
+  index: -1
+Vampire/Fx/May/May-2
+  rotate: true
+  xy: 2, 122
+  size: 364, 245
+  orig: 364, 245
+  offset: 0, 0
+  index: -1
+Vampire/Fx/fx-1/1
+  rotate: false
+  xy: 360, 159
+  size: 108, 147
+  orig: 128, 161
+  offset: 11, 6
+  index: -1
+Vampire/Fx/fx-1/10
+  rotate: false
+  xy: 467, 331
+  size: 112, 138
+  orig: 128, 161
+  offset: 9, 6
+  index: -1
+Vampire/Fx/fx-1/11
+  rotate: false
+  xy: 471, 36
+  size: 102, 144
+  orig: 128, 161
+  offset: 13, 7
+  index: -1
+Vampire/Fx/fx-1/12
+  rotate: false
+  xy: 249, 303
+  size: 106, 156
+  orig: 128, 161
+  offset: 12, 5
+  index: -1
+Vampire/Fx/fx-1/13
+  rotate: true
+  xy: 2, 8
+  size: 112, 157
+  orig: 128, 161
+  offset: 9, 4
+  index: -1
+Vampire/Fx/fx-1/14
+  rotate: true
+  xy: 849, 908
+  size: 114, 154
+  orig: 128, 161
+  offset: 6, 6
+  index: -1
+Vampire/Fx/fx-1/15
+  rotate: true
+  xy: 448, 583
+  size: 116, 149
+  orig: 128, 161
+  offset: 5, 6
+  index: -1
+Vampire/Fx/fx-1/16
+  rotate: true
+  xy: 599, 473
+  size: 110, 149
+  orig: 128, 161
+  offset: 10, 8
+  index: -1
+Vampire/Fx/fx-1/2
+  rotate: false
+  xy: 249, 2
+  size: 109, 146
+  orig: 128, 161
+  offset: 10, 7
+  index: -1
+Vampire/Fx/fx-1/3
+  rotate: false
+  xy: 360, 15
+  size: 109, 142
+  orig: 128, 161
+  offset: 11, 6
+  index: -1
+Vampire/Fx/fx-1/4
+  rotate: true
+  xy: 599, 585
+  size: 114, 148
+  orig: 128, 161
+  offset: 8, 8
+  index: -1
+Vampire/Fx/fx-1/5
+  rotate: false
+  xy: 470, 182
+  size: 102, 147
+  orig: 128, 161
+  offset: 16, 9
+  index: -1
+Vampire/Fx/fx-1/6
+  rotate: true
+  xy: 297, 461
+  size: 107, 154
+  orig: 128, 161
+  offset: 13, 7
+  index: -1
+Vampire/Fx/fx-1/7
+  rotate: false
+  xy: 249, 150
+  size: 109, 151
+  orig: 128, 161
+  offset: 11, 5
+  index: -1
+Vampire/Fx/fx-1/8
+  rotate: false
+  xy: 357, 308
+  size: 108, 151
+  orig: 128, 161
+  offset: 13, 6
+  index: -1
+Vampire/Fx/fx-1/9
+  rotate: true
+  xy: 453, 471
+  size: 110, 144
+  orig: 128, 161
+  offset: 11, 7
+  index: -1
+Vampire/images/chonphong-img2
+  rotate: false
+  xy: 2, 488
+  size: 293, 534
+  orig: 293, 534
+  offset: 0, 0
+  index: -1
+Vampire/images/chonphong-img3
+  rotate: false
+  xy: 297, 570
+  size: 149, 452
+  orig: 149, 452
+  offset: 0, 0
+  index: -1
+Vampire/images/logo
+  rotate: false
+  xy: 448, 701
+  size: 354, 167
+  orig: 354, 167
+  offset: 0, 0
+  index: -1

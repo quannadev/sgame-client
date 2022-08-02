@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9f41745f-1bf4-40da-9b06-a623e626f04a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "BonusGame-2-ConMa": {
+      "ver": "1.0.4",
+      "uuid": "f393c642-816a-4a9b-8fa9-1af5cca2ecb7",
+      "rawTextureUuid": "9f41745f-1bf4-40da-9b06-a623e626f04a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -42.5,
+      "offsetY": 6.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 167,
+      "height": 239,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

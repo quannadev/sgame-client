@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "caothap",
+    "texture": "72f3aa57-fefa-4fc2-84b2-8b4fc52ee1a9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

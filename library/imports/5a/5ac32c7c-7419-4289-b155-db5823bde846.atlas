@@ -1,0 +1,713 @@
+
+SindBad-Ingame-Bonusgame-CHaracter.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/fx-2
+  rotate: false
+  xy: 382, 1644
+  size: 169, 1
+  orig: 169, 1
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_0
+  rotate: false
+  xy: 1115, 1637
+  size: 86, 209
+  orig: 86, 209
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_1
+  rotate: false
+  xy: 1115, 1637
+  size: 86, 209
+  orig: 86, 209
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_10
+  rotate: true
+  xy: 1752, 1865
+  size: 181, 203
+  orig: 181, 203
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_11
+  rotate: false
+  xy: 2, 41
+  size: 181, 199
+  orig: 181, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_12
+  rotate: false
+  xy: 199, 1636
+  size: 181, 199
+  orig: 181, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_13
+  rotate: true
+  xy: 1351, 1859
+  size: 187, 199
+  orig: 187, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_14
+  rotate: false
+  xy: 2, 1044
+  size: 188, 199
+  orig: 188, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_15
+  rotate: false
+  xy: 2, 642
+  size: 187, 199
+  orig: 187, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_16
+  rotate: true
+  xy: 1150, 1858
+  size: 188, 199
+  orig: 188, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_17
+  rotate: true
+  xy: 1552, 1859
+  size: 187, 198
+  orig: 187, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_18
+  rotate: false
+  xy: 2, 242
+  size: 185, 198
+  orig: 185, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_19
+  rotate: false
+  xy: 749, 1648
+  size: 181, 198
+  orig: 181, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_2
+  rotate: true
+  xy: 555, 1073
+  size: 88, 209
+  orig: 88, 209
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_20
+  rotate: false
+  xy: 382, 1647
+  size: 181, 199
+  orig: 181, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_21
+  rotate: false
+  xy: 565, 1648
+  size: 182, 198
+  orig: 182, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_22
+  rotate: false
+  xy: 2, 442
+  size: 187, 198
+  orig: 187, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_23
+  rotate: false
+  xy: 2, 843
+  size: 188, 199
+  orig: 188, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_24
+  rotate: false
+  xy: 2, 1245
+  size: 189, 199
+  orig: 189, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_25
+  rotate: false
+  xy: 1645, 1447
+  size: 123, 199
+  orig: 123, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_26
+  rotate: false
+  xy: 1893, 1456
+  size: 129, 199
+  orig: 129, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_27
+  rotate: false
+  xy: 574, 1848
+  size: 190, 198
+  orig: 190, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_28
+  rotate: false
+  xy: 2, 1647
+  size: 195, 198
+  orig: 195, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_29
+  rotate: false
+  xy: 2, 1847
+  size: 195, 199
+  orig: 195, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_3
+  rotate: false
+  xy: 460, 1108
+  size: 93, 209
+  orig: 93, 209
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_30
+  rotate: false
+  xy: 2, 1446
+  size: 190, 199
+  orig: 190, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_31
+  rotate: false
+  xy: 766, 1848
+  size: 190, 198
+  orig: 190, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_32
+  rotate: false
+  xy: 381, 1848
+  size: 191, 198
+  orig: 191, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_33
+  rotate: false
+  xy: 958, 1848
+  size: 190, 198
+  orig: 190, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_34
+  rotate: false
+  xy: 932, 1648
+  size: 181, 198
+  orig: 181, 198
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_35
+  rotate: false
+  xy: 194, 1440
+  size: 173, 194
+  orig: 173, 194
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_36
+  rotate: false
+  xy: 1757, 1669
+  size: 167, 194
+  orig: 167, 194
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_37
+  rotate: true
+  xy: 369, 1472
+  size: 162, 194
+  orig: 162, 194
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_38
+  rotate: true
+  xy: 369, 1319
+  size: 151, 194
+  orig: 151, 194
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_39
+  rotate: true
+  xy: 1115, 1475
+  size: 151, 194
+  orig: 151, 194
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_4
+  rotate: false
+  xy: 1646, 1648
+  size: 109, 209
+  orig: 109, 209
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_40
+  rotate: true
+  xy: 1311, 1487
+  size: 139, 195
+  orig: 139, 195
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_41
+  rotate: false
+  xy: 1508, 1454
+  size: 135, 195
+  orig: 135, 195
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_42
+  rotate: true
+  xy: 1115, 1248
+  size: 128, 196
+  orig: 128, 196
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_43
+  rotate: true
+  xy: 1313, 1271
+  size: 124, 199
+  orig: 124, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_44
+  rotate: false
+  xy: 1636, 1246
+  size: 118, 199
+  orig: 118, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_45
+  rotate: true
+  xy: 1303, 1062
+  size: 118, 204
+  orig: 118, 204
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_46
+  rotate: false
+  xy: 766, 1073
+  size: 117, 208
+  orig: 117, 208
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_47
+  rotate: true
+  xy: 555, 1163
+  size: 118, 209
+  orig: 118, 209
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_48
+  rotate: true
+  xy: 885, 1113
+  size: 118, 209
+  orig: 118, 209
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_49
+  rotate: true
+  xy: 885, 994
+  size: 117, 209
+  orig: 117, 209
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_5
+  rotate: false
+  xy: 192, 780
+  size: 139, 209
+  orig: 139, 209
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_6
+  rotate: false
+  xy: 330, 310
+  size: 154, 207
+  orig: 154, 207
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_7
+  rotate: false
+  xy: 1483, 1651
+  size: 161, 206
+  orig: 161, 206
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_8
+  rotate: false
+  xy: 193, 1233
+  size: 168, 205
+  orig: 168, 205
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/shot_bonus_man_9
+  rotate: false
+  xy: 199, 1837
+  size: 180, 209
+  orig: 180, 209
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_0
+  rotate: false
+  xy: 1214, 1042
+  size: 87, 204
+  orig: 87, 204
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_1
+  rotate: false
+  xy: 1214, 1042
+  size: 87, 204
+  orig: 87, 204
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_10
+  rotate: true
+  xy: 185, 2
+  size: 95, 176
+  orig: 95, 176
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_11
+  rotate: true
+  xy: 363, 2
+  size: 95, 174
+  orig: 95, 174
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_12
+  rotate: true
+  xy: 1800, 940
+  size: 95, 172
+  orig: 95, 172
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_13
+  rotate: true
+  xy: 583, 977
+  size: 94, 171
+  orig: 94, 171
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_14
+  rotate: false
+  xy: 678, 804
+  size: 89, 171
+  orig: 89, 171
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_15
+  rotate: false
+  xy: 1956, 1111
+  size: 90, 165
+  orig: 90, 165
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_16
+  rotate: true
+  xy: 367, 218
+  size: 90, 165
+  orig: 90, 165
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_17
+  rotate: false
+  xy: 583, 804
+  size: 93, 171
+  orig: 93, 171
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_18
+  rotate: false
+  xy: 585, 632
+  size: 92, 170
+  orig: 92, 170
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_19
+  rotate: false
+  xy: 1956, 1278
+  size: 90, 176
+  orig: 90, 176
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_2
+  rotate: true
+  xy: 1303, 973
+  size: 87, 204
+  orig: 87, 204
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_20
+  rotate: true
+  xy: 1115, 1378
+  size: 95, 188
+  orig: 95, 188
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_21
+  rotate: false
+  xy: 1009, 1435
+  size: 104, 211
+  orig: 104, 211
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_22
+  rotate: false
+  xy: 785, 1292
+  size: 105, 215
+  orig: 105, 215
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_23
+  rotate: false
+  xy: 892, 1305
+  size: 105, 214
+  orig: 105, 214
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_24
+  rotate: true
+  xy: 565, 1400
+  size: 107, 218
+  orig: 107, 218
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_25
+  rotate: false
+  xy: 332, 991
+  size: 126, 240
+  orig: 126, 240
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_26
+  rotate: false
+  xy: 191, 538
+  size: 137, 240
+  orig: 137, 240
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_27
+  rotate: false
+  xy: 192, 991
+  size: 138, 240
+  orig: 138, 240
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_28
+  rotate: false
+  xy: 333, 749
+  size: 137, 240
+  orig: 137, 240
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_29
+  rotate: false
+  xy: 1203, 1628
+  size: 138, 228
+  orig: 138, 228
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_3
+  rotate: false
+  xy: 1756, 1241
+  size: 87, 204
+  orig: 87, 204
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_30
+  rotate: false
+  xy: 330, 519
+  size: 141, 228
+  orig: 141, 228
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_31
+  rotate: false
+  xy: 191, 308
+  size: 137, 228
+  orig: 137, 228
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_32
+  rotate: false
+  xy: 1343, 1628
+  size: 138, 228
+  orig: 138, 228
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_33
+  rotate: true
+  xy: 565, 1509
+  size: 137, 228
+  orig: 137, 228
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_34
+  rotate: true
+  xy: 795, 1521
+  size: 125, 212
+  orig: 125, 212
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_35
+  rotate: false
+  xy: 1770, 1451
+  size: 121, 216
+  orig: 121, 216
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_36
+  rotate: true
+  xy: 565, 1283
+  size: 115, 218
+  orig: 115, 218
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_37
+  rotate: false
+  xy: 1096, 1020
+  size: 116, 211
+  orig: 116, 211
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_38
+  rotate: false
+  xy: 472, 771
+  size: 109, 200
+  orig: 109, 200
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_39
+  rotate: false
+  xy: 473, 569
+  size: 110, 200
+  orig: 110, 200
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_4
+  rotate: true
+  xy: 1313, 1182
+  size: 87, 199
+  orig: 87, 199
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_40
+  rotate: false
+  xy: 1622, 1044
+  size: 116, 200
+  orig: 116, 200
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_41
+  rotate: false
+  xy: 1830, 1037
+  size: 116, 200
+  orig: 116, 200
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_42
+  rotate: false
+  xy: 1926, 1657
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_43
+  rotate: false
+  xy: 1514, 1252
+  size: 120, 200
+  orig: 120, 200
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_44
+  rotate: true
+  xy: 185, 99
+  size: 116, 200
+  orig: 116, 200
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_45
+  rotate: false
+  xy: 999, 1233
+  size: 114, 200
+  orig: 114, 200
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_46
+  rotate: true
+  xy: 387, 105
+  size: 111, 200
+  orig: 111, 200
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_47
+  rotate: false
+  xy: 486, 367
+  size: 111, 200
+  orig: 111, 200
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_48
+  rotate: false
+  xy: 1509, 974
+  size: 111, 206
+  orig: 111, 206
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_49
+  rotate: false
+  xy: 1845, 1239
+  size: 109, 210
+  orig: 109, 210
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_5
+  rotate: true
+  xy: 1311, 1397
+  size: 88, 195
+  orig: 88, 195
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_6
+  rotate: false
+  xy: 1740, 1056
+  size: 88, 183
+  orig: 88, 183
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_7
+  rotate: false
+  xy: 1957, 1859
+  size: 89, 187
+  orig: 89, 187
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_8
+  rotate: true
+  xy: 189, 217
+  size: 89, 176
+  orig: 89, 176
+  offset: 0, 0
+  index: -1
+Ingame-Bonus/bonus_game-hd/win_bonus_man_9
+  rotate: true
+  xy: 1622, 950
+  size: 92, 176
+  orig: 92, 176
+  offset: 0, 0
+  index: -1

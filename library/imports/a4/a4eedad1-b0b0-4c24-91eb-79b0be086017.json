@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button-time",
+    "texture": "3d4b9d3e-a001-4ca6-8348-1ca7495e1df6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

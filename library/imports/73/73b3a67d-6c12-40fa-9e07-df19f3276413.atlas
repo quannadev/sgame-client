@@ -1,0 +1,160 @@
+
+Vampire-BonusGame-Lose.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bonusgame/Badquy-P/1
+  rotate: false
+  xy: 408, 754
+  size: 316, 337
+  orig: 488, 393
+  offset: 67, 30
+  index: -1
+images/bonusgame/Badquy-P/10
+  rotate: false
+  xy: 2, 366
+  size: 396, 362
+  orig: 488, 393
+  offset: 21, 31
+  index: -1
+images/bonusgame/Badquy-P/11
+  rotate: false
+  xy: 2, 2
+  size: 393, 362
+  orig: 488, 393
+  offset: 36, 31
+  index: -1
+images/bonusgame/Badquy-P/12
+  rotate: false
+  xy: 2, 1447
+  size: 444, 357
+  orig: 488, 393
+  offset: 26, 32
+  index: -1
+images/bonusgame/Badquy-P/13
+  rotate: false
+  xy: 866, 1151
+  size: 423, 321
+  orig: 488, 393
+  offset: 36, 47
+  index: -1
+images/bonusgame/Badquy-P/14
+  rotate: false
+  xy: 2, 730
+  size: 404, 361
+  orig: 488, 393
+  offset: 36, 32
+  index: -1
+images/bonusgame/Badquy-P/15
+  rotate: false
+  xy: 1299, 1139
+  size: 414, 335
+  orig: 488, 393
+  offset: 42, 29
+  index: -1
+images/bonusgame/Badquy-P/16
+  rotate: false
+  xy: 863, 826
+  size: 412, 323
+  orig: 488, 393
+  offset: 36, 39
+  index: -1
+images/bonusgame/Badquy-P/17
+  rotate: false
+  xy: 866, 1474
+  size: 431, 330
+  orig: 488, 393
+  offset: 9, 35
+  index: -1
+images/bonusgame/Badquy-P/18
+  rotate: false
+  xy: 1299, 1476
+  size: 427, 328
+  orig: 488, 393
+  offset: 12, 36
+  index: -1
+images/bonusgame/Badquy-P/19
+  rotate: false
+  xy: 1277, 803
+  size: 411, 334
+  orig: 488, 393
+  offset: 37, 24
+  index: -1
+images/bonusgame/Badquy-P/2
+  rotate: false
+  xy: 400, 391
+  size: 315, 337
+  orig: 488, 393
+  offset: 67, 30
+  index: -1
+images/bonusgame/Badquy-P/20
+  rotate: false
+  xy: 2, 1093
+  size: 427, 352
+  orig: 488, 393
+  offset: 38, 19
+  index: -1
+images/bonusgame/Badquy-P/21
+  rotate: false
+  xy: 448, 1105
+  size: 413, 342
+  orig: 488, 393
+  offset: 38, 13
+  index: -1
+images/bonusgame/Badquy-P/22
+  rotate: false
+  xy: 448, 1449
+  size: 416, 355
+  orig: 488, 393
+  offset: 27, 14
+  index: -1
+images/bonusgame/Badquy-P/3
+  rotate: false
+  xy: 1728, 1456
+  size: 317, 348
+  orig: 488, 393
+  offset: 65, 44
+  index: -1
+images/bonusgame/Badquy-P/4
+  rotate: false
+  xy: 397, 27
+  size: 315, 337
+  orig: 488, 393
+  offset: 67, 30
+  index: -1
+images/bonusgame/Badquy-P/5
+  rotate: true
+  xy: 1049, 159
+  size: 315, 326
+  orig: 488, 393
+  offset: 67, 41
+  index: -1
+images/bonusgame/Badquy-P/6
+  rotate: false
+  xy: 1049, 476
+  size: 323, 325
+  orig: 488, 393
+  offset: 60, 41
+  index: -1
+images/bonusgame/Badquy-P/7
+  rotate: false
+  xy: 1715, 1119
+  size: 331, 335
+  orig: 488, 393
+  offset: 52, 31
+  index: -1
+images/bonusgame/Badquy-P/8
+  rotate: true
+  xy: 717, 417
+  size: 335, 330
+  orig: 488, 393
+  offset: 47, 37
+  index: -1
+images/bonusgame/Badquy-P/9
+  rotate: false
+  xy: 1690, 802
+  size: 352, 315
+  orig: 488, 393
+  offset: 38, 52
+  index: -1

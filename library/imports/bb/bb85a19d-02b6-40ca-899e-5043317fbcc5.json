@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tatca-btn",
+    "texture": "69d32740-9029-4ee9-ab18-3fb4f3c7cbc4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

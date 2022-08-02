@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.AudioClip",
+  "_name": "BG_lobby",
+  "_objFlags": 0,
+  "_native": ".mp3",
+  "duration": 33.515,
+  "loadMode": 0
+}

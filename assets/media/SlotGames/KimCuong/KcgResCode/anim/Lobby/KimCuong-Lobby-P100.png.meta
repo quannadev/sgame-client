@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ad88a7a2-8b50-485b-9c4a-6f405d812714",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "KimCuong-Lobby-P100": {
+      "ver": "1.0.4",
+      "uuid": "e152f1e3-c34b-4cb2-91d7-cb88ae0f0fba",
+      "rawTextureUuid": "ad88a7a2-8b50-485b-9c4a-6f405d812714",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -25.5,
+      "offsetY": 10.5,
+      "trimX": 1,
+      "trimY": 3,
+      "width": 971,
+      "height": 485,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

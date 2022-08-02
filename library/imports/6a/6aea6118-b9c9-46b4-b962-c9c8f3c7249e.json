@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text-thele",
+    "texture": "c8b1e540-83f3-422b-96bf-f073f0441513",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      998,
+      850
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      998,
+      850
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sukien-X6-KimCuong",
+    "texture": "9f0a374f-f677-4c45-ad3a-95b17198354b",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      295,
+      249
+    ],
+    "offset": [
+      -105.5,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

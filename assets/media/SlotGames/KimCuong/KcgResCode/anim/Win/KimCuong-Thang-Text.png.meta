@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "65c1171f-1e23-4e98-aea4-933ebed0a2f8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "KimCuong-Thang-Text": {
+      "ver": "1.0.4",
+      "uuid": "d6faebe2-00f2-45a0-80e6-31ba650f4a6a",
+      "rawTextureUuid": "65c1171f-1e23-4e98-aea4-933ebed0a2f8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -20,
+      "offsetY": 39.5,
+      "trimX": 3,
+      "trimY": 12,
+      "width": 2002,
+      "height": 1945,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

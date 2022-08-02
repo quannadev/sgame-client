@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iconchat",
+    "texture": "6c2951b8-bf89-4744-81fd-cdf31be8e9f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

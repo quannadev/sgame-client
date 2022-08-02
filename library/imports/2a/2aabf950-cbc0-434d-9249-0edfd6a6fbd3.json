@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hide-icon",
+    "texture": "10c765fe-9621-4804-8727-02516c02d0ba",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      66,
+      67
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      68,
+      68
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+
+KimCuong-Thang-Text.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0000_Layer-18
+  rotate: false
+  xy: 1176, 1502
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0017_Layer-1
+  rotate: false
+  xy: 1176, 1502
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0001_Layer-17
+  rotate: false
+  xy: 1440, 1502
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0002_Layer-16
+  rotate: false
+  xy: 1704, 1502
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0003_Layer-15
+  rotate: true
+  xy: 284, 266
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0004_Layer-14
+  rotate: true
+  xy: 284, 2
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0005_Layer-13
+  rotate: false
+  xy: 602, 1221
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0006_Layer-12
+  rotate: false
+  xy: 562, 1023
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0007_Layer-11
+  rotate: false
+  xy: 562, 825
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0008_Layer-10
+  rotate: false
+  xy: 866, 1221
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0009_Layer-9
+  rotate: false
+  xy: 826, 1023
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0010_Layer-8
+  rotate: false
+  xy: 826, 825
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0011_Layer-7
+  rotate: false
+  xy: 562, 627
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0012_Layer-6
+  rotate: false
+  xy: 826, 627
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0013_Layer-5
+  rotate: false
+  xy: 1130, 1304
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0014_Layer-4
+  rotate: false
+  xy: 1394, 1304
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0015_Layer-3
+  rotate: false
+  xy: 1658, 1304
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-28-1/fx-28-1_0000s_0016_Layer-2
+  rotate: false
+  xy: 1130, 1106
+  size: 262, 196
+  orig: 262, 196
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-29/fx-29_0000_Layer-5
+  rotate: false
+  xy: 1176, 1700
+  size: 280, 257
+  orig: 280, 257
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-29/fx-29_0001_Layer-4
+  rotate: false
+  xy: 2, 271
+  size: 280, 257
+  orig: 280, 257
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-29/fx-29_0002_Layer-3
+  rotate: false
+  xy: 1458, 1700
+  size: 280, 257
+  orig: 280, 257
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-29/fx-29_0003_Layer-2
+  rotate: false
+  xy: 2, 12
+  size: 280, 257
+  orig: 280, 257
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/fx/fx-29/fx-29_0004_Layer-1
+  rotate: false
+  xy: 1740, 1700
+  size: 280, 257
+  orig: 280, 257
+  offset: 0, 0
+  index: -1
+Kimcuong/images/effects/img1
+  rotate: false
+  xy: 602, 1520
+  size: 572, 437
+  orig: 572, 437
+  offset: 0, 0
+  index: -1
+Kimcuong/images/effects/img2
+  rotate: false
+  xy: 2, 1330
+  size: 598, 627
+  orig: 598, 627
+  offset: 0, 0
+  index: -1
+Kimcuong/images/effects/img4
+  rotate: true
+  xy: 2, 700
+  size: 628, 558
+  orig: 628, 558
+  offset: 0, 0
+  index: -1
+Kimcuong/images/effects/nohu-text
+  rotate: false
+  xy: 2, 530
+  size: 443, 168
+  orig: 443, 168
+  offset: 0, 0
+  index: -1
+Kimcuong/images/effects/thanglon-text
+  rotate: false
+  xy: 602, 1419
+  size: 455, 99
+  orig: 455, 99
+  offset: 0, 0
+  index: -1

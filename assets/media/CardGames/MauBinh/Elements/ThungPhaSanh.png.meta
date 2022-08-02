@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a3a0fdf7-8e47-4cf7-b575-bc93ced3811c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 246,
+  "height": 42,
+  "platformSettings": {},
+  "subMetas": {
+    "ThungPhaSanh": {
+      "ver": "1.0.4",
+      "uuid": "b34fc589-b9ac-47ae-8ff5-6dde542af6e7",
+      "rawTextureUuid": "a3a0fdf7-8e47-4cf7-b575-bc93ced3811c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 246,
+      "height": 42,
+      "rawWidth": 246,
+      "rawHeight": 42,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

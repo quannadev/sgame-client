@@ -1,0 +1,216 @@
+
+BanCa-Thang-2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Thang/Thang-2/Coin-2/BC-08
+  rotate: false
+  xy: 2, 1686
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-09
+  rotate: false
+  xy: 2, 1377
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-10
+  rotate: false
+  xy: 414, 1686
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-11
+  rotate: false
+  xy: 2, 1068
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-12
+  rotate: false
+  xy: 414, 1377
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-13
+  rotate: false
+  xy: 826, 1686
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-14
+  rotate: false
+  xy: 2, 759
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-15
+  rotate: false
+  xy: 414, 1068
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-16
+  rotate: false
+  xy: 826, 1377
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-17
+  rotate: false
+  xy: 1238, 1686
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-18
+  rotate: false
+  xy: 2, 450
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-19
+  rotate: false
+  xy: 414, 759
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-20
+  rotate: false
+  xy: 826, 1068
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-21
+  rotate: false
+  xy: 1238, 1377
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-22
+  rotate: false
+  xy: 1238, 1377
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-23
+  rotate: true
+  xy: 1650, 1583
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-24
+  rotate: false
+  xy: 2, 141
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-25
+  rotate: false
+  xy: 414, 450
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-26
+  rotate: false
+  xy: 826, 759
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-27
+  rotate: false
+  xy: 826, 759
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-28
+  rotate: false
+  xy: 1238, 1068
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-29
+  rotate: true
+  xy: 1650, 1171
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-30
+  rotate: false
+  xy: 414, 141
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-31
+  rotate: false
+  xy: 414, 141
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-32
+  rotate: false
+  xy: 826, 450
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/Coin-2/BC-33
+  rotate: false
+  xy: 1238, 759
+  size: 410, 307
+  orig: 410, 307
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/LIGHT 1
+  rotate: true
+  xy: 1650, 802
+  size: 367, 343
+  orig: 367, 343
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/an sam
+  rotate: false
+  xy: 826, 378
+  size: 309, 70
+  orig: 309, 70
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/light 2
+  rotate: false
+  xy: 2, 2
+  size: 461, 137
+  orig: 461, 137
+  offset: 0, 0
+  index: -1
+Thang/Thang-2/nohu-light
+  rotate: false
+  xy: 1238, 637
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

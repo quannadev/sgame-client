@@ -1,0 +1,89 @@
+{
+"skeleton": { "hash": "KoKHXznvTBMgALuS9JThi8pTC3M", "spine": "3.6.53", "width": 268, "height": 279, "images": "../../../" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone2", "parent": "root", "length": 144 }
+],
+"slots": [
+	{ "name": "Poker/InGame/Thang-2/User/1", "bone": "bone2", "attachment": "Poker/InGame/Thang-2/User/1" }
+],
+"skins": {
+	"default": {
+		"Poker/InGame/Thang-2/User/1": {
+			"Poker/InGame/Thang-2/User/1": { "y": -3.98, "width": 268, "height": 279 }
+		}
+	}
+},
+"animations": {
+	"Idle": {
+		"slots": {
+			"Poker/InGame/Thang-2/User/1": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "faeeee9e" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6667, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.6667, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6667, "angle": -90 },
+					{ "time": 1.3333, "angle": 180 },
+					{ "time": 2.6667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3333,
+						"x": 0.805,
+						"y": 0.805,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

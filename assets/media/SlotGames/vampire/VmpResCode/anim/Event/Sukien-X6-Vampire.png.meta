@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7090931a-6c2b-43e9-95fd-04e3215e606a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "Sukien-X6-Vampire": {
+      "ver": "1.0.4",
+      "uuid": "69f0b525-df8a-4939-867d-87039da6fa91",
+      "rawTextureUuid": "7090931a-6c2b-43e9-95fd-04e3215e606a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -35.5,
+      "offsetY": 4.5,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 947,
+      "height": 1011,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

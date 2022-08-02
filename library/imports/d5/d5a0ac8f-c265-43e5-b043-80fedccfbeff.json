@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "longho",
+    "texture": "40f10820-2064-430c-83c9-7f7cc698588c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

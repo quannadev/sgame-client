@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "card-thua",
+    "texture": "59a467d3-47a9-45ba-a774-4eeb439c83cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      145,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      145,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

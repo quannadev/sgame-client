@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SuKien-DemLop",
+    "texture": "1f744819-9621-4701-a8ee-e18a6fdafee6",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      478,
+      459
+    ],
+    "offset": [
+      -14,
+      23.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

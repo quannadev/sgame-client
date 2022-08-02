@@ -1,0 +1,438 @@
+{
+  "skeleton": {
+    "hash": "TwtSJKkTii6fd0I91STw6hwdENI",
+    "spine": "3.7.94",
+    "width": 461,
+    "height": 343,
+    "images": "./images/",
+    "audio": "C:/Users/Toanp/OneDrive/Máy tính/thang  lon"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "bone",
+      "parent": "root",
+      "length": 44.31
+    },
+    {
+      "name": "bone2",
+      "parent": "root",
+      "length": 213.2,
+      "x": -9.55,
+      "y": 9.12
+    },
+    {
+      "name": "Thang/Thang-2/an sam",
+      "parent": "root",
+      "x": -11.54,
+      "y": -5.88
+    },
+    {
+      "name": "bone3",
+      "parent": "root"
+    },
+    {
+      "name": "bone4",
+      "parent": "root",
+      "y": -35.7
+    }
+  ],
+  "slots": [
+    {
+      "name": "Thang/Thang-2/LIGHT 1",
+      "bone": "bone3",
+      "attachment": "Thang/Thang-2/LIGHT 1"
+    },
+    {
+      "name": "Thang/Thang-2/nohu-light",
+      "bone": "bone"
+    },
+    {
+      "name": "fsa",
+      "bone": "bone2"
+    },
+    {
+      "name": "Thang/Thang-2/an sam",
+      "bone": "Thang/Thang-2/an sam",
+      "attachment": "Thang/Thang-2/an sam"
+    },
+    {
+      "name": "Thang/Thang-2/light 2",
+      "bone": "bone4",
+      "attachment": "Thang/Thang-2/light 2"
+    }
+  ],
+  "skins": {
+    "default": {
+      "Thang/Thang-2/LIGHT 1": {
+        "Thang/Thang-2/LIGHT 1": {
+          "x": 0.5,
+          "y": 0.5,
+          "width": 367,
+          "height": 343
+        }
+      },
+      "Thang/Thang-2/an sam": {
+        "Thang/Thang-2/an sam": {
+          "x": 12.04,
+          "y": 5.88,
+          "width": 309,
+          "height": 70
+        }
+      },
+      "Thang/Thang-2/light 2": {
+        "Thang/Thang-2/light 2": {
+          "x": 0.5,
+          "y": 0.5,
+          "width": 461,
+          "height": 137
+        }
+      },
+      "Thang/Thang-2/nohu-light": {
+        "Thang/Thang-2/nohu-light": {
+          "x": -9.56,
+          "y": 31.4,
+          "width": 120,
+          "height": 120
+        }
+      },
+      "fsa": {
+        "Thang/Thang-2/Coin-2/BC-08": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-09": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-10": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-11": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-12": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-13": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-14": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-15": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-16": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-17": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-18": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-19": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-20": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-21": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-22": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-23": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-24": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-25": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-26": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-27": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-28": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-29": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-30": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-31": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-32": {
+          "width": 410,
+          "height": 307
+        },
+        "Thang/Thang-2/Coin-2/BC-33": {
+          "width": 410,
+          "height": 307
+        }
+      }
+    }
+  },
+  "animations": {
+    "Idle": {
+      "slots": {
+        "Thang/Thang-2/an sam": {
+          "color": [
+            {
+              "time": 0,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.1667,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "Thang/Thang-2/nohu-light": {
+          "color": [
+            {
+              "time": 0,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.2333,
+              "color": "ffffff00"
+            }
+          ],
+          "attachment": [
+            {
+              "time": 0,
+              "name": "Thang/Thang-2/nohu-light"
+            }
+          ]
+        },
+        "Thang/Thang-2/light 2": {
+          "color": [
+            {
+              "time": 0,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.3333,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "fsa": {
+          "color": [
+            {
+              "time": 0.7333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1,
+              "color": "ffffff00"
+            }
+          ],
+          "attachment": [
+            {
+              "time": 0,
+              "name": "Thang/Thang-2/Coin-2/BC-08"
+            },
+            {
+              "time": 0.0667,
+              "name": "Thang/Thang-2/Coin-2/BC-09"
+            },
+            {
+              "time": 0.1333,
+              "name": "Thang/Thang-2/Coin-2/BC-10"
+            },
+            {
+              "time": 0.1667,
+              "name": "Thang/Thang-2/Coin-2/BC-11"
+            },
+            {
+              "time": 0.2,
+              "name": "Thang/Thang-2/Coin-2/BC-12"
+            },
+            {
+              "time": 0.2333,
+              "name": "Thang/Thang-2/Coin-2/BC-13"
+            },
+            {
+              "time": 0.3,
+              "name": "Thang/Thang-2/Coin-2/BC-14"
+            },
+            {
+              "time": 0.3333,
+              "name": "Thang/Thang-2/Coin-2/BC-15"
+            },
+            {
+              "time": 0.3667,
+              "name": "Thang/Thang-2/Coin-2/BC-16"
+            },
+            {
+              "time": 0.4,
+              "name": "Thang/Thang-2/Coin-2/BC-17"
+            },
+            {
+              "time": 0.4667,
+              "name": "Thang/Thang-2/Coin-2/BC-18"
+            },
+            {
+              "time": 0.5,
+              "name": "Thang/Thang-2/Coin-2/BC-19"
+            },
+            {
+              "time": 0.5333,
+              "name": "Thang/Thang-2/Coin-2/BC-20"
+            },
+            {
+              "time": 0.5667,
+              "name": "Thang/Thang-2/Coin-2/BC-21"
+            },
+            {
+              "time": 0.6333,
+              "name": "Thang/Thang-2/Coin-2/BC-22"
+            },
+            {
+              "time": 0.6667,
+              "name": "Thang/Thang-2/Coin-2/BC-23"
+            },
+            {
+              "time": 0.7,
+              "name": "Thang/Thang-2/Coin-2/BC-24"
+            },
+            {
+              "time": 0.7333,
+              "name": "Thang/Thang-2/Coin-2/BC-25"
+            },
+            {
+              "time": 0.8,
+              "name": "Thang/Thang-2/Coin-2/BC-26"
+            },
+            {
+              "time": 0.8333,
+              "name": "Thang/Thang-2/Coin-2/BC-27"
+            },
+            {
+              "time": 0.8667,
+              "name": "Thang/Thang-2/Coin-2/BC-28"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "bone": {
+          "scale": [
+            {
+              "time": 0,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.2333,
+              "x": 3.337,
+              "y": 3.337
+            }
+          ]
+        },
+        "bone2": {
+          "scale": [
+            {
+              "time": 0,
+              "x": 0.051,
+              "y": 0.051
+            },
+            {
+              "time": 0.2,
+              "x": 1,
+              "y": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8667,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 1.1667,
+              "x": 1.123,
+              "y": 1.123
+            }
+          ]
+        },
+        "Thang/Thang-2/an sam": {
+          "scale": [
+            {
+              "time": 0,
+              "x": 2,
+              "y": 2
+            },
+            {
+              "time": 0.3333,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        },
+        "bone3": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 1,
+              "angle": 180
+            },
+            {
+              "time": 2,
+              "angle": 0
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.3333,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

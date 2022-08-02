@@ -1,0 +1,244 @@
+
+NoHu-MauBinh-Thang-1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MauBinh/3chisanh
+  rotate: false
+  xy: 617, 826
+  size: 180, 62
+  orig: 180, 62
+  offset: 0, 0
+  index: -1
+MauBinh/3chithung
+  rotate: true
+  xy: 124, 639
+  size: 196, 61
+  orig: 196, 61
+  offset: 0, 0
+  index: -1
+MauBinh/4sam
+  rotate: true
+  xy: 944, 909
+  size: 113, 60
+  orig: 113, 60
+  offset: 0, 0
+  index: -1
+MauBinh/5doi1sam
+  rotate: false
+  xy: 608, 763
+  size: 189, 61
+  orig: 189, 61
+  offset: 0, 0
+  index: -1
+MauBinh/binhlung
+  rotate: false
+  xy: 445, 832
+  size: 170, 62
+  orig: 170, 62
+  offset: 0, 0
+  index: -1
+MauBinh/donghoa
+  rotate: false
+  xy: 268, 834
+  size: 175, 65
+  orig: 175, 65
+  offset: 0, 0
+  index: -1
+MauBinh/lucphebon
+  rotate: true
+  xy: 187, 654
+  size: 199, 65
+  orig: 199, 65
+  offset: 0, 0
+  index: -1
+MauBinh/rongcuon
+  rotate: false
+  xy: 382, 721
+  size: 193, 65
+  orig: 193, 65
+  offset: 0, 0
+  index: -1
+MauBinh/sanhrong
+  rotate: false
+  xy: 382, 654
+  size: 186, 65
+  orig: 186, 65
+  offset: 0, 0
+  index: -1
+MauBinh/title-bg
+  rotate: false
+  xy: 382, 788
+  size: 224, 42
+  orig: 224, 42
+  offset: 0, 0
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_11
+  rotate: true
+  xy: 268, 901
+  size: 121, 177
+  orig: 192, 192
+  offset: 34, 1
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_12
+  rotate: false
+  xy: 132, 855
+  size: 134, 167
+  orig: 192, 192
+  offset: 37, 1
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_13
+  rotate: false
+  xy: 2, 645
+  size: 120, 190
+  orig: 192, 192
+  offset: 38, 1
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_14
+  rotate: false
+  xy: 2, 467
+  size: 114, 176
+  orig: 192, 192
+  offset: 37, 1
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_15
+  rotate: false
+  xy: 2, 837
+  size: 128, 185
+  orig: 192, 192
+  offset: 24, 1
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_16
+  rotate: true
+  xy: 783, 902
+  size: 120, 159
+  orig: 192, 192
+  offset: 35, 12
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_17
+  rotate: false
+  xy: 2, 313
+  size: 126, 152
+  orig: 192, 192
+  offset: 35, 15
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_18
+  rotate: true
+  xy: 621, 890
+  size: 132, 160
+  orig: 192, 192
+  offset: 41, 14
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_19
+  rotate: true
+  xy: 447, 896
+  size: 126, 172
+  orig: 192, 192
+  offset: 42, 17
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_20
+  rotate: true
+  xy: 799, 791
+  size: 109, 150
+  orig: 192, 192
+  offset: 37, 23
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_21
+  rotate: false
+  xy: 2, 161
+  size: 127, 150
+  orig: 192, 192
+  offset: 41, 31
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_22
+  rotate: false
+  xy: 118, 496
+  size: 115, 141
+  orig: 192, 192
+  offset: 40, 37
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_23
+  rotate: false
+  xy: 131, 230
+  size: 128, 130
+  orig: 192, 192
+  offset: 40, 37
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_24
+  rotate: true
+  xy: 130, 2
+  size: 118, 121
+  orig: 192, 192
+  offset: 40, 39
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_25
+  rotate: true
+  xy: 570, 596
+  size: 120, 122
+  orig: 192, 192
+  offset: 40, 37
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_26
+  rotate: false
+  xy: 2, 21
+  size: 126, 138
+  orig: 192, 192
+  offset: 40, 19
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_27
+  rotate: false
+  xy: 130, 362
+  size: 116, 132
+  orig: 192, 192
+  offset: 41, 18
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_28
+  rotate: false
+  xy: 254, 696
+  size: 126, 136
+  orig: 192, 192
+  offset: 41, 7
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_29
+  rotate: true
+  xy: 131, 122
+  size: 106, 123
+  orig: 192, 192
+  offset: 42, 22
+  index: -1
+Text-NH/Text-NH/fx-1/Heal6_30
+  rotate: true
+  xy: 254, 593
+  size: 101, 116
+  orig: 192, 192
+  offset: 43, 21
+  index: -1
+Thang/TLMN-Thang/10
+  rotate: true
+  xy: 577, 718
+  size: 43, 155
+  orig: 45, 157
+  offset: 1, 1
+  index: -1
+Thang/TLMN-Thang/7
+  rotate: true
+  xy: 799, 747
+  size: 42, 155
+  orig: 44, 157
+  offset: 1, 1
+  index: -1
+Thang/TLMN-Thang/8
+  rotate: true
+  xy: 372, 625
+  size: 27, 146
+  orig: 29, 148
+  offset: 1, 1
+  index: -1
+Thang/TLMN-Thang/9
+  rotate: false
+  xy: 951, 823
+  size: 54, 84
+  orig: 56, 86
+  offset: 1, 1
+  index: -1

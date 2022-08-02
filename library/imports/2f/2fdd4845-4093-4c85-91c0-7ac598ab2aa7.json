@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nutchon",
+    "texture": "08c186f4-19a2-4090-82a9-1098fc2eb5eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      243,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      243,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

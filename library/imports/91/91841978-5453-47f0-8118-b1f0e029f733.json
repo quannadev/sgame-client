@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chan-text",
+    "texture": "c0696149-0aaf-493f-9acc-a3c5d807791a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      186,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

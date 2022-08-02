@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_nhacon_dat",
+    "texture": "d6fde2f4-479e-4bbe-a9a6-60979e28e199",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      467,
+      286
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      467,
+      286
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

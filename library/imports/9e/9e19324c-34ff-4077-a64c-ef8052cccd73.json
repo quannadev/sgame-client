@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "big-blind-tag",
+    "texture": "dd28a3e3-3500-432f-9f93-1f3c48a9efc1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

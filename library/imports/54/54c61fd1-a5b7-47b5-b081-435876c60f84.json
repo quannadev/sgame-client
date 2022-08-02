@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg-tanloc",
+    "texture": "d49388f2-2909-42dd-86b8-9f18d810a593",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      263,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      263,
+      53
+    ],
+    "capInsets": [
+      100,
+      0,
+      101,
+      0
+    ]
+  }
+}

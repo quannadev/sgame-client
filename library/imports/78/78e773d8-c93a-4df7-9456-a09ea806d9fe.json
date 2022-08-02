@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_xiu",
+    "texture": "6cf5b5e7-9914-464e-9d05-8da832b5f60e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      125,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      125,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

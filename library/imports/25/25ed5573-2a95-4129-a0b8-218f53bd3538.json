@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon-Poseidon- jackpot",
+    "texture": "a1f63a8c-0261-4e0a-bff5-07c2e5c302a3",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      452,
+      184
+    ],
+    "offset": [
+      -27,
+      33
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

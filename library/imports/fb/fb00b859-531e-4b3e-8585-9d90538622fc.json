@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "time-tanloc",
+    "texture": "9f128d35-313b-418a-8d36-2903216aaa51",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+
+SuKien-DemLop.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-2-3/1
+  rotate: false
+  xy: 258, 221
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+1-2-3/2
+  rotate: false
+  xy: 382, 361
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+1-2-3/3
+  rotate: false
+  xy: 2, 2
+  size: 132, 137
+  orig: 132, 137
+  offset: 0, 0
+  index: -1
+4-5/4
+  rotate: false
+  xy: 2, 301
+  size: 378, 162
+  orig: 378, 162
+  offset: 0, 0
+  index: -1
+4-5/5
+  rotate: false
+  xy: 2, 141
+  size: 254, 158
+  orig: 254, 158
+  offset: 0, 0
+  index: -1

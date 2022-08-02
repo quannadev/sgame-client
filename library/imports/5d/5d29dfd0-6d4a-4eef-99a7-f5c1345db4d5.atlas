@@ -1,0 +1,62 @@
+
+xevip.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 105, 263
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 599
+  size: 265, 266
+  orig: 265, 266
+  offset: 0, 0
+  index: -1
+libg
+  rotate: true
+  xy: 2, 65
+  size: 265, 101
+  orig: 265, 101
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 535, 822
+  size: 242, 43
+  orig: 242, 43
+  offset: 0, 0
+  index: -1
+lightttt
+  rotate: false
+  xy: 2, 332
+  size: 264, 265
+  orig: 264, 265
+  offset: 0, 0
+  index: -1
+ng
+  rotate: false
+  xy: 2, 2
+  size: 99, 61
+  orig: 99, 61
+  offset: 0, 0
+  index: -1
+xe
+  rotate: false
+  xy: 269, 688
+  size: 264, 177
+  orig: 264, 177
+  offset: 0, 0
+  index: -1
+xevip
+  rotate: false
+  xy: 269, 601
+  size: 228, 85
+  orig: 228, 85
+  offset: 0, 0
+  index: -1

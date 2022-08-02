@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gapthep-btn",
+    "texture": "153aafd3-8daa-43b6-8238-7c243e4b1292",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

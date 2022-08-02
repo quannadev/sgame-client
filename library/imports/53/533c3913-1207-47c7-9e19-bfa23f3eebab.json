@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon-Scatter",
+    "texture": "cc12b4dd-05d3-47e1-8ae2-d616cd6dd3cc",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      506,
+      252
+    ],
+    "offset": [
+      -3,
+      0
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

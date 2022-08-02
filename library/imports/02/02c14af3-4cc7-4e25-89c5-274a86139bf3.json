@@ -1,0 +1,335 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "andoi",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "M3S2gf6z/f53FC9YTPLMMl4Fmj8",
+      "spine": "3.7.94",
+      "width": 299,
+      "height": 67.9,
+      "images": "./images/",
+      "audio": "C:/Users/Toanp/OneDrive/Máy tính/Backup/2020.06.26/braccat/spine/AN DOI"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root"
+      },
+      {
+        "name": "AN DOI",
+        "parent": "bone",
+        "x": 52.9,
+        "y": 3.76
+      },
+      {
+        "name": "AN DOI2",
+        "parent": "bone",
+        "x": -59.23,
+        "y": 7.35
+      },
+      {
+        "name": "light",
+        "parent": "root",
+        "x": -11.1,
+        "y": 0.69
+      }
+    ],
+    "slots": [
+      {
+        "name": "light",
+        "bone": "light",
+        "attachment": "light"
+      },
+      {
+        "name": "light2",
+        "bone": "light",
+        "attachment": "light",
+        "blend": "additive"
+      },
+      {
+        "name": "AN DOI",
+        "bone": "AN DOI",
+        "attachment": "AN DOI"
+      },
+      {
+        "name": "AN DOI2",
+        "bone": "AN DOI2",
+        "attachment": "AN DOI"
+      }
+    ],
+    "skins": {
+      "default": {
+        "AN DOI": {
+          "AN DOI": {
+            "type": "mesh",
+            "uvs": [
+              0.48476,
+              0,
+              0.43175,
+              1,
+              1,
+              1,
+              1,
+              0
+            ],
+            "triangles": [
+              0,
+              3,
+              2,
+              1,
+              0,
+              2
+            ],
+            "vertices": [
+              -55.58,
+              33.14,
+              -66.66,
+              -23.86,
+              52.1,
+              -23.86,
+              52.1,
+              33.14
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 209,
+            "height": 57
+          }
+        },
+        "AN DOI2": {
+          "AN DOI": {
+            "type": "mesh",
+            "uvs": [
+              0.47883,
+              0,
+              0.4112,
+              1,
+              0,
+              1,
+              0,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              0,
+              1,
+              3
+            ],
+            "vertices": [
+              55.31,
+              29.56,
+              41.17,
+              -27.44,
+              -44.77,
+              -27.44,
+              -44.77,
+              29.56
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 209,
+            "height": 57
+          }
+        },
+        "light": {
+          "light": {
+            "x": 11.6,
+            "y": -0.69,
+            "width": 299,
+            "height": 62
+          }
+        },
+        "light2": {
+          "light": {
+            "x": 11.6,
+            "y": -0.69,
+            "width": 299,
+            "height": 62
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "AN DOI": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "AN DOI2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "light": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "light2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": null
+              },
+              {
+                "time": 0.3333,
+                "name": "light"
+              },
+              {
+                "time": 0.5,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "AN DOI": {
+            "translate": [
+              {
+                "time": 0,
+                "x": 247.61,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.4333,
+                "x": -9.58,
+                "y": 0
+              },
+              {
+                "time": 0.5667,
+                "x": 22.58,
+                "y": 0
+              },
+              {
+                "time": 0.6667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "AN DOI2": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -205.2,
+                "y": 0
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.4333,
+                "x": 7.71,
+                "y": 0
+              },
+              {
+                "time": 0.5667,
+                "x": -10.12,
+                "y": 0
+              },
+              {
+                "time": 0.6667,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "bone": {
+            "scale": [
+              {
+                "time": 0.6667,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 1.3333,
+                "x": 1.074,
+                "y": 1.074
+              },
+              {
+                "time": 2,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nandoi.png\r\nsize: 512,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nAN DOI\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 209, 57\r\n  orig: 209, 57\r\n  offset: 0, 0\r\n  index: -1\r\nlight\r\n  rotate: false\r\n  xy: 2, 61\r\n  size: 299, 62\r\n  orig: 299, 62\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "1c32e133-41ab-4577-8055-074bb533e819"
+    }
+  ],
+  "textureNames": [
+    "andoi.png"
+  ],
+  "scale": 1
+}

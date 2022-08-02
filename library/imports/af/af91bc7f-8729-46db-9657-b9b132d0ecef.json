@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "XocXoc-Bat",
+    "texture": "90f84de6-dd55-4095-912d-e5f9a7930dda",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

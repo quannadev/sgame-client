@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Batuoc",
+    "texture": "2552a171-bdbf-48a3-8f17-e200a85a5250",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      162
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      162
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

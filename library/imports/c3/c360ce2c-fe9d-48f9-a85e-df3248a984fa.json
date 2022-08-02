@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dong-btn",
+    "texture": "009e6cf5-d797-4dae-9848-b84a98888f8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

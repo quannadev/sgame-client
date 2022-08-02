@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chonban",
+    "texture": "76b8ac29-be07-4174-a560-defd2f1bb9cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1007,
+      839
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1007,
+      839
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

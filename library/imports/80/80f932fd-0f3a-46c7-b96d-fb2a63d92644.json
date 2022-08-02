@@ -1,0 +1,3464 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Lobby-BackGroud-2",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "RGkuadM1qd8nLDsGCgoG1VnZrfQ",
+      "spine": "3.6.53",
+      "width": 0,
+      "height": 0,
+      "images": "../../Pharaoh/Lobby-2/"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "fx-1",
+        "parent": "root",
+        "length": 160.51,
+        "rotation": 20.61,
+        "x": 473.45,
+        "y": 150.33,
+        "scaleX": 4.017,
+        "scaleY": 4.017
+      },
+      {
+        "name": "fx-2",
+        "parent": "root",
+        "length": 160.51,
+        "rotation": -17.72,
+        "x": -210.99,
+        "y": 245.86,
+        "scaleX": 2.401,
+        "scaleY": 2.401
+      },
+      {
+        "name": "fx-3",
+        "parent": "root",
+        "length": 160.51,
+        "rotation": -49.62,
+        "x": -565.81,
+        "y": 431.72,
+        "scaleX": 0.815,
+        "scaleY": 0.815
+      }
+    ],
+    "slots": [
+      {
+        "name": "fx-1",
+        "bone": "fx-1",
+        "color": "f5f5f5d9"
+      },
+      {
+        "name": "fx-2",
+        "bone": "fx-2",
+        "color": "ffffff9a"
+      },
+      {
+        "name": "fx-3",
+        "bone": "fx-3",
+        "color": "ffffff97"
+      }
+    ],
+    "skins": {
+      "default": {
+        "fx-1": {
+          "fx-25-2/fx-25-2_0000s_0000_Layer-53": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0001_Layer-52": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0002_Layer-51": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0003_Layer-50": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0004_Layer-49": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0005_Layer-48": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0006_Layer-47": {
+            "rotation": -0.08,
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0007_Layer-46": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0008_Layer-45": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0009_Layer-44": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0010_Layer-43": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0011_Layer-42": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0012_Layer-41": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0013_Layer-40": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0014_Layer-39": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0015_Layer-38": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0016_Layer-37": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0017_Layer-36": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0018_Layer-35": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0019_Layer-34": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0020_Layer-33": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0021_Layer-32": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0022_Layer-31": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0023_Layer-30": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0024_Layer-29": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0025_Layer-28": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0026_Layer-27": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0027_Layer-26": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0028_Layer-25": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0029_Layer-24": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0030_Layer-23": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0031_Layer-22": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0032_Layer-21": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0033_Layer-20": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0034_Layer-19": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0035_Layer-18": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0036_Layer-17": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0037_Layer-16": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0038_Layer-15": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0039_Layer-14": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0040_Layer-13": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0041_Layer-12": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0042_Layer-11": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0043_Layer-10": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0044_Layer-9": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0045_Layer-8": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0046_Layer-7": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0047_Layer-6": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0048_Layer-5": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0049_Layer-4": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0050_Layer-3": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0051_Layer-2": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0052_Layer-1": {
+            "width": 163,
+            "height": 200
+          }
+        },
+        "fx-2": {
+          "fx-25-2/fx-25-2_0000s_0000_Layer-53": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0001_Layer-52": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0002_Layer-51": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0003_Layer-50": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0004_Layer-49": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0005_Layer-48": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0006_Layer-47": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0007_Layer-46": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0008_Layer-45": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0009_Layer-44": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0010_Layer-43": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0011_Layer-42": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0012_Layer-41": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0013_Layer-40": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0014_Layer-39": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0015_Layer-38": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0016_Layer-37": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0017_Layer-36": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0018_Layer-35": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0019_Layer-34": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0020_Layer-33": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0021_Layer-32": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0022_Layer-31": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0023_Layer-30": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0024_Layer-29": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0025_Layer-28": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0026_Layer-27": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0027_Layer-26": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0028_Layer-25": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0029_Layer-24": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0030_Layer-23": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0031_Layer-22": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0032_Layer-21": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0033_Layer-20": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0034_Layer-19": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0035_Layer-18": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0036_Layer-17": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0037_Layer-16": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0038_Layer-15": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0039_Layer-14": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0040_Layer-13": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0041_Layer-12": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0042_Layer-11": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0043_Layer-10": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0044_Layer-9": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0045_Layer-8": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0046_Layer-7": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0047_Layer-6": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0048_Layer-5": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0049_Layer-4": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0050_Layer-3": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0051_Layer-2": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0052_Layer-1": {
+            "width": 163,
+            "height": 200
+          }
+        },
+        "fx-3": {
+          "fx-25-2/fx-25-2_0000s_0000_Layer-53": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0001_Layer-52": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0002_Layer-51": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0003_Layer-50": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0004_Layer-49": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0005_Layer-48": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0006_Layer-47": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0007_Layer-46": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0008_Layer-45": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0009_Layer-44": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0010_Layer-43": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0011_Layer-42": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0012_Layer-41": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0013_Layer-40": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0014_Layer-39": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0015_Layer-38": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0016_Layer-37": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0017_Layer-36": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0018_Layer-35": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0019_Layer-34": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0020_Layer-33": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0021_Layer-32": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0022_Layer-31": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0023_Layer-30": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0024_Layer-29": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0025_Layer-28": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0026_Layer-27": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0027_Layer-26": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0028_Layer-25": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0029_Layer-24": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0030_Layer-23": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0031_Layer-22": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0032_Layer-21": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0033_Layer-20": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0034_Layer-19": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0035_Layer-18": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0036_Layer-17": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0037_Layer-16": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0038_Layer-15": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0039_Layer-14": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0040_Layer-13": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0041_Layer-12": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0042_Layer-11": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0043_Layer-10": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0044_Layer-9": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0045_Layer-8": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0046_Layer-7": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0047_Layer-6": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0048_Layer-5": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0049_Layer-4": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0050_Layer-3": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0051_Layer-2": {
+            "width": 163,
+            "height": 200
+          },
+          "fx-25-2/fx-25-2_0000s_0052_Layer-1": {
+            "width": 163,
+            "height": 200
+          }
+        }
+      }
+    },
+    "animations": {
+      "Idle": {
+        "slots": {
+          "fx-1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 0.0333,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 0.0667,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 0.1,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 0.1333,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 0.1667,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 0.2,
+                "name": null
+              },
+              {
+                "time": 0.2333,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 0.2667,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 0.3,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 0.3333,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 0.3667,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 0.4,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 0.4333,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 0.4667,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 0.5,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 0.5333,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 0.5667,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 0.6,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 0.6333,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 0.6667,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 0.7,
+                "name": null
+              },
+              {
+                "time": 0.7333,
+                "name": null
+              },
+              {
+                "time": 0.7667,
+                "name": null
+              },
+              {
+                "time": 0.8,
+                "name": null
+              },
+              {
+                "time": 0.8333,
+                "name": null
+              },
+              {
+                "time": 0.8667,
+                "name": null
+              },
+              {
+                "time": 0.9,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 0.9333,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 0.9667,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 1,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 1.0333,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 1.0667,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 1.1,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 1.1333,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 1.1667,
+                "name": null
+              },
+              {
+                "time": 1.2,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 1.2333,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 1.2667,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 1.3,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 1.3333,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 1.3667,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 1.4,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 1.4333,
+                "name": null
+              },
+              {
+                "time": 1.4667,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 1.5,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 1.5333,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 1.5667,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 1.6,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 1.6333,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 1.6667,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 1.7,
+                "name": null
+              },
+              {
+                "time": 14.5,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 14.5333,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 14.5667,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 14.6,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 14.6333,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 14.6667,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 14.7,
+                "name": null
+              },
+              {
+                "time": 14.7333,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 14.7667,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 14.8,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 14.8333,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 14.8667,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 14.9,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 14.9333,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 14.9667,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 15,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 15.0333,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 15.0667,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 15.1,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 15.1333,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 15.1667,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 15.2,
+                "name": null
+              },
+              {
+                "time": 15.2333,
+                "name": null
+              },
+              {
+                "time": 15.2667,
+                "name": null
+              },
+              {
+                "time": 15.3,
+                "name": null
+              },
+              {
+                "time": 15.3333,
+                "name": null
+              },
+              {
+                "time": 15.3667,
+                "name": null
+              },
+              {
+                "time": 15.4,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 15.4333,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 15.4667,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 15.5,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 15.5333,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 15.5667,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 15.6,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 15.6333,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 15.6667,
+                "name": null
+              },
+              {
+                "time": 15.7,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 15.7333,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 15.7667,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 15.8,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 15.8333,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 15.8667,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 15.9,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 15.9333,
+                "name": null
+              },
+              {
+                "time": 15.9667,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 16,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 16.0333,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 16.0667,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 16.1,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 16.1333,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 16.1667,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 16.2,
+                "name": null
+              },
+              {
+                "time": 19.407,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 19.4404,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 19.4737,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 19.507,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 19.5404,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 19.5737,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 19.607,
+                "name": null
+              },
+              {
+                "time": 19.6404,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 19.6737,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 19.707,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 19.7404,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 19.7737,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 19.807,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 19.8404,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 19.8737,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 19.907,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 19.9404,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 19.9737,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 20.007,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 20.0404,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 20.0737,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 20.107,
+                "name": null
+              },
+              {
+                "time": 20.1404,
+                "name": null
+              },
+              {
+                "time": 20.1737,
+                "name": null
+              },
+              {
+                "time": 20.207,
+                "name": null
+              },
+              {
+                "time": 20.2404,
+                "name": null
+              },
+              {
+                "time": 20.2737,
+                "name": null
+              },
+              {
+                "time": 20.307,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 20.3404,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 20.3737,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 20.407,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 20.4404,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 20.4737,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 20.507,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 20.5404,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 20.5737,
+                "name": null
+              },
+              {
+                "time": 20.607,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 20.6404,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 20.6737,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 20.707,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 20.7404,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 20.7737,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 20.807,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 20.8404,
+                "name": null
+              },
+              {
+                "time": 20.8737,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 20.907,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 20.9404,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 20.9737,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 21.007,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 21.0404,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 21.0737,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 21.107,
+                "name": null
+              },
+              {
+                "time": 25.7404,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 25.7737,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 25.807,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 25.8404,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 25.8737,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 25.907,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 25.9404,
+                "name": null
+              },
+              {
+                "time": 25.9737,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 26.007,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 26.0404,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 26.0737,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 26.107,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 26.1404,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 26.1737,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 26.207,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 26.2404,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 26.2737,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 26.307,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 26.3404,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 26.3737,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 26.407,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 26.4404,
+                "name": null
+              },
+              {
+                "time": 26.4737,
+                "name": null
+              },
+              {
+                "time": 26.507,
+                "name": null
+              },
+              {
+                "time": 26.5404,
+                "name": null
+              },
+              {
+                "time": 26.5737,
+                "name": null
+              },
+              {
+                "time": 26.607,
+                "name": null
+              },
+              {
+                "time": 26.6404,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 26.6737,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 26.707,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 26.7404,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 26.7737,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 26.807,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 26.8404,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 26.8737,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 26.907,
+                "name": null
+              },
+              {
+                "time": 26.9404,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 26.9737,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 27.007,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 27.0404,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 27.0737,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 27.107,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 27.1404,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 27.1737,
+                "name": null
+              },
+              {
+                "time": 27.207,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 27.2404,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 27.2737,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 27.307,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 27.3404,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 27.3737,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 27.407,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 27.4404,
+                "name": null
+              }
+            ]
+          },
+          "fx-2": {
+            "attachment": [
+              {
+                "time": 4.1,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 4.1333,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 4.1667,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 4.2,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 4.2333,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 4.2667,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 4.3,
+                "name": null
+              },
+              {
+                "time": 4.3333,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 4.3667,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 4.4,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 4.4333,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 4.4667,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 4.5,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 4.5333,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 4.5667,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 4.6,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 4.6333,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 4.6667,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 4.7,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 4.7333,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 4.7667,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 4.8,
+                "name": null
+              },
+              {
+                "time": 4.8333,
+                "name": null
+              },
+              {
+                "time": 4.8667,
+                "name": null
+              },
+              {
+                "time": 4.9,
+                "name": null
+              },
+              {
+                "time": 4.9333,
+                "name": null
+              },
+              {
+                "time": 4.9667,
+                "name": null
+              },
+              {
+                "time": 5,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 5.0333,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 5.0667,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 5.1,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 5.1333,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 5.1667,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 5.2,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 5.2333,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 5.2667,
+                "name": null
+              },
+              {
+                "time": 5.3,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 5.3333,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 5.3667,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 5.4,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 5.4333,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 5.4667,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 5.5,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 5.5333,
+                "name": null
+              },
+              {
+                "time": 5.5667,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 5.6,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 5.6333,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 5.6667,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 5.7,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 5.7333,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 5.7667,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 5.8,
+                "name": null
+              },
+              {
+                "time": 5.8333,
+                "name": "fx-25-2/fx-25-2_0000s_0000_Layer-53"
+              },
+              {
+                "time": 5.8667,
+                "name": null
+              },
+              {
+                "time": 13.1528,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 13.1861,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 13.2195,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 13.2528,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 13.2861,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 13.3195,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 13.3528,
+                "name": null
+              },
+              {
+                "time": 13.3861,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 13.4195,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 13.4528,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 13.4861,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 13.5195,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 13.5528,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 13.5861,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 13.6195,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 13.6528,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 13.6861,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 13.7195,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 13.7528,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 13.7861,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 13.8195,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 13.8528,
+                "name": null
+              },
+              {
+                "time": 13.8861,
+                "name": null
+              },
+              {
+                "time": 13.9195,
+                "name": null
+              },
+              {
+                "time": 13.9528,
+                "name": null
+              },
+              {
+                "time": 13.9861,
+                "name": null
+              },
+              {
+                "time": 14.0195,
+                "name": null
+              },
+              {
+                "time": 14.0528,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 14.0861,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 14.1195,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 14.1528,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 14.1861,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 14.2195,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 14.2528,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 14.2861,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 14.3195,
+                "name": null
+              },
+              {
+                "time": 14.3528,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 14.3861,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 14.4195,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 14.4528,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 14.4861,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 14.5195,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 14.5528,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 14.5861,
+                "name": null
+              },
+              {
+                "time": 14.6195,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 14.6528,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 14.6861,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 14.7195,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 14.7528,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 14.7861,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 14.8195,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 14.8528,
+                "name": null
+              },
+              {
+                "time": 14.8861,
+                "name": "fx-25-2/fx-25-2_0000s_0000_Layer-53"
+              },
+              {
+                "time": 14.9333,
+                "name": null
+              }
+            ]
+          },
+          "fx-3": {
+            "attachment": [
+              {
+                "time": 0.8333,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 0.8667,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 0.9,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 0.9333,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 0.9667,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 1,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 1.0333,
+                "name": null
+              },
+              {
+                "time": 1.0667,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 1.1,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 1.1333,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 1.1667,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 1.2,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 1.2333,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 1.2667,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 1.3,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 1.3333,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 1.3667,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 1.4,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 1.4333,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 1.4667,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 1.5,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 1.5333,
+                "name": null
+              },
+              {
+                "time": 1.5667,
+                "name": null
+              },
+              {
+                "time": 1.6,
+                "name": null
+              },
+              {
+                "time": 1.6333,
+                "name": null
+              },
+              {
+                "time": 1.6667,
+                "name": null
+              },
+              {
+                "time": 1.7,
+                "name": null
+              },
+              {
+                "time": 1.7333,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 1.7667,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 1.8,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 1.8333,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 1.8667,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 1.9,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 1.9333,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 1.9667,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 2,
+                "name": null
+              },
+              {
+                "time": 2.0333,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 2.0667,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 2.1,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 2.1333,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 2.1667,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 2.2,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 2.2333,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 2.2667,
+                "name": null
+              },
+              {
+                "time": 2.3,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 2.3333,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 2.3667,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 2.4,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 2.4333,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 2.4667,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 2.5,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 2.5333,
+                "name": null
+              },
+              {
+                "time": 5.4502,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 5.4835,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 5.5169,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 5.5502,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 5.5835,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 5.6169,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 5.6502,
+                "name": null
+              },
+              {
+                "time": 5.6835,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 5.7169,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 5.7502,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 5.7835,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 5.8169,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 5.8502,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 5.8835,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 5.9169,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 5.9502,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 5.9835,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 6.0169,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 6.0502,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 6.0835,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 6.1169,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 6.1502,
+                "name": null
+              },
+              {
+                "time": 6.1835,
+                "name": null
+              },
+              {
+                "time": 6.2169,
+                "name": null
+              },
+              {
+                "time": 6.2502,
+                "name": null
+              },
+              {
+                "time": 6.2835,
+                "name": null
+              },
+              {
+                "time": 6.3169,
+                "name": null
+              },
+              {
+                "time": 6.3502,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 6.3835,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 6.4169,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 6.4502,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 6.4835,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 6.5169,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 6.5502,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 6.5835,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 6.6169,
+                "name": null
+              },
+              {
+                "time": 6.6502,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 6.6835,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 6.7169,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 6.7502,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 6.7835,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 6.8169,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 6.8502,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 6.8835,
+                "name": null
+              },
+              {
+                "time": 6.9169,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 6.9502,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 6.9835,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 7.0169,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 7.0502,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 7.0835,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 7.1169,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 7.1502,
+                "name": null
+              },
+              {
+                "time": 10.6364,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 10.6697,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 10.7031,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 10.7364,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 10.7697,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 10.8031,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 10.8364,
+                "name": null
+              },
+              {
+                "time": 10.8697,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 10.9031,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 10.9364,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 10.9697,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 11.0031,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 11.0364,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 11.0697,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 11.1031,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 11.1364,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 11.1697,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 11.2031,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 11.2364,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 11.2697,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 11.3031,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 11.3364,
+                "name": null
+              },
+              {
+                "time": 11.3697,
+                "name": null
+              },
+              {
+                "time": 11.4031,
+                "name": null
+              },
+              {
+                "time": 11.4364,
+                "name": null
+              },
+              {
+                "time": 11.4697,
+                "name": null
+              },
+              {
+                "time": 11.5031,
+                "name": null
+              },
+              {
+                "time": 11.5364,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 11.5697,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 11.6031,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 11.6364,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 11.6697,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 11.7031,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 11.7364,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 11.7697,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 11.8031,
+                "name": null
+              },
+              {
+                "time": 11.8364,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 11.8697,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 11.9031,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 11.9364,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 11.9697,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 12.0031,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 12.0364,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 12.0697,
+                "name": null
+              },
+              {
+                "time": 12.1031,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 12.1364,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 12.1697,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 12.2031,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 12.2364,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 12.2697,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 12.3031,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 12.3364,
+                "name": null
+              },
+              {
+                "time": 20.8803,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 20.9137,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 20.947,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 20.9803,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 21.0137,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 21.047,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 21.0803,
+                "name": null
+              },
+              {
+                "time": 21.1137,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 21.147,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 21.1803,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 21.2137,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 21.247,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 21.2803,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 21.3137,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 21.347,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 21.3803,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 21.4137,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 21.447,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 21.4803,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 21.5137,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 21.547,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 21.5803,
+                "name": null
+              },
+              {
+                "time": 21.6137,
+                "name": null
+              },
+              {
+                "time": 21.647,
+                "name": null
+              },
+              {
+                "time": 21.6803,
+                "name": null
+              },
+              {
+                "time": 21.7137,
+                "name": null
+              },
+              {
+                "time": 21.747,
+                "name": null
+              },
+              {
+                "time": 21.7803,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 21.8137,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 21.847,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 21.8803,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 21.9137,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 21.947,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 21.9803,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 22.0137,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 22.047,
+                "name": null
+              },
+              {
+                "time": 22.0803,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 22.1137,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 22.147,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 22.1803,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 22.2137,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 22.247,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 22.2803,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 22.3137,
+                "name": null
+              },
+              {
+                "time": 22.347,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 22.3803,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 22.4137,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 22.447,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 22.4803,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 22.5137,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 22.547,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 22.5803,
+                "name": null
+              },
+              {
+                "time": 25.3667,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 25.4,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 25.4333,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 25.4667,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 25.5,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 25.5333,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 25.5667,
+                "name": null
+              },
+              {
+                "time": 25.6,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 25.6333,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 25.6667,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 25.7,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 25.7333,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 25.7667,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 25.8,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 25.8333,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 25.8667,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 25.9,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 25.9333,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 25.9667,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 26,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 26.0333,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 26.0667,
+                "name": null
+              },
+              {
+                "time": 26.1,
+                "name": null
+              },
+              {
+                "time": 26.1333,
+                "name": null
+              },
+              {
+                "time": 26.1667,
+                "name": null
+              },
+              {
+                "time": 26.2,
+                "name": null
+              },
+              {
+                "time": 26.2333,
+                "name": null
+              },
+              {
+                "time": 26.2667,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 26.3,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 26.3333,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 26.3667,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 26.4,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 26.4333,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 26.4667,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 26.5,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 26.5333,
+                "name": null
+              },
+              {
+                "time": 26.5667,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 26.6,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 26.6333,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 26.6667,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 26.7,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 26.7333,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 26.7667,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 26.8,
+                "name": null
+              },
+              {
+                "time": 26.8333,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 26.8667,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 26.9,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 26.9333,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 26.9667,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 27,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 27.0333,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 27.0667,
+                "name": null
+              },
+              {
+                "time": 28.0229,
+                "name": "fx-25-2/fx-25-2_0000s_0052_Layer-1"
+              },
+              {
+                "time": 28.0563,
+                "name": "fx-25-2/fx-25-2_0000s_0051_Layer-2"
+              },
+              {
+                "time": 28.0896,
+                "name": "fx-25-2/fx-25-2_0000s_0050_Layer-3"
+              },
+              {
+                "time": 28.1229,
+                "name": "fx-25-2/fx-25-2_0000s_0049_Layer-4"
+              },
+              {
+                "time": 28.1563,
+                "name": "fx-25-2/fx-25-2_0000s_0048_Layer-5"
+              },
+              {
+                "time": 28.1896,
+                "name": "fx-25-2/fx-25-2_0000s_0047_Layer-6"
+              },
+              {
+                "time": 28.2229,
+                "name": null
+              },
+              {
+                "time": 28.2563,
+                "name": "fx-25-2/fx-25-2_0000s_0045_Layer-8"
+              },
+              {
+                "time": 28.2896,
+                "name": "fx-25-2/fx-25-2_0000s_0044_Layer-9"
+              },
+              {
+                "time": 28.3229,
+                "name": "fx-25-2/fx-25-2_0000s_0043_Layer-10"
+              },
+              {
+                "time": 28.3563,
+                "name": "fx-25-2/fx-25-2_0000s_0042_Layer-11"
+              },
+              {
+                "time": 28.3896,
+                "name": "fx-25-2/fx-25-2_0000s_0041_Layer-12"
+              },
+              {
+                "time": 28.4229,
+                "name": "fx-25-2/fx-25-2_0000s_0040_Layer-13"
+              },
+              {
+                "time": 28.4563,
+                "name": "fx-25-2/fx-25-2_0000s_0039_Layer-14"
+              },
+              {
+                "time": 28.4896,
+                "name": "fx-25-2/fx-25-2_0000s_0038_Layer-15"
+              },
+              {
+                "time": 28.5229,
+                "name": "fx-25-2/fx-25-2_0000s_0037_Layer-16"
+              },
+              {
+                "time": 28.5563,
+                "name": "fx-25-2/fx-25-2_0000s_0036_Layer-17"
+              },
+              {
+                "time": 28.5896,
+                "name": "fx-25-2/fx-25-2_0000s_0035_Layer-18"
+              },
+              {
+                "time": 28.6229,
+                "name": "fx-25-2/fx-25-2_0000s_0034_Layer-19"
+              },
+              {
+                "time": 28.6563,
+                "name": "fx-25-2/fx-25-2_0000s_0033_Layer-20"
+              },
+              {
+                "time": 28.6896,
+                "name": "fx-25-2/fx-25-2_0000s_0032_Layer-21"
+              },
+              {
+                "time": 28.7229,
+                "name": null
+              },
+              {
+                "time": 28.7563,
+                "name": null
+              },
+              {
+                "time": 28.7896,
+                "name": null
+              },
+              {
+                "time": 28.8229,
+                "name": null
+              },
+              {
+                "time": 28.8563,
+                "name": null
+              },
+              {
+                "time": 28.8896,
+                "name": null
+              },
+              {
+                "time": 28.9229,
+                "name": "fx-25-2/fx-25-2_0000s_0025_Layer-28"
+              },
+              {
+                "time": 28.9563,
+                "name": "fx-25-2/fx-25-2_0000s_0024_Layer-29"
+              },
+              {
+                "time": 28.9896,
+                "name": "fx-25-2/fx-25-2_0000s_0023_Layer-30"
+              },
+              {
+                "time": 29.0229,
+                "name": "fx-25-2/fx-25-2_0000s_0022_Layer-31"
+              },
+              {
+                "time": 29.0563,
+                "name": "fx-25-2/fx-25-2_0000s_0021_Layer-32"
+              },
+              {
+                "time": 29.0896,
+                "name": "fx-25-2/fx-25-2_0000s_0020_Layer-33"
+              },
+              {
+                "time": 29.1229,
+                "name": "fx-25-2/fx-25-2_0000s_0019_Layer-34"
+              },
+              {
+                "time": 29.1563,
+                "name": "fx-25-2/fx-25-2_0000s_0018_Layer-35"
+              },
+              {
+                "time": 29.1896,
+                "name": null
+              },
+              {
+                "time": 29.2229,
+                "name": "fx-25-2/fx-25-2_0000s_0016_Layer-37"
+              },
+              {
+                "time": 29.2563,
+                "name": "fx-25-2/fx-25-2_0000s_0015_Layer-38"
+              },
+              {
+                "time": 29.2896,
+                "name": "fx-25-2/fx-25-2_0000s_0014_Layer-39"
+              },
+              {
+                "time": 29.3229,
+                "name": "fx-25-2/fx-25-2_0000s_0013_Layer-40"
+              },
+              {
+                "time": 29.3563,
+                "name": "fx-25-2/fx-25-2_0000s_0012_Layer-41"
+              },
+              {
+                "time": 29.3896,
+                "name": "fx-25-2/fx-25-2_0000s_0011_Layer-42"
+              },
+              {
+                "time": 29.4229,
+                "name": "fx-25-2/fx-25-2_0000s_0010_Layer-43"
+              },
+              {
+                "time": 29.4563,
+                "name": null
+              },
+              {
+                "time": 29.4896,
+                "name": "fx-25-2/fx-25-2_0000s_0008_Layer-45"
+              },
+              {
+                "time": 29.5229,
+                "name": "fx-25-2/fx-25-2_0000s_0007_Layer-46"
+              },
+              {
+                "time": 29.5563,
+                "name": "fx-25-2/fx-25-2_0000s_0006_Layer-47"
+              },
+              {
+                "time": 29.5896,
+                "name": "fx-25-2/fx-25-2_0000s_0005_Layer-48"
+              },
+              {
+                "time": 29.6229,
+                "name": "fx-25-2/fx-25-2_0000s_0004_Layer-49"
+              },
+              {
+                "time": 29.6563,
+                "name": "fx-25-2/fx-25-2_0000s_0003_Layer-50"
+              },
+              {
+                "time": 29.6896,
+                "name": "fx-25-2/fx-25-2_0000s_0002_Layer-51"
+              },
+              {
+                "time": 29.7229,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "fx-1": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "fx-2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "fx-3": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "root": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 29.7229,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nLobby-BackGroud-2.png\r\nsize: 2048,1024\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nfx-25-2/fx-25-2_0000s_0000_Layer-53\r\n  rotate: false\r\n  xy: 2, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0001_Layer-52\r\n  rotate: false\r\n  xy: 2, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0002_Layer-51\r\n  rotate: false\r\n  xy: 167, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0003_Layer-50\r\n  rotate: false\r\n  xy: 2, 406\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0004_Layer-49\r\n  rotate: false\r\n  xy: 167, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0005_Layer-48\r\n  rotate: false\r\n  xy: 332, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0006_Layer-47\r\n  rotate: false\r\n  xy: 2, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0007_Layer-46\r\n  rotate: false\r\n  xy: 167, 406\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0008_Layer-45\r\n  rotate: false\r\n  xy: 332, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0009_Layer-44\r\n  rotate: false\r\n  xy: 497, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0010_Layer-43\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0011_Layer-42\r\n  rotate: false\r\n  xy: 167, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0012_Layer-41\r\n  rotate: false\r\n  xy: 332, 406\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0013_Layer-40\r\n  rotate: false\r\n  xy: 497, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0014_Layer-39\r\n  rotate: false\r\n  xy: 662, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0015_Layer-38\r\n  rotate: false\r\n  xy: 167, 2\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0016_Layer-37\r\n  rotate: false\r\n  xy: 332, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0017_Layer-36\r\n  rotate: false\r\n  xy: 497, 406\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0018_Layer-35\r\n  rotate: false\r\n  xy: 662, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0019_Layer-34\r\n  rotate: false\r\n  xy: 827, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0020_Layer-33\r\n  rotate: false\r\n  xy: 332, 2\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0021_Layer-32\r\n  rotate: false\r\n  xy: 497, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0022_Layer-31\r\n  rotate: false\r\n  xy: 662, 406\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0023_Layer-30\r\n  rotate: false\r\n  xy: 827, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0024_Layer-29\r\n  rotate: false\r\n  xy: 992, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0025_Layer-28\r\n  rotate: false\r\n  xy: 497, 2\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0026_Layer-27\r\n  rotate: false\r\n  xy: 662, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0027_Layer-26\r\n  rotate: false\r\n  xy: 662, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0028_Layer-25\r\n  rotate: false\r\n  xy: 662, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0029_Layer-24\r\n  rotate: false\r\n  xy: 827, 406\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0030_Layer-23\r\n  rotate: false\r\n  xy: 992, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0031_Layer-22\r\n  rotate: false\r\n  xy: 1157, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0032_Layer-21\r\n  rotate: false\r\n  xy: 662, 2\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0033_Layer-20\r\n  rotate: false\r\n  xy: 827, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0034_Layer-19\r\n  rotate: false\r\n  xy: 992, 406\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0035_Layer-18\r\n  rotate: false\r\n  xy: 1157, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0036_Layer-17\r\n  rotate: false\r\n  xy: 1322, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0037_Layer-16\r\n  rotate: false\r\n  xy: 827, 2\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0038_Layer-15\r\n  rotate: false\r\n  xy: 992, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0039_Layer-14\r\n  rotate: false\r\n  xy: 1157, 406\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0040_Layer-13\r\n  rotate: false\r\n  xy: 1322, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0041_Layer-12\r\n  rotate: false\r\n  xy: 1487, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0042_Layer-11\r\n  rotate: false\r\n  xy: 992, 2\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0043_Layer-10\r\n  rotate: false\r\n  xy: 1157, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0044_Layer-9\r\n  rotate: false\r\n  xy: 1322, 406\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0045_Layer-8\r\n  rotate: false\r\n  xy: 1487, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0046_Layer-7\r\n  rotate: false\r\n  xy: 1652, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0047_Layer-6\r\n  rotate: false\r\n  xy: 1157, 2\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0048_Layer-5\r\n  rotate: false\r\n  xy: 1322, 204\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0049_Layer-4\r\n  rotate: false\r\n  xy: 1487, 406\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0050_Layer-3\r\n  rotate: false\r\n  xy: 1652, 608\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0051_Layer-2\r\n  rotate: false\r\n  xy: 1817, 810\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\nfx-25-2/fx-25-2_0000s_0052_Layer-1\r\n  rotate: false\r\n  xy: 1322, 2\r\n  size: 163, 200\r\n  orig: 163, 200\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "fe54e65f-7254-4a64-b112-958ad2a23d74"
+    }
+  ],
+  "textureNames": [
+    "Lobby-BackGroud-2.png"
+  ],
+  "scale": 1
+}

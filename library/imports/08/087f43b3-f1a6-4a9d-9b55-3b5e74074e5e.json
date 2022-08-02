@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vampire-BonusGame-1-6",
+    "texture": "3da94876-b008-4dd6-9077-ae4f5c7734c4",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      258,
+      123
+    ],
+    "offset": [
+      -125,
+      -0.5
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

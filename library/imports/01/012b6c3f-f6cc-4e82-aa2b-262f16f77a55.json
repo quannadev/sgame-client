@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effect_lightning1",
+    "texture": "27f7dac2-af3b-4a59-8ee4-216f14bf980b",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      35,
+      407
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      37,
+      411
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

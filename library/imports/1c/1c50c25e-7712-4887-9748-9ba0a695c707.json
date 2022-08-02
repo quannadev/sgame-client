@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_caidoi_dat",
+    "texture": "c1b5783e-2569-46be-9064-718a17e83574",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      168,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      168,
+      123
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

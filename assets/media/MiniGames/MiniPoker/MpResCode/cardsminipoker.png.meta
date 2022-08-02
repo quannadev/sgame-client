@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e2fcb879-afcb-4b05-812d-c6ce31316692",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1963,
+  "height": 1030,
+  "platformSettings": {},
+  "subMetas": {
+    "cardsminipoker": {
+      "ver": "1.0.4",
+      "uuid": "99ead776-fca2-449f-b065-e3e7ba7e4e95",
+      "rawTextureUuid": "e2fcb879-afcb-4b05-812d-c6ce31316692",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1963,
+      "height": 1030,
+      "rawWidth": 1963,
+      "rawHeight": 1030,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

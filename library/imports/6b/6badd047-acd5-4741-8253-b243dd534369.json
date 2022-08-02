@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vampire-BonusGame-Lose",
+    "texture": "d9025085-5b2b-405b-aa62-cf674de66e50",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2044,
+      1802
+    ],
+    "offset": [
+      0,
+      121
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

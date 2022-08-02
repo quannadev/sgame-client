@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "choithu",
+    "texture": "de5f11f4-b0aa-4445-95cc-ab5cf8392206",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      288,
+      139
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      290,
+      143
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

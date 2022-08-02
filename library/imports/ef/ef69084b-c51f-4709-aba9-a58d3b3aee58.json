@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Quay-btn",
+    "texture": "18212aa5-7fef-4d0e-847c-02855648281b",
+    "atlas": "",
+    "rect": [
+      18,
+      18,
+      199,
+      206
+    ],
+    "offset": [
+      2,
+      -2.5
+    ],
+    "originalSize": [
+      231,
+      237
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+
+Vampire-Thang-Text.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Note-Win/01
+  rotate: true
+  xy: 189, 460
+  size: 183, 135
+  orig: 187, 147
+  offset: 4, 5
+  index: -1
+images/Note-Win/02
+  rotate: true
+  xy: 189, 460
+  size: 183, 135
+  orig: 187, 147
+  offset: 4, 5
+  index: -1
+images/Note-Win/03
+  rotate: false
+  xy: 189, 139
+  size: 183, 134
+  orig: 187, 147
+  offset: 4, 6
+  index: -1
+images/Note-Win/04
+  rotate: false
+  xy: 189, 139
+  size: 183, 134
+  orig: 187, 147
+  offset: 4, 6
+  index: -1
+images/Note-Win/05
+  rotate: true
+  xy: 189, 275
+  size: 183, 135
+  orig: 187, 147
+  offset: 4, 5
+  index: -1
+images/Note-Win/06
+  rotate: false
+  xy: 188, 2
+  size: 183, 135
+  orig: 187, 147
+  offset: 4, 5
+  index: -1
+images/Note-Win/07
+  rotate: false
+  xy: 695, 770
+  size: 183, 135
+  orig: 187, 147
+  offset: 4, 5
+  index: -1
+images/Note-Win/08
+  rotate: false
+  xy: 695, 770
+  size: 183, 135
+  orig: 187, 147
+  offset: 4, 5
+  index: -1
+images/Note-Win/09
+  rotate: false
+  xy: 695, 634
+  size: 183, 134
+  orig: 187, 147
+  offset: 3, 6
+  index: -1
+images/Note-Win/10
+  rotate: true
+  xy: 511, 447
+  size: 183, 134
+  orig: 187, 147
+  offset: 3, 6
+  index: -1
+images/Note-Win/11
+  rotate: true
+  xy: 189, 645
+  size: 184, 134
+  orig: 187, 147
+  offset: 3, 6
+  index: -1
+images/Note-Win/12
+  rotate: true
+  xy: 189, 645
+  size: 184, 134
+  orig: 187, 147
+  offset: 3, 6
+  index: -1
+images/Note-Win/13
+  rotate: false
+  xy: 2, 9
+  size: 184, 135
+  orig: 187, 147
+  offset: 3, 5
+  index: -1
+images/Note-Win/14
+  rotate: false
+  xy: 2, 9
+  size: 184, 135
+  orig: 187, 147
+  offset: 3, 5
+  index: -1
+images/Note-Win/15
+  rotate: false
+  xy: 2, 694
+  size: 185, 135
+  orig: 187, 147
+  offset: 2, 5
+  index: -1
+images/Note-Win/16
+  rotate: false
+  xy: 2, 557
+  size: 185, 135
+  orig: 187, 147
+  offset: 2, 5
+  index: -1
+images/Note-Win/17
+  rotate: false
+  xy: 2, 420
+  size: 185, 135
+  orig: 187, 147
+  offset: 2, 5
+  index: -1
+images/Note-Win/18
+  rotate: false
+  xy: 2, 420
+  size: 185, 135
+  orig: 187, 147
+  offset: 2, 5
+  index: -1
+images/Note-Win/19
+  rotate: false
+  xy: 2, 283
+  size: 185, 135
+  orig: 187, 147
+  offset: 2, 5
+  index: -1
+images/Note-Win/20
+  rotate: false
+  xy: 2, 146
+  size: 185, 135
+  orig: 187, 147
+  offset: 2, 5
+  index: -1
+images/Note-Win/21
+  rotate: true
+  xy: 880, 722
+  size: 183, 135
+  orig: 187, 147
+  offset: 3, 5
+  index: -1
+images/Note-Win/22
+  rotate: true
+  xy: 880, 722
+  size: 183, 135
+  orig: 187, 147
+  offset: 3, 5
+  index: -1
+images/Note-Win/23
+  rotate: true
+  xy: 880, 537
+  size: 183, 135
+  orig: 187, 147
+  offset: 3, 5
+  index: -1
+images/Note-Win/24
+  rotate: false
+  xy: 326, 632
+  size: 183, 135
+  orig: 187, 147
+  offset: 3, 5
+  index: -1
+images/Note-Win/25
+  rotate: false
+  xy: 326, 495
+  size: 183, 135
+  orig: 187, 147
+  offset: 3, 5
+  index: -1
+images/Note-Win/26
+  rotate: false
+  xy: 326, 358
+  size: 183, 135
+  orig: 187, 147
+  offset: 3, 5
+  index: -1
+images/Note-Win/27
+  rotate: false
+  xy: 511, 632
+  size: 182, 135
+  orig: 187, 147
+  offset: 4, 5
+  index: -1
+images/Note-Win/28
+  rotate: false
+  xy: 511, 632
+  size: 182, 135
+  orig: 187, 147
+  offset: 4, 5
+  index: -1
+images/Note-Win/29
+  rotate: false
+  xy: 325, 769
+  size: 183, 136
+  orig: 187, 147
+  offset: 4, 4
+  index: -1
+images/Note-Win/30
+  rotate: false
+  xy: 510, 769
+  size: 183, 136
+  orig: 187, 147
+  offset: 4, 4
+  index: -1
+images/thanglon-text
+  rotate: false
+  xy: 2, 831
+  size: 299, 74
+  orig: 299, 74
+  offset: 0, 0
+  index: -1

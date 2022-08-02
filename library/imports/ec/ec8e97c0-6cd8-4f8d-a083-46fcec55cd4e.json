@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gachcheo",
+    "texture": "df1570ab-335a-436d-8394-d986ab48493b",
+    "atlas": "",
+    "rect": [
+      17,
+      16,
+      41,
+      41
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      74,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

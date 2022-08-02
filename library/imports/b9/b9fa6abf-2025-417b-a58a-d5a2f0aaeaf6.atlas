@@ -1,0 +1,522 @@
+
+SindBad-Lobby.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spine/frame by frame char/sindbad-0/sm2_00
+  rotate: true
+  xy: 1678, 9
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_01
+  rotate: true
+  xy: 1678, 9
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_13
+  rotate: false
+  xy: 521, 1126
+  size: 472, 390
+  orig: 472, 390
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_14
+  rotate: false
+  xy: 2, 4
+  size: 481, 400
+  orig: 481, 400
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_18
+  rotate: false
+  xy: 1403, 603
+  size: 529, 420
+  orig: 529, 420
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_21
+  rotate: true
+  xy: 1015, 82
+  size: 525, 333
+  orig: 525, 333
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_00
+  rotate: false
+  xy: 901, 482
+  size: 106, 125
+  orig: 106, 125
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_02
+  rotate: false
+  xy: 1833, 103
+  size: 141, 201
+  orig: 141, 201
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_10
+  rotate: false
+  xy: 1583, 1572
+  size: 456, 473
+  orig: 456, 473
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_12
+  rotate: false
+  xy: 1350, 104
+  size: 481, 497
+  orig: 481, 497
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_13
+  rotate: false
+  xy: 901, 609
+  size: 500, 506
+  orig: 500, 506
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_14
+  rotate: false
+  xy: 521, 1518
+  size: 505, 527
+  orig: 505, 527
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_15
+  rotate: false
+  xy: 2, 974
+  size: 509, 531
+  orig: 509, 531
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_16
+  rotate: false
+  xy: 2, 1507
+  size: 517, 538
+  orig: 517, 538
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_17
+  rotate: true
+  xy: 1028, 1584
+  size: 461, 553
+  orig: 461, 553
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_18
+  rotate: false
+  xy: 2, 406
+  size: 461, 566
+  orig: 461, 566
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_19
+  rotate: true
+  xy: 1028, 1117
+  size: 465, 546
+  orig: 465, 546
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_20
+  rotate: false
+  xy: 1576, 1025
+  size: 464, 545
+  orig: 464, 545
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_21
+  rotate: true
+  xy: 485, 2
+  size: 430, 528
+  orig: 430, 528
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_22
+  rotate: false
+  xy: 465, 434
+  size: 434, 538
+  orig: 434, 538
+  offset: 0, 0
+  index: -1
+images/Lobby/ChoiThu/ChoiThu/2
+  rotate: true
+  xy: 1934, 849
+  size: 174, 111
+  orig: 174, 111
+  offset: 0, 0
+  index: -1
+images/Lobby/ChoiThu/ChoiThu/3
+  rotate: false
+  xy: 810, 1024
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+images/Lobby/ChoiThu/ChoiThu/4
+  rotate: true
+  xy: 995, 1482
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+images/Lobby/ChoiThu/ChoiThu/5
+  rotate: true
+  xy: 1559, 1093
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+images/Lobby/ChoiThu/ChoiThu/6
+  rotate: false
+  xy: 810, 974
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+images/Lobby/ChoiThu/ChoiThu/7
+  rotate: false
+  xy: 513, 980
+  size: 295, 144
+  orig: 295, 144
+  offset: 0, 0
+  index: -1
+images/Lobby/ChoiThu/ChoiThu/9
+  rotate: false
+  xy: 1403, 1063
+  size: 154, 52
+  orig: 154, 52
+  offset: 0, 0
+  index: -1
+images/Lobby/P-100/P-100/4
+  rotate: false
+  xy: 1538, 66
+  size: 138, 36
+  orig: 138, 36
+  offset: 0, 0
+  index: -1
+images/Lobby/P-1000/P-1000/5
+  rotate: true
+  xy: 1934, 664
+  size: 183, 94
+  orig: 183, 94
+  offset: 0, 0
+  index: -1
+images/Lobby/P-1000/P-1000/6
+  rotate: true
+  xy: 1833, 306
+  size: 295, 124
+  orig: 295, 124
+  offset: 0, 0
+  index: -1
+images/Lobby/P-1000/P-1000/7
+  rotate: false
+  xy: 1403, 1025
+  size: 166, 36
+  orig: 166, 36
+  offset: 0, 0
+  index: -1
+images/Lobby/P-1000/P-1000/8
+  rotate: false
+  xy: 810, 988
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+images/Lobby/P-10000/P-10000/10
+  rotate: false
+  xy: 1350, 66
+  size: 186, 36
+  orig: 186, 36
+  offset: 0, 0
+  index: -1
+images/Lobby/P-10000/P-10000/4
+  rotate: false
+  xy: 1015, 14
+  size: 174, 66
+  orig: 174, 66
+  offset: 0, 0
+  index: -1
+images/Lobby/P-10000/P-10000/6
+  rotate: true
+  xy: 1191, 10
+  size: 70, 114
+  orig: 70, 114
+  offset: 0, 0
+  index: -1
+images/Lobby/P-10000/P-10000/7
+  rotate: false
+  xy: 1934, 643
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+images/Lobby/P-10000/P-10000/8
+  rotate: true
+  xy: 465, 410
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+
+SindBad-Lobby2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spine/frame by frame char/sindbad-0/sm2_03
+  rotate: true
+  xy: 1459, 29
+  size: 267, 248
+  orig: 267, 248
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_04
+  rotate: false
+  xy: 1239, 536
+  size: 306, 274
+  orig: 306, 274
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_09
+  rotate: true
+  xy: 886, 380
+  size: 419, 351
+  orig: 419, 351
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_10
+  rotate: false
+  xy: 403, 11
+  size: 434, 365
+  orig: 434, 365
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_11
+  rotate: false
+  xy: 1588, 1670
+  size: 449, 376
+  orig: 449, 376
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_12
+  rotate: false
+  xy: 1547, 336
+  size: 459, 383
+  orig: 459, 383
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_15
+  rotate: false
+  xy: 2, 806
+  size: 493, 407
+  orig: 493, 407
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_16
+  rotate: false
+  xy: 520, 801
+  size: 504, 415
+  orig: 504, 415
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_17
+  rotate: false
+  xy: 1060, 1628
+  size: 526, 418
+  orig: 526, 418
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_19
+  rotate: false
+  xy: 2, 1630
+  size: 527, 416
+  orig: 527, 416
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm2_20
+  rotate: false
+  xy: 531, 1642
+  size: 527, 404
+  orig: 527, 404
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_06
+  rotate: true
+  xy: 839, 25
+  size: 352, 380
+  orig: 352, 380
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_07
+  rotate: true
+  xy: 2, 7
+  size: 369, 399
+  orig: 369, 399
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_08
+  rotate: false
+  xy: 491, 379
+  size: 393, 420
+  orig: 393, 420
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_09
+  rotate: false
+  xy: 1588, 1208
+  size: 439, 460
+  orig: 439, 460
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_11
+  rotate: false
+  xy: 1569, 721
+  size: 471, 485
+  orig: 471, 485
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_23
+  rotate: true
+  xy: 531, 1218
+  size: 422, 520
+  orig: 422, 520
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_24
+  rotate: true
+  xy: 2, 1215
+  size: 413, 516
+  orig: 413, 516
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_25
+  rotate: true
+  xy: 1053, 1198
+  size: 428, 514
+  orig: 428, 514
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_26
+  rotate: true
+  xy: 2, 378
+  size: 426, 487
+  orig: 426, 487
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_27
+  rotate: true
+  xy: 1026, 812
+  size: 384, 422
+  orig: 384, 422
+  offset: 0, 0
+  index: -1
+images/Lobby/ChoiThu/ChoiThu/1
+  rotate: false
+  xy: 1239, 298
+  size: 295, 236
+  orig: 295, 236
+  offset: 0, 0
+  index: -1
+images/Lobby/P-100/P-100/2
+  rotate: true
+  xy: 1709, 39
+  size: 295, 236
+  orig: 295, 236
+  offset: 0, 0
+  index: -1
+images/Lobby/P-100/P-100/3
+  rotate: true
+  xy: 1450, 1003
+  size: 193, 117
+  orig: 193, 117
+  offset: 0, 0
+  index: -1
+images/Lobby/P-1000/P-1000/1
+  rotate: true
+  xy: 1221, 2
+  size: 294, 236
+  orig: 294, 236
+  offset: 0, 0
+  index: -1
+
+SindBad-Lobby3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spine/frame by frame char/sindbad-0/sm2_02
+  rotate: false
+  xy: 597, 36
+  size: 173, 156
+  orig: 173, 156
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_01
+  rotate: true
+  xy: 401, 2
+  size: 124, 189
+  orig: 124, 189
+  offset: 0, 0
+  index: -1
+Spine/frame by frame char/sindbad-0/sm3_28
+  rotate: true
+  xy: 2, 126
+  size: 382, 397
+  orig: 382, 397
+  offset: 0, 0
+  index: -1
+images/Lobby/ChoiThu/ChoiThu/8
+  rotate: false
+  xy: 401, 128
+  size: 194, 142
+  orig: 194, 142
+  offset: 0, 0
+  index: -1
+images/Lobby/P-100/P-100/1
+  rotate: true
+  xy: 698, 315
+  size: 193, 168
+  orig: 193, 168
+  offset: 0, 0
+  index: -1
+images/Lobby/P-1000/P-1000/3
+  rotate: false
+  xy: 772, 50
+  size: 194, 142
+  orig: 194, 142
+  offset: 0, 0
+  index: -1
+images/Lobby/P-1000/P-1000/4
+  rotate: true
+  xy: 2, 6
+  size: 118, 138
+  orig: 118, 138
+  offset: 0, 0
+  index: -1
+images/Lobby/P-10000/P-10000/2
+  rotate: false
+  xy: 401, 272
+  size: 295, 236
+  orig: 295, 236
+  offset: 0, 0
+  index: -1
+images/Lobby/P-10000/P-10000/5
+  rotate: false
+  xy: 868, 319
+  size: 144, 189
+  orig: 144, 189
+  offset: 0, 0
+  index: -1
+images/Lobby/P-10000/P-10000/9
+  rotate: false
+  xy: 698, 194
+  size: 295, 119
+  orig: 295, 119
+  offset: 0, 0
+  index: -1

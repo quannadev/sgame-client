@@ -1,0 +1,48 @@
+
+KimCuong-Lobby-P1000.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kimcuong/Spine/Lobby/P100/5
+  rotate: false
+  xy: 654, 271
+  size: 320, 203
+  orig: 320, 203
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/Lobby/P100/6
+  rotate: true
+  xy: 221, 40
+  size: 122, 231
+  orig: 122, 231
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/Lobby/P100/7
+  rotate: false
+  xy: 2, 21
+  size: 217, 141
+  orig: 217, 141
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/Lobby/P1000/1
+  rotate: true
+  xy: 454, 2
+  size: 160, 178
+  orig: 160, 178
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/Lobby/fx
+  rotate: false
+  xy: 2, 164
+  size: 650, 310
+  orig: 650, 310
+  offset: 0, 0
+  index: -1
+Kimcuong/Spine/Lobby/fx-2
+  rotate: false
+  xy: 654, 181
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1

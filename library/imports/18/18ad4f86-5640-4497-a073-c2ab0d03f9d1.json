@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txtBangVinhDanh",
+    "texture": "fe9bfa87-50ea-455b-9028-72abf5382152",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      306,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      306,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-button3",
+    "texture": "ff6deb0c-878a-43f6-a49c-8ce9f01f8d3a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      144,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      144,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

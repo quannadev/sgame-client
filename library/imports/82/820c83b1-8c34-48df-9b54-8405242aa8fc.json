@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dongle-btn",
+    "texture": "0e2cd584-9a21-4676-b932-196fdcce5d39",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      173,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      173,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

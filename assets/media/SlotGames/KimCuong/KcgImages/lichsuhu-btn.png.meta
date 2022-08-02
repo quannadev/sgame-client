@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "23484e87-0acf-4204-8e8d-8c7a68be9657",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 75,
+  "height": 75,
+  "platformSettings": {},
+  "subMetas": {
+    "lichsuhu-btn": {
+      "ver": "1.0.4",
+      "uuid": "1cb54c0c-1bcc-43f8-ba21-ee431a1073f5",
+      "rawTextureUuid": "23484e87-0acf-4204-8e8d-8c7a68be9657",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 75,
+      "height": 75,
+      "rawWidth": 75,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

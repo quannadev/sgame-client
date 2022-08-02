@@ -1,0 +1,1379 @@
+{
+"skeleton": { "hash": "ddj5oXfm08DdiT8sdSXOQIPb/jI", "spine": "3.6.52", "width": 0, "height": 0, "images": "../../../" },
+"bones": [
+	{ "name": "tewrter" },
+	{ "name": "Fx-effect", "parent": "tewrter", "length": 120.6, "rotation": 0.73, "x": -1.56, "y": -0.53 },
+	{ "name": "ThangLown", "parent": "tewrter", "length": 98.85, "rotation": 0.38, "x": -35.69, "y": -1 }
+],
+"slots": [
+	{ "name": "minigame/Candy Crush/image/effect-nohu", "bone": "Fx-effect" },
+	{ "name": "minigame/Candy Crush/image/effect-sieuthanglon", "bone": "Fx-effect" },
+	{ "name": "minigame/Candy Crush/image/effect-thanglon", "bone": "Fx-effect" },
+	{ "name": "minigame/Candy Crush/image/text-thanglon", "bone": "ThangLown" },
+	{ "name": "minigame/Candy Crush/image/text-sieuthanglon", "bone": "ThangLown" },
+	{ "name": "minigame/Candy Crush/image/text-nohu", "bone": "ThangLown" }
+],
+"skins": {
+	"default": {
+		"minigame/Candy Crush/image/effect-nohu": {
+			"minigame/Candy Crush/image/effect-nohu": { "x": -23, "y": -29.15, "rotation": -0.73, "width": 747, "height": 573 }
+		},
+		"minigame/Candy Crush/image/effect-sieuthanglon": {
+			"minigame/Candy Crush/image/effect-sieuthanglon": { "x": -4.62, "y": 23.43, "rotation": -0.73, "width": 661, "height": 426 }
+		},
+		"minigame/Candy Crush/image/effect-thanglon": {
+			"minigame/Candy Crush/image/effect-thanglon": { "x": 0.14, "y": 4.19, "scaleX": 1.343, "scaleY": 1.343, "rotation": -0.73, "width": 420, "height": 328 }
+		},
+		"minigame/Candy Crush/image/text-nohu": {
+			"minigame/Candy Crush/image/text-nohu": { "x": 25.47, "y": 26.4, "rotation": -0.38, "width": 409, "height": 161 }
+		},
+		"minigame/Candy Crush/image/text-sieuthanglon": {
+			"minigame/Candy Crush/image/text-sieuthanglon": { "x": 31.1, "y": 26.88, "rotation": 0.35, "width": 411, "height": 198 }
+		},
+		"minigame/Candy Crush/image/text-thanglon": {
+			"minigame/Candy Crush/image/text-thanglon": { "x": 6.02, "y": 21.66, "rotation": -0.18, "width": 442, "height": 129 }
+		}
+	}
+},
+"animations": {
+	"NoHu-112": {
+		"slots": {
+			"minigame/Candy Crush/image/effect-nohu": {
+				"color": [
+					{ "time": 0.0333, "color": "ffffff00" },
+					{ "time": 0.4667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7, "color": "ffffffff" },
+					{ "time": 0.9333, "color": "ffffff35" },
+					{ "time": 1.1667, "color": "ffffffff" },
+					{ "time": 1.4333, "color": "ffffff43" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 1.9667, "color": "ffffff2b" },
+					{ "time": 2.2333, "color": "ffffffff" },
+					{ "time": 2.5333, "color": "ffffff36" },
+					{ "time": 2.8333, "color": "ffffffff" },
+					{ "time": 3.1333, "color": "ffffff3a" },
+					{ "time": 3.4333, "color": "ffffffff" },
+					{ "time": 3.7333, "color": "ffffff36" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "minigame/Candy Crush/image/effect-nohu" }
+				]
+			},
+			"minigame/Candy Crush/image/effect-sieuthanglon": {
+				"color": [
+					{ "time": 0.0333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "minigame/Candy Crush/image/effect-sieuthanglon" }
+				]
+			},
+			"minigame/Candy Crush/image/effect-thanglon": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"minigame/Candy Crush/image/text-nohu": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "minigame/Candy Crush/image/text-nohu" }
+				]
+			},
+			"minigame/Candy Crush/image/text-sieuthanglon": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"minigame/Candy Crush/image/text-thanglon": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.1667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Fx-effect": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": -31.04 },
+					{ "time": 0.2, "x": 4.75, "y": 2.24 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"x": 0.222,
+						"y": 0.222,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2, "x": 0.978, "y": 0.978 },
+					{ "time": 0.4667, "x": 0.769, "y": 0.769 },
+					{ "time": 0.7, "x": 1.066, "y": 1.066 },
+					{ "time": 0.9333, "x": 0.844, "y": 0.844 },
+					{ "time": 1.1667, "x": 1.071, "y": 1.071 },
+					{ "time": 1.4333, "x": 0.819, "y": 0.819 },
+					{ "time": 1.6667, "x": 1.069, "y": 1.069 },
+					{ "time": 1.9667, "x": 0.829, "y": 0.829 },
+					{ "time": 2.2333, "x": 1.081, "y": 1.081 },
+					{ "time": 2.5333, "x": 0.862, "y": 0.862 },
+					{ "time": 2.8333, "x": 0.966, "y": 0.966 },
+					{ "time": 3.1333, "x": 0.827, "y": 0.827 },
+					{ "time": 3.4333, "x": 0.942, "y": 0.942 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"ThangLown": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{
+						"time": 0.5333,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8,
+						"angle": -3.4,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.0333,
+						"angle": 2.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3,
+						"angle": -3.89,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5333,
+						"angle": 4.38,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8,
+						"angle": -4.43,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.0667,
+						"angle": 4.14,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.3333,
+						"angle": -5.34,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.5667,
+						"angle": 4.31,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.8667,
+						"angle": -0.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 3.1333,
+						"angle": 3.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 3.4333,
+						"angle": -2.87,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 3.7333, "angle": -1.51 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.7333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"x": 0.05,
+						"y": 0.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 1.308,
+						"y": 1.308,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 0.908,
+						"y": 0.908,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"x": 1.029,
+						"y": 1.029,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": 0.914,
+						"y": 0.914,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.0667,
+						"x": 1.036,
+						"y": 1.036,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.2333,
+						"x": 0.933,
+						"y": 0.933,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5667, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 1.8,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2,
+						"x": 0.885,
+						"y": 0.885,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.2,
+						"x": 1.063,
+						"y": 1.063,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.3667,
+						"x": 0.953,
+						"y": 0.953,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.6333,
+						"x": 1.15,
+						"y": 1.15,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.9333,
+						"x": 0.957,
+						"y": 0.957,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 3.2667,
+						"x": 1.139,
+						"y": 1.139,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 3.7333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.7333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"NoHu-Idel": {
+		"slots": {
+			"minigame/Candy Crush/image/effect-thanglon": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.3667, "color": "ffffff1d" },
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.3, "color": "ffffff2d" },
+					{ "time": 1.8, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.5667, "color": "ffffffff" }
+				]
+			},
+			"minigame/Candy Crush/image/text-nohu": {
+				"attachment": [
+					{ "time": 0, "name": "minigame/Candy Crush/image/text-nohu" }
+				]
+			},
+			"minigame/Candy Crush/image/text-sieuthanglon": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"minigame/Candy Crush/image/text-thanglon": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Fx-effect": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 0.5333,
+						"x": 1.146,
+						"y": 1.146,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.4333, "x": 1.203, "y": 1.203 },
+					{ "time": 2.3333, "x": 0.92, "y": 0.92 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"ThangLown": {
+				"rotate": [
+					{ "time": 0, "angle": -1.51 },
+					{
+						"time": 0.2,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"angle": -3.4,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6,
+						"angle": 2.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8,
+						"angle": -3.89,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": 4.38,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.2,
+						"angle": -4.43,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.4333,
+						"angle": 4.14,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"angle": -5.34,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8333,
+						"angle": 4.31,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9667,
+						"angle": -0.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.2,
+						"angle": 3.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.4333,
+						"angle": -2.87,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "angle": -1.51 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 0.2,
+						"x": 1.029,
+						"y": 1.029,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3667,
+						"x": 0.914,
+						"y": 0.914,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"x": 1.036,
+						"y": 1.036,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": 0.933,
+						"y": 0.933,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.0333, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 1.2,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3667,
+						"x": 0.885,
+						"y": 0.885,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5333,
+						"x": 1.063,
+						"y": 1.063,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6667,
+						"x": 0.953,
+						"y": 0.953,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8667,
+						"x": 1.15,
+						"y": 1.15,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.0333,
+						"x": 0.957,
+						"y": 0.957,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.3,
+						"x": 1.139,
+						"y": 1.139,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"Thang-Lown-112": {
+		"slots": {
+			"minigame/Candy Crush/image/effect-thanglon": {
+				"color": [
+					{ "time": 0.0333, "color": "ffffff13" },
+					{ "time": 0.2333, "color": "ffffffff" },
+					{ "time": 0.6, "color": "ffffff1d" },
+					{ "time": 1.0333, "color": "ffffffff" },
+					{ "time": 1.5333, "color": "ffffff2d" },
+					{ "time": 2.0333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.9, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 3.7333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "minigame/Candy Crush/image/effect-thanglon" }
+				]
+			},
+			"minigame/Candy Crush/image/text-thanglon": {
+				"attachment": [
+					{ "time": 0.0333, "name": "minigame/Candy Crush/image/text-thanglon" },
+					{ "time": 0.1333, "name": "minigame/Candy Crush/image/text-thanglon" }
+				]
+			}
+		},
+		"bones": {
+			"Fx-effect": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 3.7333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.7333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"x": 0.222,
+						"y": 0.222,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"x": 1.347,
+						"y": 1.347,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": 1.146,
+						"y": 1.146,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "x": 1.203, "y": 1.203 },
+					{ "time": 2.6667, "x": 0.92, "y": 0.92 },
+					{ "time": 3.7333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.7333, "x": 0, "y": 0 }
+				]
+			},
+			"ThangLown": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{
+						"time": 0.4333,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"angle": -3.4,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"angle": 2.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.0333,
+						"angle": -3.89,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.2333,
+						"angle": 4.38,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.4333,
+						"angle": -4.43,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6667,
+						"angle": 4.14,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8667,
+						"angle": -5.34,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.0667,
+						"angle": 4.31,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.3,
+						"angle": -0.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.5333,
+						"angle": 3.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.7667,
+						"angle": -2.87,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 3, "angle": -1.51, "curve": "stepped" },
+					{ "time": 3.7333, "angle": -1.51 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.7333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"x": 0.05,
+						"y": 0.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 1.308,
+						"y": 1.308,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2667,
+						"x": 0.908,
+						"y": 0.908,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4333,
+						"x": 1.029,
+						"y": 1.029,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6,
+						"x": 0.914,
+						"y": 0.914,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8667,
+						"x": 1.036,
+						"y": 1.036,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 0.933,
+						"y": 0.933,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.2667, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 1.4333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6,
+						"x": 0.885,
+						"y": 0.885,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.7667,
+						"x": 1.063,
+						"y": 1.063,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9,
+						"x": 0.953,
+						"y": 0.953,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.1,
+						"x": 1.15,
+						"y": 1.15,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.3667,
+						"x": 0.957,
+						"y": 0.957,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.6333,
+						"x": 1.139,
+						"y": 1.139,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 3, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 3.7333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.7333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"Thang-Lown-idle": {
+		"slots": {
+			"minigame/Candy Crush/image/effect-thanglon": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.3667, "color": "ffffff1d" },
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.3, "color": "ffffff2d" },
+					{ "time": 1.8, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.5667, "color": "ffffffff" }
+				]
+			},
+			"minigame/Candy Crush/image/text-thanglon": {
+				"attachment": [
+					{ "time": 0, "name": "minigame/Candy Crush/image/text-thanglon" }
+				]
+			}
+		},
+		"bones": {
+			"Fx-effect": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 0.5333,
+						"x": 1.146,
+						"y": 1.146,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.4333, "x": 1.203, "y": 1.203 },
+					{ "time": 2.3333, "x": 0.92, "y": 0.92 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"ThangLown": {
+				"rotate": [
+					{ "time": 0, "angle": -1.51 },
+					{
+						"time": 0.2,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"angle": -3.4,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6,
+						"angle": 2.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8,
+						"angle": -3.89,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": 4.38,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.2,
+						"angle": -4.43,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.4333,
+						"angle": 4.14,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"angle": -5.34,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8333,
+						"angle": 4.31,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9667,
+						"angle": -0.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.2,
+						"angle": 3.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.4333,
+						"angle": -2.87,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "angle": -1.51 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 0.2,
+						"x": 1.029,
+						"y": 1.029,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3667,
+						"x": 0.914,
+						"y": 0.914,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"x": 1.036,
+						"y": 1.036,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": 0.933,
+						"y": 0.933,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.0333, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 1.2,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3667,
+						"x": 0.885,
+						"y": 0.885,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5333,
+						"x": 1.063,
+						"y": 1.063,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6667,
+						"x": 0.953,
+						"y": 0.953,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8667,
+						"x": 1.15,
+						"y": 1.15,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.0333,
+						"x": 0.957,
+						"y": 0.957,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.3,
+						"x": 1.139,
+						"y": 1.139,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"ThangSieuLown-112": {
+		"slots": {
+			"minigame/Candy Crush/image/effect-sieuthanglon": {
+				"color": [
+					{ "time": 0.0333, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.6333, "color": "ffffff16" },
+					{ "time": 1.1667, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff1a" },
+					{ "time": 2.2667, "color": "ffffffff" },
+					{ "time": 2.7667, "color": "ffffff33" },
+					{ "time": 3.1667, "color": "ffffffff" },
+					{ "time": 3.7333, "color": "ffffff0b" }
+				],
+				"attachment": [
+					{ "time": 0.0333, "name": "minigame/Candy Crush/image/effect-sieuthanglon" }
+				]
+			},
+			"minigame/Candy Crush/image/effect-thanglon": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": null }
+				]
+			},
+			"minigame/Candy Crush/image/text-sieuthanglon": {
+				"attachment": [
+					{ "time": 0.0333, "name": "minigame/Candy Crush/image/text-sieuthanglon" }
+				]
+			},
+			"minigame/Candy Crush/image/text-thanglon": {
+				"attachment": [
+					{ "time": 0.0333, "name": null },
+					{ "time": 0.1667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Fx-effect": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": -31.04 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"x": 0.222,
+						"y": 0.222,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 0.982,
+						"y": 0.982,
+						"curve": [ 0.243, 0, 0.674, 0.69 ]
+					},
+					{
+						"time": 0.6333,
+						"x": 0.743,
+						"y": 0.743,
+						"curve": [ 0.377, 0.61, 0.72, 1 ]
+					},
+					{ "time": 1.1667, "x": 0.869, "y": 0.869 },
+					{ "time": 1.7667, "x": 0.772, "y": 0.772 },
+					{ "time": 2.2333, "x": 0.813, "y": 0.813 },
+					{ "time": 3.2667, "x": 0.738, "y": 0.738 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"ThangLown": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{
+						"time": 0.5333,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8,
+						"angle": -3.4,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.0333,
+						"angle": 2.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3,
+						"angle": -3.89,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5333,
+						"angle": 4.38,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8,
+						"angle": -4.43,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.0667,
+						"angle": 4.14,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.3333,
+						"angle": -5.34,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.5667,
+						"angle": 4.31,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.8667,
+						"angle": -0.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 3.1333,
+						"angle": 3.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 3.4333,
+						"angle": -2.87,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 3.7333, "angle": -1.51 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.7333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.0333,
+						"x": 0.05,
+						"y": 0.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 1.308,
+						"y": 1.308,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 0.908,
+						"y": 0.908,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"x": 1.029,
+						"y": 1.029,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": 0.914,
+						"y": 0.914,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.0667,
+						"x": 1.036,
+						"y": 1.036,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.2333,
+						"x": 0.933,
+						"y": 0.933,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5667, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 1.8,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2,
+						"x": 0.885,
+						"y": 0.885,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.2,
+						"x": 1.063,
+						"y": 1.063,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.3667,
+						"x": 0.953,
+						"y": 0.953,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.6333,
+						"x": 1.15,
+						"y": 1.15,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.9333,
+						"x": 0.957,
+						"y": 0.957,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 3.2667,
+						"x": 1.139,
+						"y": 1.139,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 3.7333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.7333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"ThangSieuLown-idle": {
+		"slots": {
+			"minigame/Candy Crush/image/effect-thanglon": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.3667, "color": "ffffff1d" },
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 1.3, "color": "ffffff2d" },
+					{ "time": 1.8, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 2.5667, "color": "ffffffff" }
+				]
+			},
+			"minigame/Candy Crush/image/text-sieuthanglon": {
+				"attachment": [
+					{ "time": 0, "name": "minigame/Candy Crush/image/text-sieuthanglon" }
+				]
+			},
+			"minigame/Candy Crush/image/text-thanglon": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"Fx-effect": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 0.5333,
+						"x": 1.146,
+						"y": 1.146,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.4333, "x": 1.203, "y": 1.203 },
+					{ "time": 2.3333, "x": 0.92, "y": 0.92 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"ThangLown": {
+				"rotate": [
+					{ "time": 0, "angle": -1.51 },
+					{
+						"time": 0.2,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"angle": -3.4,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6,
+						"angle": 2.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8,
+						"angle": -3.89,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"angle": 4.38,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.2,
+						"angle": -4.43,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.4333,
+						"angle": 4.14,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6333,
+						"angle": -5.34,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8333,
+						"angle": 4.31,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.9667,
+						"angle": -0.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.2,
+						"angle": 3.2,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.4333,
+						"angle": -2.87,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "angle": -1.51 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 0.2,
+						"x": 1.029,
+						"y": 1.029,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3667,
+						"x": 0.914,
+						"y": 0.914,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"x": 1.036,
+						"y": 1.036,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": 0.933,
+						"y": 0.933,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.0333, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 1.2,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.3667,
+						"x": 0.885,
+						"y": 0.885,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.5333,
+						"x": 1.063,
+						"y": 1.063,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6667,
+						"x": 0.953,
+						"y": 0.953,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8667,
+						"x": 1.15,
+						"y": 1.15,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.0333,
+						"x": 0.957,
+						"y": 0.957,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.3,
+						"x": 1.139,
+						"y": 1.139,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.6667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

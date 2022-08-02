@@ -1,0 +1,672 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "KimCuong-Lobby-P1000",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "PdaJWt1kY9+S4nKUaHjo45HBj+s",
+      "spine": "3.6.53",
+      "width": 650,
+      "height": 310,
+      "images": "../../../"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "2",
+        "parent": "root",
+        "length": 88.88,
+        "x": -2.08,
+        "y": -7.68
+      },
+      {
+        "name": "bone8",
+        "parent": "root",
+        "length": 66.83,
+        "x": 0.32,
+        "y": -2.03
+      },
+      {
+        "name": "sao-1",
+        "parent": "bone8",
+        "length": 35.73,
+        "x": -38.55,
+        "y": 21.55
+      },
+      {
+        "name": "sao-2",
+        "parent": "bone8",
+        "length": 35.73,
+        "x": 38.31,
+        "y": -8.92
+      }
+    ],
+    "slots": [
+      {
+        "name": "Kimcuong/Spine/Lobby/fx3",
+        "bone": "root",
+        "attachment": "Kimcuong/Spine/Lobby/fx"
+      },
+      {
+        "name": "Kimcuong/Spine/Lobby/P1000/1",
+        "bone": "bone8",
+        "attachment": "Kimcuong/Spine/Lobby/P1000/1"
+      },
+      {
+        "name": "Kimcuong/Spine/Lobby/fx-2",
+        "bone": "sao-1",
+        "attachment": "Kimcuong/Spine/Lobby/fx-2"
+      },
+      {
+        "name": "Kimcuong/Spine/Lobby/fx-3",
+        "bone": "sao-2",
+        "attachment": "Kimcuong/Spine/Lobby/fx-2"
+      },
+      {
+        "name": "Kimcuong/Spine/Lobby/P100/13",
+        "bone": "2",
+        "attachment": "Kimcuong/Spine/Lobby/P100/6"
+      },
+      {
+        "name": "Kimcuong/Spine/Lobby/P100/14",
+        "bone": "2",
+        "attachment": "Kimcuong/Spine/Lobby/P100/7"
+      },
+      {
+        "name": "Kimcuong/Spine/Lobby/P100/15",
+        "bone": "2",
+        "attachment": "Kimcuong/Spine/Lobby/P100/5"
+      }
+    ],
+    "skins": {
+      "default": {
+        "Kimcuong/Spine/Lobby/P100/13": {
+          "Kimcuong/Spine/Lobby/P100/6": {
+            "x": -27.5,
+            "y": 0.26,
+            "width": 122,
+            "height": 231
+          }
+        },
+        "Kimcuong/Spine/Lobby/P100/14": {
+          "Kimcuong/Spine/Lobby/P100/7": {
+            "x": -6.95,
+            "y": 44.96,
+            "width": 217,
+            "height": 141
+          }
+        },
+        "Kimcuong/Spine/Lobby/P100/15": {
+          "Kimcuong/Spine/Lobby/P100/5": {
+            "x": 13.84,
+            "y": -3.74,
+            "width": 320,
+            "height": 203
+          }
+        },
+        "Kimcuong/Spine/Lobby/P1000/1": {
+          "Kimcuong/Spine/Lobby/P1000/1": {
+            "x": -0.11,
+            "y": -5.3,
+            "width": 160,
+            "height": 178
+          }
+        },
+        "Kimcuong/Spine/Lobby/fx-2": {
+          "Kimcuong/Spine/Lobby/fx-2": {
+            "x": 0.06,
+            "y": -0.09,
+            "width": 94,
+            "height": 88
+          }
+        },
+        "Kimcuong/Spine/Lobby/fx-3": {
+          "Kimcuong/Spine/Lobby/fx-2": {
+            "x": 0.06,
+            "y": -0.09,
+            "width": 94,
+            "height": 88
+          }
+        },
+        "Kimcuong/Spine/Lobby/fx3": {
+          "Kimcuong/Spine/Lobby/fx": {
+            "x": -16.34,
+            "y": -32.2,
+            "width": 650,
+            "height": 310
+          }
+        }
+      }
+    },
+    "animations": {
+      "idle": {
+        "slots": {
+          "Kimcuong/Spine/Lobby/P100/13": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.4333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 4.5667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 6.6333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 8.9,
+                "color": "ffffff00"
+              },
+              {
+                "time": 10.6333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 13.3333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Kimcuong/Spine/Lobby/P100/6"
+              },
+              {
+                "time": 13.3333,
+                "name": "Kimcuong/Spine/Lobby/P100/6"
+              }
+            ]
+          },
+          "Kimcuong/Spine/Lobby/P100/14": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.1667,
+                "color": "ffffff7d"
+              },
+              {
+                "time": 3.6333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 6.6333,
+                "color": "ffffff7d",
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6667,
+                "color": "ffffff7d"
+              },
+              {
+                "time": 7.4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 11.2333,
+                "color": "ffffff7d"
+              },
+              {
+                "time": 12.2667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Kimcuong/Spine/Lobby/P100/7"
+              },
+              {
+                "time": 13.3333,
+                "name": "Kimcuong/Spine/Lobby/P100/7"
+              }
+            ]
+          },
+          "Kimcuong/Spine/Lobby/P100/15": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.9,
+                "color": "ffffff00"
+              },
+              {
+                "time": 3.6,
+                "color": "ffffffff"
+              },
+              {
+                "time": 6.6333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 8.2333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 10,
+                "color": "ffffff00"
+              },
+              {
+                "time": 12.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Kimcuong/Spine/Lobby/P100/5"
+              },
+              {
+                "time": 13.3333,
+                "name": "Kimcuong/Spine/Lobby/P100/5"
+              }
+            ]
+          },
+          "Kimcuong/Spine/Lobby/fx3": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff54"
+              },
+              {
+                "time": 2.9667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 6.5667,
+                "color": "ffffff54"
+              },
+              {
+                "time": 10.2333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 13.3,
+                "color": "ffffff54"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6333,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6667,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": -16.22
+              },
+              {
+                "time": 6.6333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6667,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 13.3333,
+                "x": 0,
+                "y": -16.22
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6333,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6667,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6333,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6667,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "bone8": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 3.3,
+                "angle": 93.39
+              },
+              {
+                "time": 6.6667,
+                "angle": 180
+              },
+              {
+                "time": 10,
+                "angle": -89.34
+              },
+              {
+                "time": 13.3333,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "sao-1": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.4,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.4,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.282,
+                  0,
+                  0.624,
+                  0.39
+                ]
+              },
+              {
+                "time": 2.8333,
+                "x": 0.484,
+                "y": 0.484,
+                "curve": [
+                  0.309,
+                  0.25,
+                  0.653,
+                  0.62
+                ]
+              },
+              {
+                "time": 6.4,
+                "x": 0,
+                "y": 0,
+                "curve": [
+                  0.341,
+                  0.36,
+                  0.684,
+                  0.72
+                ]
+              },
+              {
+                "time": 9.8333,
+                "x": 0.422,
+                "y": 0.422,
+                "curve": [
+                  0.38,
+                  0.6,
+                  0.726,
+                  1
+                ]
+              },
+              {
+                "time": 13.3333,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 6.4,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          },
+          "sao-2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.252,
+                  0,
+                  0.623,
+                  0.49
+                ]
+              },
+              {
+                "time": 6.3333,
+                "x": 0.084,
+                "y": 0.084,
+                "curve": [
+                  0.372,
+                  0.49,
+                  0.751,
+                  1
+                ]
+              },
+              {
+                "time": 13.3333,
+                "x": 1,
+                "y": 1
+              }
+            ],
+            "shear": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "x": 0,
+                "y": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nKimCuong-Lobby-P1000.png\r\nsize: 1024,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nKimcuong/Spine/Lobby/P100/5\r\n  rotate: false\r\n  xy: 654, 271\r\n  size: 320, 203\r\n  orig: 320, 203\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Spine/Lobby/P100/6\r\n  rotate: true\r\n  xy: 221, 40\r\n  size: 122, 231\r\n  orig: 122, 231\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Spine/Lobby/P100/7\r\n  rotate: false\r\n  xy: 2, 21\r\n  size: 217, 141\r\n  orig: 217, 141\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Spine/Lobby/P1000/1\r\n  rotate: true\r\n  xy: 454, 2\r\n  size: 160, 178\r\n  orig: 160, 178\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Spine/Lobby/fx\r\n  rotate: false\r\n  xy: 2, 164\r\n  size: 650, 310\r\n  orig: 650, 310\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Spine/Lobby/fx-2\r\n  rotate: false\r\n  xy: 654, 181\r\n  size: 94, 88\r\n  orig: 94, 88\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "cf73a81a-de38-4b4e-8e05-d251ca3dd130"
+    }
+  ],
+  "textureNames": [
+    "KimCuong-Lobby-P1000.png"
+  ],
+  "scale": 1
+}

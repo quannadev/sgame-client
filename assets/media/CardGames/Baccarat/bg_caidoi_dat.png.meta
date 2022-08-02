@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c1b5783e-2569-46be-9064-718a17e83574",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 168,
+  "height": 123,
+  "platformSettings": {},
+  "subMetas": {
+    "bg_caidoi_dat": {
+      "ver": "1.0.4",
+      "uuid": "1c50c25e-7712-4887-9748-9ba0a695c707",
+      "rawTextureUuid": "c1b5783e-2569-46be-9064-718a17e83574",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 168,
+      "height": 123,
+      "rawWidth": 168,
+      "rawHeight": 123,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b31028c9-6119-42c9-b8ed-7547df8b9da9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 75,
+  "height": 97,
+  "platformSettings": {},
+  "subMetas": {
+    "boluot-btn": {
+      "ver": "1.0.4",
+      "uuid": "7a5f31be-60a7-4a7b-8666-46f593b8407b",
+      "rawTextureUuid": "b31028c9-6119-42c9-b8ed-7547df8b9da9",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 75,
+      "height": 97,
+      "rawWidth": 75,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

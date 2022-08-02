@@ -1,0 +1,48 @@
+
+thang.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hoa
+  rotate: false
+  xy: 2, 205
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+hoa_bg
+  rotate: true
+  xy: 2, 3
+  size: 129, 40
+  orig: 129, 40
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 177
+  size: 124, 24
+  orig: 124, 24
+  offset: 0, 0
+  index: -1
+thang
+  rotate: false
+  xy: 51, 203
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+thang_cai
+  rotate: false
+  xy: 2, 134
+  size: 123, 41
+  orig: 123, 41
+  offset: 0, 0
+  index: -1
+thang_con
+  rotate: true
+  xy: 44, 2
+  size: 130, 40
+  orig: 130, 40
+  offset: 0, 0
+  index: -1

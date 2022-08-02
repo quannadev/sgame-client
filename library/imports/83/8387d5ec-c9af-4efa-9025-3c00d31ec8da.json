@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text-sukien-number-export",
+    "texture": "56fcc098-9af1-472d-be81-f68a6e2f10a6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      609,
+      594
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      609,
+      594
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

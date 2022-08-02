@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cong",
+    "texture": "339e199a-3872-4f79-bf0e-95450fd70382",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      791,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      791,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

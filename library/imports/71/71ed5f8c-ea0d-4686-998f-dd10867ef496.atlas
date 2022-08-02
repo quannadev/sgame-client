@@ -1,0 +1,314 @@
+
+Zeus-ThangLon-1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+InGame/fx/chop
+  rotate: false
+  xy: 1932, 1936
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_02
+  rotate: false
+  xy: 2, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_12
+  rotate: false
+  xy: 2, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_16
+  rotate: false
+  xy: 388, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_18
+  rotate: false
+  xy: 2, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_20
+  rotate: false
+  xy: 388, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_22
+  rotate: false
+  xy: 774, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_24
+  rotate: false
+  xy: 2, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_26
+  rotate: false
+  xy: 388, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_28
+  rotate: false
+  xy: 774, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_30
+  rotate: false
+  xy: 1160, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_32
+  rotate: false
+  xy: 2, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_34
+  rotate: false
+  xy: 388, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_36
+  rotate: false
+  xy: 774, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_38
+  rotate: false
+  xy: 1160, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_40
+  rotate: false
+  xy: 1546, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_42
+  rotate: false
+  xy: 2, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_44
+  rotate: false
+  xy: 388, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_46
+  rotate: false
+  xy: 774, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_47
+  rotate: false
+  xy: 1160, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_48
+  rotate: false
+  xy: 1546, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_49
+  rotate: false
+  xy: 2, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_50
+  rotate: false
+  xy: 388, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_51
+  rotate: false
+  xy: 774, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_52
+  rotate: false
+  xy: 1160, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_53
+  rotate: false
+  xy: 1546, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_54
+  rotate: false
+  xy: 2, 220
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_55
+  rotate: false
+  xy: 388, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_56
+  rotate: false
+  xy: 774, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_57
+  rotate: false
+  xy: 1160, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_58
+  rotate: false
+  xy: 1546, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_59
+  rotate: false
+  xy: 2, 2
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_60
+  rotate: false
+  xy: 388, 220
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_61
+  rotate: false
+  xy: 774, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_62
+  rotate: false
+  xy: 1160, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_63
+  rotate: false
+  xy: 1546, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_64
+  rotate: false
+  xy: 388, 2
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_65
+  rotate: false
+  xy: 774, 220
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_66
+  rotate: false
+  xy: 1160, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_67
+  rotate: false
+  xy: 1546, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_68
+  rotate: false
+  xy: 774, 2
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_69
+  rotate: false
+  xy: 1160, 220
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_70
+  rotate: false
+  xy: 1546, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Ncoin/rs_muaroi/NN_71
+  rotate: false
+  xy: 1160, 2
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1

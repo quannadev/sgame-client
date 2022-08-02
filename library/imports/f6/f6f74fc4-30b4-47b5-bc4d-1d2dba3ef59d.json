@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "danhbai-btn",
+    "texture": "f0950093-ad46-4962-aa67-0c02c8acb038",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

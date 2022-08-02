@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "104_bg_thanhcuoc",
+    "texture": "87c3f4bc-d372-43bf-83ef-f0579550c833",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      200,
+      1
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      1
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fc57d8c8-c5d4-458f-af45-9bd241d9a0b9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "KimCuong-BonusGame": {
+      "ver": "1.0.4",
+      "uuid": "99e6433e-9c12-4114-b71b-af1a17afd627",
+      "rawTextureUuid": "fc57d8c8-c5d4-458f-af45-9bd241d9a0b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -101.5,
+      "offsetY": 26.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 305,
+      "height": 455,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

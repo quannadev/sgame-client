@@ -1,0 +1,20 @@
+
+Sindbad-Ingame-ThangLon-Text.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fx/fx-1
+  rotate: false
+  xy: 2, 2
+  size: 75, 21
+  orig: 75, 21
+  offset: 0, 0
+  index: -1
+Ingame-Thang/thanglon-text
+  rotate: false
+  xy: 2, 25
+  size: 490, 100
+  orig: 490, 100
+  offset: 0, 0
+  index: -1

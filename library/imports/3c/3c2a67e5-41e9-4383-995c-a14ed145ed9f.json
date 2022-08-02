@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sukien-X6-Candy",
+    "texture": "e06c4c26-a51e-4a7f-b86a-15f14e9e1c27",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

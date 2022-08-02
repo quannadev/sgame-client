@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cotso-phong1",
+    "texture": "5e642413-ac3a-4404-bf81-fa8240d96b0f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1165,
+      469
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1165,
+      469
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

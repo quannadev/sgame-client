@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sukien-X6-Vampire",
+    "texture": "7090931a-6c2b-43e9-95fd-04e3215e606a",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      947,
+      1011
+    ],
+    "offset": [
+      -35.5,
+      4.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

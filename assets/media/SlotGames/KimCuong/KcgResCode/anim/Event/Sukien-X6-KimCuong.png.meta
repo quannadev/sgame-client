@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9f0a374f-f677-4c45-ad3a-95b17198354b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Sukien-X6-KimCuong": {
+      "ver": "1.0.4",
+      "uuid": "d3358bda-0c62-4df8-a611-a9ed72bbc6aa",
+      "rawTextureUuid": "9f0a374f-f677-4c45-ad3a-95b17198354b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -105.5,
+      "offsetY": 0.5,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 295,
+      "height": 249,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

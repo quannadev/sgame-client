@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xedien",
+    "texture": "7f0048cc-a123-4a77-97e3-b27ffc461f71",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      119
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

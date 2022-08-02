@@ -1,0 +1,467 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "KimCuong-ThangLon-Coin",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "uGYg8WeSCUbL2gMH5xdiGdxVcEw",
+      "spine": "3.6.53",
+      "width": 0,
+      "height": 0
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "ncoin",
+        "bone": "root"
+      }
+    ],
+    "skins": {
+      "default": {
+        "ncoin": {
+          "Kimcuong/Ncoin/Ncoin-1/N2": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N10": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N15": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N20": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N21": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N22": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N23": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N24": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N25": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N26": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N27": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N28": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N29": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N30": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N31": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N32": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N33": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N34": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N35": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N36": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N37": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N38": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N39": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N40": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N41": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N42": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N43": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N44": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N45": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N46": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N47": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N48": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N49": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N50": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N51": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N52": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N53": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N54": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N55": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N56": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N57": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N58": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N59": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N60": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N61": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N62": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N63": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N64": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N65": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N66": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N67": {
+            "width": 1280,
+            "height": 720
+          },
+          "Kimcuong/Ncoin/Ncoin-1/N68": {
+            "width": 1280,
+            "height": 720
+          }
+        }
+      }
+    },
+    "animations": {
+      "ThangLon": {
+        "slots": {
+          "ncoin": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N2"
+              },
+              {
+                "time": 0.0333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N10"
+              },
+              {
+                "time": 0.0667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N15"
+              },
+              {
+                "time": 0.1,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N20"
+              },
+              {
+                "time": 0.1333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N21"
+              },
+              {
+                "time": 0.1667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N22"
+              },
+              {
+                "time": 0.2,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N23"
+              },
+              {
+                "time": 0.2333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N24"
+              },
+              {
+                "time": 0.2667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N25"
+              },
+              {
+                "time": 0.3,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N26"
+              },
+              {
+                "time": 0.3333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N27"
+              },
+              {
+                "time": 0.3667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N28"
+              },
+              {
+                "time": 0.4,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N29"
+              },
+              {
+                "time": 0.4333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N30"
+              },
+              {
+                "time": 0.4667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N31"
+              },
+              {
+                "time": 0.5,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N32"
+              },
+              {
+                "time": 0.5333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N33"
+              },
+              {
+                "time": 0.5667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N34"
+              },
+              {
+                "time": 0.6,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N35"
+              },
+              {
+                "time": 0.6333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N36"
+              },
+              {
+                "time": 0.6667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N37"
+              },
+              {
+                "time": 0.7,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N38"
+              },
+              {
+                "time": 0.7333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N39"
+              },
+              {
+                "time": 0.7667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N40"
+              },
+              {
+                "time": 0.8,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N41"
+              },
+              {
+                "time": 0.8333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N42"
+              },
+              {
+                "time": 0.8667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N43"
+              },
+              {
+                "time": 0.9,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N44"
+              },
+              {
+                "time": 0.9333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N45"
+              },
+              {
+                "time": 0.9667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N46"
+              },
+              {
+                "time": 1,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N47"
+              },
+              {
+                "time": 1.0333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N48"
+              },
+              {
+                "time": 1.0667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N49"
+              },
+              {
+                "time": 1.1,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N50"
+              },
+              {
+                "time": 1.1333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N51"
+              },
+              {
+                "time": 1.1667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N52"
+              },
+              {
+                "time": 1.2,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N53"
+              },
+              {
+                "time": 1.2333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N54"
+              },
+              {
+                "time": 1.2667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N55"
+              },
+              {
+                "time": 1.3,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N56"
+              },
+              {
+                "time": 1.3333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N57"
+              },
+              {
+                "time": 1.3667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N58"
+              },
+              {
+                "time": 1.4,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N59"
+              },
+              {
+                "time": 1.4333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N60"
+              },
+              {
+                "time": 1.4667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N61"
+              },
+              {
+                "time": 1.5,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N62"
+              },
+              {
+                "time": 1.5333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N63"
+              },
+              {
+                "time": 1.5667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N64"
+              },
+              {
+                "time": 1.6,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N65"
+              },
+              {
+                "time": 1.6333,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N66"
+              },
+              {
+                "time": 1.6667,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N67"
+              },
+              {
+                "time": 1.7,
+                "name": "Kimcuong/Ncoin/Ncoin-1/N68"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\r\nKimCuong-ThangLon-Coin.png\r\nsize: 4096,4096\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nKimcuong/Ncoin/Ncoin-1/N10\r\n  rotate: false\r\n  xy: 2, 3260\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N15\r\n  rotate: false\r\n  xy: 644, 3622\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N2\r\n  rotate: false\r\n  xy: 2, 3622\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N20\r\n  rotate: false\r\n  xy: 2, 2898\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N21\r\n  rotate: false\r\n  xy: 644, 3260\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N22\r\n  rotate: false\r\n  xy: 1286, 3622\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N23\r\n  rotate: false\r\n  xy: 2, 2536\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N24\r\n  rotate: false\r\n  xy: 644, 2898\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N25\r\n  rotate: false\r\n  xy: 1286, 3260\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N26\r\n  rotate: false\r\n  xy: 1928, 3622\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N27\r\n  rotate: false\r\n  xy: 2, 2174\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N28\r\n  rotate: false\r\n  xy: 644, 2536\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N29\r\n  rotate: false\r\n  xy: 1286, 2898\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N30\r\n  rotate: false\r\n  xy: 1928, 3260\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N31\r\n  rotate: false\r\n  xy: 2570, 3622\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N32\r\n  rotate: false\r\n  xy: 2, 1812\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N33\r\n  rotate: false\r\n  xy: 644, 2174\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N34\r\n  rotate: false\r\n  xy: 1286, 2536\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N35\r\n  rotate: false\r\n  xy: 1928, 2898\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N36\r\n  rotate: false\r\n  xy: 2570, 3260\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N37\r\n  rotate: false\r\n  xy: 3212, 3622\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N38\r\n  rotate: false\r\n  xy: 2, 1450\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N39\r\n  rotate: false\r\n  xy: 644, 1812\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N40\r\n  rotate: false\r\n  xy: 1286, 2174\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N41\r\n  rotate: false\r\n  xy: 1928, 2536\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N42\r\n  rotate: false\r\n  xy: 2570, 2898\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N43\r\n  rotate: false\r\n  xy: 3212, 3260\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N44\r\n  rotate: false\r\n  xy: 2, 1088\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N45\r\n  rotate: false\r\n  xy: 644, 1450\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N46\r\n  rotate: false\r\n  xy: 1286, 1812\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N47\r\n  rotate: false\r\n  xy: 1928, 2174\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N48\r\n  rotate: false\r\n  xy: 2570, 2536\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N49\r\n  rotate: false\r\n  xy: 3212, 2898\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N50\r\n  rotate: false\r\n  xy: 2, 726\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N51\r\n  rotate: false\r\n  xy: 644, 1088\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N52\r\n  rotate: false\r\n  xy: 1286, 1450\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N53\r\n  rotate: false\r\n  xy: 1928, 1812\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N54\r\n  rotate: false\r\n  xy: 2570, 2174\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N55\r\n  rotate: false\r\n  xy: 3212, 2536\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N56\r\n  rotate: false\r\n  xy: 2, 364\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N57\r\n  rotate: false\r\n  xy: 644, 726\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N58\r\n  rotate: false\r\n  xy: 1286, 1088\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N59\r\n  rotate: false\r\n  xy: 1928, 1450\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N60\r\n  rotate: false\r\n  xy: 2570, 1812\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N61\r\n  rotate: false\r\n  xy: 3212, 2174\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N62\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N63\r\n  rotate: false\r\n  xy: 644, 364\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N64\r\n  rotate: false\r\n  xy: 1286, 726\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N65\r\n  rotate: false\r\n  xy: 1928, 1088\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N66\r\n  rotate: false\r\n  xy: 2570, 1450\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N67\r\n  rotate: false\r\n  xy: 3212, 1812\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Ncoin/Ncoin-1/N68\r\n  rotate: false\r\n  xy: 644, 2\r\n  size: 640, 360\r\n  orig: 640, 360\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "textures": [
+    {
+      "__uuid__": "9b0c0248-e87a-4ffd-ac0d-f81cfa7fe333"
+    }
+  ],
+  "textureNames": [
+    "KimCuong-ThangLon-Coin.png"
+  ],
+  "scale": 1
+}

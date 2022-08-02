@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_cuoc_ca_nhan",
+    "texture": "63c089e6-5131-40a6-a8f0-49522413110e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

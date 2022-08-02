@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txtLichSuGiaoDich",
+    "texture": "29583935-52d5-492b-8c00-48b60c9f56cd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      503,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      503,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

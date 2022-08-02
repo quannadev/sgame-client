@@ -1,0 +1,53 @@
+{
+  "title": "SGame68",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "780a4e97-2a84-499a-b9aa-cf8699dd9288",
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "landscape",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "default",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "nativeMd5Cache": false,
+  "encryptJs": false,
+  "xxteaKey": "0ab63801-a5e2-4a",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "koja.sgame68.me"
+  },
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "com.game.sgame68.vip"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false
+}

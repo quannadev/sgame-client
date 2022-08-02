@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vongtron",
+    "texture": "4278125d-4dd0-415b-9fd7-e87f2ebe6e64",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      628,
+      623
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      628,
+      625
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

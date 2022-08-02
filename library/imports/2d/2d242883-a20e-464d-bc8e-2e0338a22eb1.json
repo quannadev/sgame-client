@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "somoi-export",
+    "texture": "abf249c8-e863-4910-ad89-9652c6a19ad9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      165,
+      191
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      166,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zeus-ThangLon-2",
+    "texture": "b51c06cb-b249-48f8-8ac1-ef079e25295a",
+    "atlas": "",
+    "rect": [
+      7,
+      7,
+      673,
+      353
+    ],
+    "offset": [
+      -168.5,
+      72.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

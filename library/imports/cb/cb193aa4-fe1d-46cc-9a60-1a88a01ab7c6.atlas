@@ -1,0 +1,55 @@
+
+olympus.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 7
+  rotate: false
+  xy: 2, 2
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 482
+  size: 174, 333
+  orig: 174, 333
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 147
+  size: 174, 333
+  orig: 174, 333
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 178, 437
+  size: 174, 43
+  orig: 174, 43
+  offset: 0, 0
+  index: -1
+lightttt
+  rotate: false
+  xy: 178, 482
+  size: 174, 333
+  orig: 174, 333
+  offset: 0, 0
+  index: -1
+olym
+  rotate: false
+  xy: 354, 774
+  size: 163, 41
+  orig: 163, 41
+  offset: 0, 0
+  index: -1
+olym2
+  rotate: false
+  xy: 2, 71
+  size: 174, 74
+  orig: 174, 74
+  offset: 0, 0
+  index: -1

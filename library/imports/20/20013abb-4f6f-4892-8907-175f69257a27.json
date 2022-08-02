@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dung nan",
+    "texture": "1a6c8245-6b8d-462d-925b-691711088164",
+    "atlas": "",
+    "rect": [
+      15,
+      19,
+      84,
+      100
+    ],
+    "offset": [
+      -5.5,
+      -4
+    ],
+    "originalSize": [
+      125,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

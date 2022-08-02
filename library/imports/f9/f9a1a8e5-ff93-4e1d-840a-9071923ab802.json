@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lobby-P10000",
+    "texture": "5d02b94f-ae3b-4a02-8b01-22c490d759a3",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      2030,
+      987
+    ],
+    "offset": [
+      -6,
+      15.5
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+
+Icon-FreeSpine.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Spine/Ingame-Icon/FreeSpine/1
+  rotate: false
+  xy: 2, 92
+  size: 175, 160
+  orig: 175, 160
+  offset: 0, 0
+  index: -1
+Spine/Ingame-Icon/FreeSpine/2
+  rotate: true
+  xy: 179, 78
+  size: 174, 72
+  orig: 174, 72
+  offset: 0, 0
+  index: -1
+Spine/Lobby/fx-2
+  rotate: false
+  xy: 2, 2
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1

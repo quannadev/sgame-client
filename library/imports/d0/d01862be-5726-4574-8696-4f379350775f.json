@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dangnhap-popup-btn",
+    "texture": "0a58f334-b172-404b-99e9-ce04acc8f124",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

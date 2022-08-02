@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bonus-FreeSpine",
+    "texture": "789fe03f-6505-4ce9-ab66-c454bef5699b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      984,
+      498
+    ],
+    "offset": [
+      -18,
+      5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

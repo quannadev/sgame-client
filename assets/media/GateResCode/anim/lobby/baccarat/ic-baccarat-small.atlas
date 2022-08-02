@@ -1,0 +1,41 @@
+
+ic-baccarat-small.png
+size: 469,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baccarat
+  rotate: true
+  xy: 196, 27
+  size: 180, 35
+  orig: 180, 35
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 343, 103
+  size: 104, 124
+  orig: 104, 124
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 343, 2
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 233, 78
+  size: 108, 129
+  orig: 108, 129
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 15
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1

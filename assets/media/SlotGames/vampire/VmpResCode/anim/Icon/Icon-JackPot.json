@@ -1,0 +1,133 @@
+{
+"skeleton": { "hash": "4XV6E71VabvbtsdHce6TWZ2WTfU", "spine": "3.6.53", "width": 146.83, "height": 146.83, "images": "../../../images/items/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 28.68, "x": -0.2, "y": -39.41 },
+	{ "name": "bone2", "parent": "root", "scaleX": 0.864, "scaleY": 0.864 }
+],
+"slots": [
+	{ "name": "Jackpot", "bone": "bone2", "attachment": "Icon-JackPot/jackpot/01" },
+	{ "name": "Icon-JackPot/text", "bone": "bone", "attachment": "Icon-JackPot/text" }
+],
+"skins": {
+	"default": {
+		"Icon-JackPot/text": {
+			"Icon-JackPot/text": { "x": 0.29, "y": -0.66, "width": 129, "height": 41 }
+		},
+		"Jackpot": {
+			"Icon-JackPot/jackpot/01": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/02": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/03": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/04": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/05": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/06": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/07": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/08": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/09": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/10": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/11": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/12": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/13": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/14": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/15": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/16": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/17": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/18": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/19": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/20": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/21": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/22": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/23": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/24": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/25": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/26": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/27": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/28": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/29": { "width": 170, "height": 170 },
+			"Icon-JackPot/jackpot/30": { "width": 170, "height": 170 }
+		}
+	}
+},
+"animations": {
+	"Idle": {
+		"slots": {
+			"Jackpot": {
+				"attachment": [
+					{ "time": 0, "name": "Icon-JackPot/jackpot/01" },
+					{ "time": 0.0333, "name": "Icon-JackPot/jackpot/02" },
+					{ "time": 0.0667, "name": "Icon-JackPot/jackpot/03" },
+					{ "time": 0.1, "name": "Icon-JackPot/jackpot/04" },
+					{ "time": 0.1333, "name": "Icon-JackPot/jackpot/05" },
+					{ "time": 0.1667, "name": "Icon-JackPot/jackpot/06" },
+					{ "time": 0.2, "name": "Icon-JackPot/jackpot/07" },
+					{ "time": 0.2333, "name": "Icon-JackPot/jackpot/08" },
+					{ "time": 0.2667, "name": "Icon-JackPot/jackpot/09" },
+					{ "time": 0.3, "name": "Icon-JackPot/jackpot/10" },
+					{ "time": 0.3333, "name": "Icon-JackPot/jackpot/11" },
+					{ "time": 0.3667, "name": "Icon-JackPot/jackpot/12" },
+					{ "time": 0.4, "name": "Icon-JackPot/jackpot/13" },
+					{ "time": 0.4333, "name": "Icon-JackPot/jackpot/14" },
+					{ "time": 0.4667, "name": "Icon-JackPot/jackpot/15" },
+					{ "time": 0.5, "name": "Icon-JackPot/jackpot/16" },
+					{ "time": 0.5333, "name": "Icon-JackPot/jackpot/17" },
+					{ "time": 0.5667, "name": "Icon-JackPot/jackpot/18" },
+					{ "time": 0.6, "name": "Icon-JackPot/jackpot/19" },
+					{ "time": 0.6333, "name": "Icon-JackPot/jackpot/20" },
+					{ "time": 0.6667, "name": "Icon-JackPot/jackpot/21" },
+					{ "time": 0.7, "name": "Icon-JackPot/jackpot/22" },
+					{ "time": 0.7333, "name": "Icon-JackPot/jackpot/23" },
+					{ "time": 0.7667, "name": "Icon-JackPot/jackpot/24" },
+					{ "time": 0.8, "name": "Icon-JackPot/jackpot/25" },
+					{ "time": 0.8333, "name": "Icon-JackPot/jackpot/26" },
+					{ "time": 0.8667, "name": "Icon-JackPot/jackpot/27" },
+					{ "time": 0.9, "name": "Icon-JackPot/jackpot/28" },
+					{ "time": 0.9333, "name": "Icon-JackPot/jackpot/29" },
+					{ "time": 0.9667, "name": "Icon-JackPot/jackpot/30" },
+					{ "time": 1, "name": "Icon-JackPot/jackpot/01" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0.9, "angle": 0, "curve": "stepped" },
+					{ "time": 1.1, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3, "angle": 0, "curve": "stepped" },
+					{ "time": 1.5, "angle": 0, "curve": "stepped" },
+					{ "time": 1.7, "angle": 0, "curve": "stepped" },
+					{ "time": 1.9, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0.9, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.7, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.9, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.9, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.136, "y": 1.136 },
+					{ "time": 1.1, "x": 1, "y": 1 },
+					{ "time": 1.2, "x": 1.136, "y": 1.136 },
+					{ "time": 1.3, "x": 1, "y": 1 },
+					{ "time": 1.4, "x": 1.136, "y": 1.136 },
+					{ "time": 1.5, "x": 1, "y": 1 },
+					{ "time": 1.6, "x": 1.136, "y": 1.136 },
+					{ "time": 1.7, "x": 1, "y": 1 },
+					{ "time": 1.8, "x": 1.136, "y": 1.136 },
+					{ "time": 1.9, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0.9, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.7, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.9, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

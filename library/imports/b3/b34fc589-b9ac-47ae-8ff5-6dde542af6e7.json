@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ThungPhaSanh",
+    "texture": "a3a0fdf7-8e47-4cf7-b575-bc93ced3811c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      246,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      246,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

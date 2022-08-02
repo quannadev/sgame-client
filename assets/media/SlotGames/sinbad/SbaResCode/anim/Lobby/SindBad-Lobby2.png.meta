@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7eefb5f5-a9ff-4bc4-a0f2-ebd11e11b8b3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "SindBad-Lobby2": {
+      "ver": "1.0.4",
+      "uuid": "465edcc7-cc91-4b0d-bef1-adeb7cdc3dcd",
+      "rawTextureUuid": "7eefb5f5-a9ff-4bc4-a0f2-ebd11e11b8b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 2037,
+      "height": 2043,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

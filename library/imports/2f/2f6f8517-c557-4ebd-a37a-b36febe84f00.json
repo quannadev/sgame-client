@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vampire-NoHu",
+    "texture": "d2339a56-9e53-481e-a8a4-358c8f582bcd",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1020,
+      1015
+    ],
+    "offset": [
+      0,
+      2.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

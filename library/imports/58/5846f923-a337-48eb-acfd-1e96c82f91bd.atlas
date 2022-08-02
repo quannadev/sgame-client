@@ -1,0 +1,174 @@
+
+Zeus-BonusGame.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 217, 48
+  size: 137, 160
+  orig: 137, 160
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 786, 386
+  size: 205, 113
+  orig: 205, 113
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 478, 254
+  size: 306, 245
+  orig: 306, 245
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 379, 5
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 776, 33
+  size: 68, 73
+  orig: 68, 73
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 187
+  size: 474, 312
+  orig: 474, 312
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 786, 276
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 379, 84
+  size: 85, 101
+  orig: 85, 101
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 2, 45
+  size: 213, 140
+  orig: 213, 140
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0038_Layer-15
+  rotate: false
+  xy: 888, 284
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0039_Layer-14
+  rotate: true
+  xy: 478, 170
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0040_Layer-13
+  rotate: true
+  xy: 580, 170
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0041_Layer-12
+  rotate: true
+  xy: 682, 170
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0042_Layer-11
+  rotate: true
+  xy: 466, 86
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0043_Layer-10
+  rotate: true
+  xy: 568, 86
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0044_Layer-9
+  rotate: true
+  xy: 670, 86
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0045_Layer-8
+  rotate: true
+  xy: 786, 192
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0047_Layer-6
+  rotate: false
+  xy: 888, 182
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0048_Layer-5
+  rotate: true
+  xy: 470, 2
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0049_Layer-4
+  rotate: true
+  xy: 572, 2
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0050_Layer-3
+  rotate: true
+  xy: 674, 2
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0051_Layer-2
+  rotate: true
+  xy: 784, 108
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+fx-25-2/fx-25-2_0000s_0052_Layer-1
+  rotate: true
+  xy: 886, 98
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+miss
+  rotate: false
+  xy: 2, 13
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1

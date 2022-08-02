@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vampire-Character",
+    "texture": "cae7d56a-9edd-4d41-8519-accfe6ac0f3e",
+    "atlas": "",
+    "rect": [
+      2,
+      12,
+      4050,
+      4059
+    ],
+    "offset": [
+      -21,
+      6.5
+    ],
+    "originalSize": [
+      4096,
+      4096
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

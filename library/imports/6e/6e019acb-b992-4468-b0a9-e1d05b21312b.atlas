@@ -1,0 +1,300 @@
+
+Sindbad-Ingame-ThangLon-Coin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coin/Ncoin-1/N11
+  rotate: false
+  xy: 388, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N13
+  rotate: false
+  xy: 2, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N15
+  rotate: false
+  xy: 388, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N17
+  rotate: false
+  xy: 774, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N19
+  rotate: false
+  xy: 2, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N2
+  rotate: false
+  xy: 2, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N21
+  rotate: false
+  xy: 388, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N23
+  rotate: false
+  xy: 774, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N25
+  rotate: false
+  xy: 1160, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N27
+  rotate: false
+  xy: 2, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N29
+  rotate: false
+  xy: 388, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N31
+  rotate: false
+  xy: 774, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N33
+  rotate: false
+  xy: 1160, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N35
+  rotate: false
+  xy: 1546, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N37
+  rotate: false
+  xy: 2, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N39
+  rotate: false
+  xy: 388, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N41
+  rotate: false
+  xy: 774, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N43
+  rotate: false
+  xy: 1160, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N45
+  rotate: false
+  xy: 1546, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N47
+  rotate: false
+  xy: 2, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N48
+  rotate: false
+  xy: 388, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N49
+  rotate: false
+  xy: 774, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N50
+  rotate: false
+  xy: 1160, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N51
+  rotate: false
+  xy: 1546, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N52
+  rotate: false
+  xy: 2, 220
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N53
+  rotate: false
+  xy: 388, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N54
+  rotate: false
+  xy: 774, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N55
+  rotate: false
+  xy: 1160, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N56
+  rotate: false
+  xy: 1546, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N57
+  rotate: false
+  xy: 2, 2
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N58
+  rotate: false
+  xy: 388, 220
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N59
+  rotate: false
+  xy: 774, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N60
+  rotate: false
+  xy: 1160, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N61
+  rotate: false
+  xy: 1546, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N62
+  rotate: false
+  xy: 388, 2
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N63
+  rotate: false
+  xy: 774, 220
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N64
+  rotate: false
+  xy: 1160, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N65
+  rotate: false
+  xy: 1546, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N66
+  rotate: false
+  xy: 774, 2
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N67
+  rotate: false
+  xy: 1160, 220
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N68
+  rotate: false
+  xy: 1546, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+Coin/Ncoin-1/N9
+  rotate: false
+  xy: 2, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
