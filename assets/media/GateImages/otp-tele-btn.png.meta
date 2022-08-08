@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "33d994ac-9f1b-45d0-883a-d0e33801e25f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "otp-tele-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2ecaf6f0-995a-4078-87da-e7a32e0e4e30",
+      "importer": "sprite-frame",
       "rawTextureUuid": "33d994ac-9f1b-45d0-883a-d0e33801e25f",
       "trimType": "custom",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3e73b944-5433-4b68-a86c-168b0a083e79",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "aladdin": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e8440569-1a70-4740-a1e9-2bff3fafed1d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3e73b944-5433-4b68-a86c-168b0a083e79",
       "trimType": "auto",
       "trimThreshold": 1,

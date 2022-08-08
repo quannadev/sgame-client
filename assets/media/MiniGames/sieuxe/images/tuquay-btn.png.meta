@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1e3104b6-5933-4562-8010-b9c412f1edb1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "tuquay-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "23e0e279-1b5e-48ea-9128-2867f8869276",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1e3104b6-5933-4562-8010-b9c412f1edb1",
       "trimType": "auto",
       "trimThreshold": 1,

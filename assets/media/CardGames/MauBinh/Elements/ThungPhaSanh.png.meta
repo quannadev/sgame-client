@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a3a0fdf7-8e47-4cf7-b575-bc93ced3811c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ThungPhaSanh": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b34fc589-b9ac-47ae-8ff5-6dde542af6e7",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a3a0fdf7-8e47-4cf7-b575-bc93ced3811c",
       "trimType": "auto",
       "trimThreshold": 1,

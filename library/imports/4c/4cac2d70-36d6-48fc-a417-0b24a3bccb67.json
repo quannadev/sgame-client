@@ -1888,7 +1888,7 @@
       }
     }
   },
-  "_atlasText": "\r\nVampire-Bonus-FreeSpine.png\r\nsize: 1024,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nSpine/Fx/fx-1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 75, 21\r\n  orig: 75, 21\r\n  offset: 0, 0\r\n  index: -1\r\nimages/Bonus Game/bonus-game-text\r\n  rotate: false\r\n  xy: 2, 25\r\n  size: 330, 199\r\n  orig: 330, 199\r\n  offset: 0, 0\r\n  index: -1\r\nimages/Free Spin/free-spin-text\r\n  rotate: false\r\n  xy: 334, 152\r\n  size: 375, 72\r\n  orig: 375, 72\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nVampire-Bonus-FreeSpine.png\nsize: 1024,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nSpine/Fx/fx-1\n  rotate: false\n  xy: 2, 2\n  size: 75, 21\n  orig: 75, 21\n  offset: 0, 0\n  index: -1\nimages/Bonus Game/bonus-game-text\n  rotate: false\n  xy: 2, 25\n  size: 330, 199\n  orig: 330, 199\n  offset: 0, 0\n  index: -1\nimages/Free Spin/free-spin-text\n  rotate: false\n  xy: 334, 152\n  size: 375, 72\n  orig: 375, 72\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "06f89011-d04f-4b6e-8eac-cbc750b9bd5c"

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "dab405f6-0db0-4454-b449-02ec0fbe876f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "soduhu-export": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e5ed78b8-c282-4b48-a1e9-395e682c7e73",
+      "importer": "sprite-frame",
       "rawTextureUuid": "dab405f6-0db0-4454-b449-02ec0fbe876f",
       "trimType": "auto",
       "trimThreshold": 1,

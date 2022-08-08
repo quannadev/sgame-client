@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d43ebbd9-d16d-4fbb-8bb9-658e3654a639",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "chuyenkhoan": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f2518759-d326-402c-9b98-6af1b64ea515",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d43ebbd9-d16d-4fbb-8bb9-658e3654a639",
       "trimType": "custom",
       "trimThreshold": 1,

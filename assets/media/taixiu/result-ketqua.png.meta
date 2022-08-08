@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a8613659-432b-45c8-8cf7-5c162b83d349",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "result-ketqua": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c35f671e-a9ab-4baf-b66d-fd8bb58f1103",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a8613659-432b-45c8-8cf7-5c162b83d349",
       "trimType": "auto",
       "trimThreshold": 1,

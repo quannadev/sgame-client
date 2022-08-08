@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4eb2e103-e45a-4b79-a6dd-6d234154c0e8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "phong-bg": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a179af98-db0c-428c-bcf7-e16c38346d60",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4eb2e103-e45a-4b79-a6dd-6d234154c0e8",
       "trimType": "auto",
       "trimThreshold": 1,

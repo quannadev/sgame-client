@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "626f3bf6-521a-457f-84d6-be7ea036112a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "thele-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "acdfec64-5587-4a02-b900-e5be8f1c7c07",
+      "importer": "sprite-frame",
       "rawTextureUuid": "626f3bf6-521a-457f-84d6-be7ea036112a",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8cc56c7a-7351-47cc-bb00-f1f99eca4029",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "rong-icon": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a30f104f-976b-4fd1-bcd6-915736c1fae9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8cc56c7a-7351-47cc-bb00-f1f99eca4029",
       "trimType": "custom",
       "trimThreshold": 1,

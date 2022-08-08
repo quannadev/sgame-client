@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "56fcc098-9af1-472d-be81-f68a6e2f10a6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "text-sukien-number-export": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8387d5ec-c9af-4efa-9025-3c00d31ec8da",
+      "importer": "sprite-frame",
       "rawTextureUuid": "56fcc098-9af1-472d-be81-f68a6e2f10a6",
       "trimType": "custom",
       "trimThreshold": 1,

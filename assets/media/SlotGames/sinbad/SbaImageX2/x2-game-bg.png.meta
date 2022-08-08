@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3a71978b-3255-469d-bda5-5f58779fa4ea",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "x2-game-bg": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5d9325f9-ae27-422b-9314-77ddab00df8b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3a71978b-3255-469d-bda5-5f58779fa4ea",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8a04fc1b-b88c-4389-b555-dc78387cc5ec",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "SindBad-Lobby": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "71b7eea6-e7d8-4601-aa93-381d7f9e1735",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8a04fc1b-b88c-4389-b555-dc78387cc5ec",
       "trimType": "auto",
       "trimThreshold": 1,

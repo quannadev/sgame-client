@@ -2109,7 +2109,7 @@
       }
     }
   },
-  "_atlasText": "\r\nIcon-FreeSpine.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nSpine/Ingame-Icon/FreeSpine/1\r\n  rotate: false\r\n  xy: 2, 92\r\n  size: 175, 160\r\n  orig: 175, 160\r\n  offset: 0, 0\r\n  index: -1\r\nSpine/Ingame-Icon/FreeSpine/2\r\n  rotate: true\r\n  xy: 179, 78\r\n  size: 174, 72\r\n  orig: 174, 72\r\n  offset: 0, 0\r\n  index: -1\r\nSpine/Lobby/fx-2\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 94, 88\r\n  orig: 94, 88\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nIcon-FreeSpine.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nSpine/Ingame-Icon/FreeSpine/1\n  rotate: false\n  xy: 2, 92\n  size: 175, 160\n  orig: 175, 160\n  offset: 0, 0\n  index: -1\nSpine/Ingame-Icon/FreeSpine/2\n  rotate: true\n  xy: 179, 78\n  size: 174, 72\n  orig: 174, 72\n  offset: 0, 0\n  index: -1\nSpine/Lobby/fx-2\n  rotate: false\n  xy: 2, 2\n  size: 94, 88\n  orig: 94, 88\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "8f4b551e-b70e-4801-8f12-0b522e8fac03"

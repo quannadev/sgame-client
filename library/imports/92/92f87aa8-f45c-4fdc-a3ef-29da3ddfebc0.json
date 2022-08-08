@@ -538,7 +538,7 @@
       }
     }
   },
-  "_atlasText": "\r\nSukien-X6-KimCuong.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 126, 251\r\n  orig: 126, 251\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: false\r\n  xy: 130, 98\r\n  size: 171, 155\r\n  orig: 171, 155\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 130, 11\r\n  size: 170, 85\r\n  orig: 170, 85\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nSukien-X6-KimCuong.png\nsize: 512,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: false\n  xy: 2, 2\n  size: 126, 251\n  orig: 126, 251\n  offset: 0, 0\n  index: -1\n2\n  rotate: false\n  xy: 130, 98\n  size: 171, 155\n  orig: 171, 155\n  offset: 0, 0\n  index: -1\n3\n  rotate: false\n  xy: 130, 11\n  size: 170, 85\n  orig: 170, 85\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "9f0a374f-f677-4c45-ad3a-95b17198354b"

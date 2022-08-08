@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d6fde2f4-479e-4bbe-a9a6-60979e28e199",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bg_nhacon_dat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f1bc1062-b397-47ea-a5d8-368c645b902f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d6fde2f4-479e-4bbe-a9a6-60979e28e199",
       "trimType": "custom",
       "trimThreshold": 1,

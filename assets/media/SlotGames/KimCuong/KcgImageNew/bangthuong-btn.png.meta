@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3aa5fab9-7247-4010-9588-1023e9b68ce0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bangthuong-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0ddcd3a4-0154-40d6-9c49-f7f73b02ed1f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3aa5fab9-7247-4010-9588-1023e9b68ce0",
       "trimType": "auto",
       "trimThreshold": 1,

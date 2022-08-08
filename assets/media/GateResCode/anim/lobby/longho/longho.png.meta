@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3a2f10d0-7601-4501-994d-38849c4fd458",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "longho": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "01800eb6-3547-4a58-bf0d-797e51aa9178",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3a2f10d0-7601-4501-994d-38849c4fd458",
       "trimType": "custom",
       "trimThreshold": 1,

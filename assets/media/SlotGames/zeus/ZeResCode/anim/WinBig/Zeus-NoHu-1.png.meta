@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "7be47b3e-4c17-4840-b27b-898e3e5cebac",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Zeus-NoHu-1": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "fed8cafa-d9c0-4b75-a3b7-97a12c4452c5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "7be47b3e-4c17-4840-b27b-898e3e5cebac",
       "trimType": "auto",
       "trimThreshold": 1,

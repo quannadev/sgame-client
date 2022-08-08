@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6803cf98-90eb-477a-805a-a38bf3876605",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "xocdia": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "417c2893-a18f-4ae9-8268-d473f01c1741",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6803cf98-90eb-477a-805a-a38bf3876605",
       "trimType": "auto",
       "trimThreshold": 1,

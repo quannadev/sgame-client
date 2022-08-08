@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a0f4b804-ed3b-46e2-9d5a-d37e1c6e98ca",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Icon-Zeus-jackpot": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "905bd48d-e31d-4514-bb59-1f8d2c6614d7",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a0f4b804-ed3b-46e2-9d5a-d37e1c6e98ca",
       "trimType": "auto",
       "trimThreshold": 1,

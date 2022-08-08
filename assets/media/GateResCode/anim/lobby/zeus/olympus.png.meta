@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ca8f9ef8-6d36-40c2-a065-42141767e663",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "olympus": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5f5e5366-49c8-4500-84e7-46e95ff32415",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ca8f9ef8-6d36-40c2-a065-42141767e663",
       "trimType": "custom",
       "trimThreshold": 1,

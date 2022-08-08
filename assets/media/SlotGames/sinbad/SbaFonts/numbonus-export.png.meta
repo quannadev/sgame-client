@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4e185901-ba28-4eb4-a8be-1e542f83571b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "numbonus-export": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "73593729-eb3d-4454-a614-6631013cbbd5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4e185901-ba28-4eb4-a8be-1e542f83571b",
       "trimType": "auto",
       "trimThreshold": 1,

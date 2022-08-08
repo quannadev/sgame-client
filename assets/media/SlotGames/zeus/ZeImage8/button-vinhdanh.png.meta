@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "183b1095-a605-4062-b776-0003b0edc294",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "button-vinhdanh": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "89f0969b-d2bf-4823-881d-07be94988c32",
+      "importer": "sprite-frame",
       "rawTextureUuid": "183b1095-a605-4062-b776-0003b0edc294",
       "trimType": "auto",
       "trimThreshold": 1,

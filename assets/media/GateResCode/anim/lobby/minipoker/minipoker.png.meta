@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5157febe-6a25-40e9-b8b9-ecf8231699bd",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "minipoker": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b24850dd-00f1-4f63-9bb8-68c7d7e55819",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5157febe-6a25-40e9-b8b9-ecf8231699bd",
       "trimType": "custom",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3818a48e-c93f-4503-b71d-e4443e901618",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bangthuong": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c132a42c-6cda-474f-80d0-2e0410c779af",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3818a48e-c93f-4503-b71d-e4443e901618",
       "trimType": "auto",
       "trimThreshold": 1,

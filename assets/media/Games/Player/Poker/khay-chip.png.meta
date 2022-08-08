@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "788d9139-08ea-415b-8ea7-92d88b5f4931",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "khay-chip": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6446a8d8-d890-4c54-903b-faf3356fffba",
+      "importer": "sprite-frame",
       "rawTextureUuid": "788d9139-08ea-415b-8ea7-92d88b5f4931",
       "trimType": "custom",
       "trimThreshold": 1,

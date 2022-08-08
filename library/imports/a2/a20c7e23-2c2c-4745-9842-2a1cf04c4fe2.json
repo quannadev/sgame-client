@@ -510,7 +510,7 @@
       }
     }
   },
-  "_atlasText": "\r\nSindbad-Ingame-ThangLon-Text.png\r\nsize: 512,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nFx/fx-1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 75, 21\r\n  orig: 75, 21\r\n  offset: 0, 0\r\n  index: -1\r\nIngame-Thang/thanglon-text\r\n  rotate: false\r\n  xy: 2, 25\r\n  size: 490, 100\r\n  orig: 490, 100\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nSindbad-Ingame-ThangLon-Text.png\nsize: 512,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nFx/fx-1\n  rotate: false\n  xy: 2, 2\n  size: 75, 21\n  orig: 75, 21\n  offset: 0, 0\n  index: -1\nIngame-Thang/thanglon-text\n  rotate: false\n  xy: 2, 25\n  size: 490, 100\n  orig: 490, 100\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "0d1906c4-0b9f-451e-aaa5-714795b1e07b"

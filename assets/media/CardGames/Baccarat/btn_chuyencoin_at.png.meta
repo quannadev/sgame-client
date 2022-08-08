@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3d84c3c5-3ab5-43ec-93c2-c9afea1fbc8b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "btn_chuyencoin_at": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5a32d03a-16a6-4862-b74b-f0421a049505",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3d84c3c5-3ab5-43ec-93c2-c9afea1fbc8b",
       "trimType": "custom",
       "trimThreshold": 1,

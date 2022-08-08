@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "cd7a30e5-3f8f-4f1a-84d8-72a7defb9e60",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "BanCa-Thang-2": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2b19f261-e72f-4feb-bae4-98b6528cb93a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "cd7a30e5-3f8f-4f1a-84d8-72a7defb9e60",
       "trimType": "custom",
       "trimThreshold": 1,

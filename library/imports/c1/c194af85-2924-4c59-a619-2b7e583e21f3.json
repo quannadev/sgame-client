@@ -1322,7 +1322,7 @@
       }
     }
   },
-  "_atlasText": "\r\nXocXoc-Bat.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nimages/bat\r\n  rotate: false\r\n  xy: 2, 100\r\n  size: 96, 96\r\n  orig: 96, 96\r\n  offset: 0, 0\r\n  index: -1\r\nimages/bat1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 96, 96\r\n  orig: 96, 96\r\n  offset: 0, 0\r\n  index: -1\r\nimages/bat2\r\n  rotate: false\r\n  xy: 100, 137\r\n  size: 59, 59\r\n  orig: 59, 59\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nXocXoc-Bat.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimages/bat\n  rotate: false\n  xy: 2, 100\n  size: 96, 96\n  orig: 96, 96\n  offset: 0, 0\n  index: -1\nimages/bat1\n  rotate: false\n  xy: 2, 2\n  size: 96, 96\n  orig: 96, 96\n  offset: 0, 0\n  index: -1\nimages/bat2\n  rotate: false\n  xy: 100, 137\n  size: 59, 59\n  orig: 59, 59\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "90f84de6-dd55-4095-912d-e5f9a7930dda"

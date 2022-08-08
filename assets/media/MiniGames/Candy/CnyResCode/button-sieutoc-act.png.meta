@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d1c816aa-b9a2-4f41-a74a-ef83fa2f99d9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "button-sieutoc-act": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e2c73ec6-90c3-4be4-bdd5-96035b48e398",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d1c816aa-b9a2-4f41-a74a-ef83fa2f99d9",
       "trimType": "custom",
       "trimThreshold": 1,

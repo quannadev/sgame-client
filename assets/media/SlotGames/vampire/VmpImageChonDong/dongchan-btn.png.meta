@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "57ccc8b1-2be4-4397-9f1e-73256f9f86e5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "dongchan-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "37494230-4633-4356-935f-440317d589f5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "57ccc8b1-2be4-4397-9f1e-73256f9f86e5",
       "trimType": "auto",
       "trimThreshold": 1,

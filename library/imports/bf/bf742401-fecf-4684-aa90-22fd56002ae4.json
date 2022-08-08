@@ -933,7 +933,7 @@
       }
     }
   },
-  "_atlasText": "\r\nZeus-ThangLon-2.png\r\nsize: 1024,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nInGame/Arboad/Fx/nohu-fx\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 509, 189\r\n  orig: 509, 189\r\n  offset: 0, 0\r\n  index: -1\r\nInGame/Arboad/Fx/thang-lon-Fx\r\n  rotate: false\r\n  xy: 2, 193\r\n  size: 684, 172\r\n  orig: 684, 172\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nZeus-ThangLon-2.png\nsize: 1024,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nInGame/Arboad/Fx/nohu-fx\n  rotate: false\n  xy: 2, 2\n  size: 509, 189\n  orig: 509, 189\n  offset: 0, 0\n  index: -1\nInGame/Arboad/Fx/thang-lon-Fx\n  rotate: false\n  xy: 2, 193\n  size: 684, 172\n  orig: 684, 172\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "b51c06cb-b249-48f8-8ac1-ef079e25295a"

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "941b3685-e798-416d-a253-e19a42db9d3e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "dangky-popup-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a3c79032-0587-4783-b1c1-1340315e416e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "941b3685-e798-416d-a253-e19a42db9d3e",
       "trimType": "custom",
       "trimThreshold": 1,

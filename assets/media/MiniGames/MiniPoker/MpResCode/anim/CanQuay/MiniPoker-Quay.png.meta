@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f1888e56-8358-402d-bc65-944ee4d10363",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "MiniPoker-Quay": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "05f8ea5a-e418-429f-8d52-e0419df1059b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f1888e56-8358-402d-bc65-944ee4d10363",
       "trimType": "custom",
       "trimThreshold": 1,

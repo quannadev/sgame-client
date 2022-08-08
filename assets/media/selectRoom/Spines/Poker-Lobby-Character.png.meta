@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f6ee2852-6477-4f26-8856-dbda258505a0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Poker-Lobby-Character": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b729a985-9e70-45a0-b8c0-d22a9438bca2",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f6ee2852-6477-4f26-8856-dbda258505a0",
       "trimType": "custom",
       "trimThreshold": 1,

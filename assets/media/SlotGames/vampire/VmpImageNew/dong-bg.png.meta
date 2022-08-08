@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e6ef50e7-400d-4ccd-96b6-573bfd1d3d99",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "dong-bg": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "df191335-f481-4fc3-b661-e63a5b951eab",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e6ef50e7-400d-4ccd-96b6-573bfd1d3d99",
       "trimType": "auto",
       "trimThreshold": 1,

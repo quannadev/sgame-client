@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "68e9ccae-ecc2-4663-af45-ad51251d37fe",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "EMOJ": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "045c12a6-2221-4385-a67e-6f21fec3e08c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "68e9ccae-ecc2-4663-af45-ad51251d37fe",
       "trimType": "custom",
       "trimThreshold": 1,

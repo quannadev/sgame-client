@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "61296414-af76-4ed2-a2b1-ff66269ca1b7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "sieutoc-dung-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c582d1fc-b00e-48c2-8760-d1217056af93",
+      "importer": "sprite-frame",
       "rawTextureUuid": "61296414-af76-4ed2-a2b1-ff66269ca1b7",
       "trimType": "auto",
       "trimThreshold": 1,

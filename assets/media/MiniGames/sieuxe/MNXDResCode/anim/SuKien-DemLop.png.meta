@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f96be3ba-666e-472a-84af-af511c131897",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "SuKien-DemLop": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "19b8787b-fe5b-4bc5-9816-c8b760cbadfc",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f96be3ba-666e-472a-84af-af511c131897",
       "trimType": "auto",
       "trimThreshold": 1,

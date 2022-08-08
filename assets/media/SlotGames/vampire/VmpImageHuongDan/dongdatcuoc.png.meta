@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6b32cbf8-ee15-4dbb-bf54-49414bdb2f28",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "dongdatcuoc": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "331756e8-4346-4dd9-806b-6b9893935575",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6b32cbf8-ee15-4dbb-bf54-49414bdb2f28",
       "trimType": "auto",
       "trimThreshold": 1,

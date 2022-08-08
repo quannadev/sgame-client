@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e739d9f2-2700-488d-85a0-6065dba48965",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "taixiu": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "96cd8d49-32ce-4b3b-b15b-139536557da8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e739d9f2-2700-488d-85a0-6065dba48965",
       "trimType": "custom",
       "trimThreshold": 1,

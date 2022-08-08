@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e2fcb879-afcb-4b05-812d-c6ce31316692",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "cardsminipoker": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "99ead776-fca2-449f-b065-e3e7ba7e4e95",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e2fcb879-afcb-4b05-812d-c6ce31316692",
       "trimType": "custom",
       "trimThreshold": 1,

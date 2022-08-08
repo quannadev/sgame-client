@@ -322,7 +322,7 @@
       }
     }
   },
-  "_atlasText": "\r\nandoi.png\r\nsize: 512,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nAN DOI\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 209, 57\r\n  orig: 209, 57\r\n  offset: 0, 0\r\n  index: -1\r\nlight\r\n  rotate: false\r\n  xy: 2, 61\r\n  size: 299, 62\r\n  orig: 299, 62\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nandoi.png\nsize: 512,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nAN DOI\n  rotate: false\n  xy: 2, 2\n  size: 209, 57\n  orig: 209, 57\n  offset: 0, 0\n  index: -1\nlight\n  rotate: false\n  xy: 2, 61\n  size: 299, 62\n  orig: 299, 62\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "1c32e133-41ab-4577-8055-074bb533e819"

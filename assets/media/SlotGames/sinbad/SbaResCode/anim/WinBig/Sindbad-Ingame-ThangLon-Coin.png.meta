@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "13a3608d-1f07-448c-ac68-d46c9d845be3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Sindbad-Ingame-ThangLon-Coin": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1612ac3d-c2c7-43e5-83e2-c49d6ee99888",
+      "importer": "sprite-frame",
       "rawTextureUuid": "13a3608d-1f07-448c-ac68-d46c9d845be3",
       "trimType": "auto",
       "trimThreshold": 1,

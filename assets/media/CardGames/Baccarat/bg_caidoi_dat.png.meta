@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c1b5783e-2569-46be-9064-718a17e83574",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bg_caidoi_dat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1c50c25e-7712-4887-9748-9ba0a695c707",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c1b5783e-2569-46be-9064-718a17e83574",
       "trimType": "custom",
       "trimThreshold": 1,

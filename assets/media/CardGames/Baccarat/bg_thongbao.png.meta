@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9aa7e085-c396-414b-9e6f-475eb1d91985",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bg_thongbao": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4a1bfb00-9b4e-4962-a73e-8036f7c43ea6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9aa7e085-c396-414b-9e6f-475eb1d91985",
       "trimType": "custom",
       "trimThreshold": 1,

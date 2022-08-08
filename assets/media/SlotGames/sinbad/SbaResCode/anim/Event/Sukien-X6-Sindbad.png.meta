@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c6e5a74d-892f-4742-99e1-31b4b343b22b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Sukien-X6-Sindbad": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6c5558e0-dad7-452c-8417-8c31aeabf3bc",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c6e5a74d-892f-4742-99e1-31b4b343b22b",
       "trimType": "auto",
       "trimThreshold": 1,

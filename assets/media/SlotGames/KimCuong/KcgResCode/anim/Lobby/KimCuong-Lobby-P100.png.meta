@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ad88a7a2-8b50-485b-9c4a-6f405d812714",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "KimCuong-Lobby-P100": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e152f1e3-c34b-4cb2-91d7-cb88ae0f0fba",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ad88a7a2-8b50-485b-9c4a-6f405d812714",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -886,7 +886,7 @@
       }
     }
   },
-  "_atlasText": "\r\nVampire-BonusGame-1-5.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nimages/bonusgame/item8a\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 145, 303\r\n  orig: 145, 303\r\n  offset: 0, 0\r\n  index: -1\r\nimages/bonusgame/item8b\r\n  rotate: false\r\n  xy: 149, 10\r\n  size: 121, 295\r\n  orig: 121, 295\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nVampire-BonusGame-1-5.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimages/bonusgame/item8a\n  rotate: false\n  xy: 2, 2\n  size: 145, 303\n  orig: 145, 303\n  offset: 0, 0\n  index: -1\nimages/bonusgame/item8b\n  rotate: false\n  xy: 149, 10\n  size: 121, 295\n  orig: 121, 295\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "9d16da38-8d5b-45f4-9180-7fe08c959499"

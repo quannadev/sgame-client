@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "7090931a-6c2b-43e9-95fd-04e3215e606a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Sukien-X6-Vampire": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "69f0b525-df8a-4939-867d-87039da6fa91",
+      "importer": "sprite-frame",
       "rawTextureUuid": "7090931a-6c2b-43e9-95fd-04e3215e606a",
       "trimType": "auto",
       "trimThreshold": 1,

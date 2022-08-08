@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2a9f3d8d-8a6c-411b-9ebc-2be1c748f43b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "add-gold-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d5eab820-2d4d-4845-887e-f41fd278895c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2a9f3d8d-8a6c-411b-9ebc-2be1c748f43b",
       "trimType": "custom",
       "trimThreshold": 1,

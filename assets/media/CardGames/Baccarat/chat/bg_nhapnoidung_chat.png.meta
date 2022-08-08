@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c3973a7c-2a26-4bdd-b31a-cd63f1e89b99",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bg_nhapnoidung_chat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1117586d-6bb1-463c-bee6-1924708b1216",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c3973a7c-2a26-4bdd-b31a-cd63f1e89b99",
       "trimType": "custom",
       "trimThreshold": 1,

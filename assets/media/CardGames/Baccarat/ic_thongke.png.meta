@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "43006ae5-4572-4e3c-adca-58c5ab66ea33",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ic_thongke": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "bb9ebffc-29ab-4d73-b902-c40d021fcd95",
+      "importer": "sprite-frame",
       "rawTextureUuid": "43006ae5-4572-4e3c-adca-58c5ab66ea33",
       "trimType": "custom",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a1f63a8c-0261-4e0a-bff5-07c2e5c302a3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Icon-Poseidon- jackpot": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "25ed5573-2a95-4129-a0b8-218f53bd3538",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a1f63a8c-0261-4e0a-bff5-07c2e5c302a3",
       "trimType": "auto",
       "trimThreshold": 1,

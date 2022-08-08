@@ -443,7 +443,7 @@
       }
     }
   },
-  "_atlasText": "\r\nMiniPoker-Quay.png\r\nsize: 256,64\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: true\r\n  xy: 128, 28\r\n  size: 32, 94\r\n  orig: 32, 94\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 58, 124\r\n  orig: 58, 124\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: true\r\n  xy: 128, 13\r\n  size: 13, 94\r\n  orig: 13, 94\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nMiniPoker-Quay.png\nsize: 256,64\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: true\n  xy: 128, 28\n  size: 32, 94\n  orig: 32, 94\n  offset: 0, 0\n  index: -1\n2\n  rotate: true\n  xy: 2, 2\n  size: 58, 124\n  orig: 58, 124\n  offset: 0, 0\n  index: -1\n3\n  rotate: true\n  xy: 128, 13\n  size: 13, 94\n  orig: 13, 94\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "f1888e56-8358-402d-bc65-944ee4d10363"

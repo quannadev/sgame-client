@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ff4e0167-a4d6-4ec0-be15-432cb0498144",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bobai-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6c05a492-abc0-478b-a75a-b45d2e008b1c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ff4e0167-a4d6-4ec0-be15-432cb0498144",
       "trimType": "custom",
       "trimThreshold": 1,

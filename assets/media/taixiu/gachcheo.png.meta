@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "df1570ab-335a-436d-8394-d986ab48493b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "gachcheo": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ec8e97c0-6cd8-4f8d-a083-46fcec55cd4e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "df1570ab-335a-436d-8394-d986ab48493b",
       "trimType": "auto",
       "trimThreshold": 1,

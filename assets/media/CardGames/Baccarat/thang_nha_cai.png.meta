@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "972fb1ee-f3a5-4aa1-9184-4f709236afc5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "thang_nha_cai": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ea17fbe6-43c2-4cce-b638-8746d8ed991e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "972fb1ee-f3a5-4aa1-9184-4f709236afc5",
       "trimType": "custom",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "89097f97-4f20-4e65-8dff-de3b936c0e54",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bt_dungquay": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "46760903-42c6-4721-8a89-26f0cd1c41ea",
+      "importer": "sprite-frame",
       "rawTextureUuid": "89097f97-4f20-4e65-8dff-de3b936c0e54",
       "trimType": "auto",
       "trimThreshold": 1,

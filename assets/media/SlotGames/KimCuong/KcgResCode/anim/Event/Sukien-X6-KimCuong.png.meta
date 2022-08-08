@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9f0a374f-f677-4c45-ad3a-95b17198354b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Sukien-X6-KimCuong": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d3358bda-0c62-4df8-a611-a9ed72bbc6aa",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9f0a374f-f677-4c45-ad3a-95b17198354b",
       "trimType": "auto",
       "trimThreshold": 1,

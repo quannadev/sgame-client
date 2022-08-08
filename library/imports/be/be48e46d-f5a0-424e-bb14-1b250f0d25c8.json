@@ -2759,7 +2759,7 @@
       }
     }
   },
-  "_atlasText": "\r\nZeus-Lobby-P-0.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nLobby/ChoiThu/ChoiTHu/1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 57, 54\r\n  orig: 57, 54\r\n  offset: 0, 0\r\n  index: -1\r\nLobby/ChoiThu/ChoiTHu/2\r\n  rotate: false\r\n  xy: 2, 58\r\n  size: 236, 400\r\n  orig: 236, 400\r\n  offset: 0, 0\r\n  index: -1\r\nLobby/ChoiThu/ChoiTHu/3\r\n  rotate: false\r\n  xy: 240, 193\r\n  size: 139, 265\r\n  orig: 139, 265\r\n  offset: 0, 0\r\n  index: -1\r\nLobby/ChoiThu/ChoiTHu/4\r\n  rotate: true\r\n  xy: 240, 60\r\n  size: 131, 243\r\n  orig: 131, 243\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nZeus-Lobby-P-0.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLobby/ChoiThu/ChoiTHu/1\n  rotate: false\n  xy: 2, 2\n  size: 57, 54\n  orig: 57, 54\n  offset: 0, 0\n  index: -1\nLobby/ChoiThu/ChoiTHu/2\n  rotate: false\n  xy: 2, 58\n  size: 236, 400\n  orig: 236, 400\n  offset: 0, 0\n  index: -1\nLobby/ChoiThu/ChoiTHu/3\n  rotate: false\n  xy: 240, 193\n  size: 139, 265\n  orig: 139, 265\n  offset: 0, 0\n  index: -1\nLobby/ChoiThu/ChoiTHu/4\n  rotate: true\n  xy: 240, 60\n  size: 131, 243\n  orig: 131, 243\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "8580bbf2-eaa3-4798-8316-c2e2c53e0d69"

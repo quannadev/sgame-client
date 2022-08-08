@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "224129fd-d389-4c44-9cf9-3a7ab15c5b8c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Ingame-Character3": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "edf063ac-0cf3-4f83-b09a-d570726dec3d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "224129fd-d389-4c44-9cf9-3a7ab15c5b8c",
       "trimType": "auto",
       "trimThreshold": 1,

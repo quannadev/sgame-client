@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "84659bbf-b341-4b91-aaf2-9bd3adaa3d04",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "vongtron": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "194af5d8-ec22-43a3-b278-d55712e7676f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "84659bbf-b341-4b91-aaf2-9bd3adaa3d04",
       "trimType": "auto",
       "trimThreshold": 1,

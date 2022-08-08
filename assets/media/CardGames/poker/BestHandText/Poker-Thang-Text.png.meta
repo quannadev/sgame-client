@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d70eb579-b282-4a02-9873-924e413752a2",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Poker-Thang-Text": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "568a04ce-daee-4307-a36b-87f44a7f4365",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d70eb579-b282-4a02-9873-924e413752a2",
       "trimType": "custom",
       "trimThreshold": 1,

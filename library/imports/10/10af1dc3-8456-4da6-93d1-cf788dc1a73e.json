@@ -4844,7 +4844,7 @@
       }
     }
   },
-  "_atlasText": "\r\nSuKien-DemLop.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1-2-3/1\r\n  rotate: false\r\n  xy: 258, 221\r\n  size: 89, 78\r\n  orig: 89, 78\r\n  offset: 0, 0\r\n  index: -1\r\n1-2-3/2\r\n  rotate: false\r\n  xy: 382, 361\r\n  size: 100, 102\r\n  orig: 100, 102\r\n  offset: 0, 0\r\n  index: -1\r\n1-2-3/3\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 132, 137\r\n  orig: 132, 137\r\n  offset: 0, 0\r\n  index: -1\r\n4-5/4\r\n  rotate: false\r\n  xy: 2, 301\r\n  size: 378, 162\r\n  orig: 378, 162\r\n  offset: 0, 0\r\n  index: -1\r\n4-5/5\r\n  rotate: false\r\n  xy: 2, 141\r\n  size: 254, 158\r\n  orig: 254, 158\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nSuKien-DemLop.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1-2-3/1\n  rotate: false\n  xy: 258, 221\n  size: 89, 78\n  orig: 89, 78\n  offset: 0, 0\n  index: -1\n1-2-3/2\n  rotate: false\n  xy: 382, 361\n  size: 100, 102\n  orig: 100, 102\n  offset: 0, 0\n  index: -1\n1-2-3/3\n  rotate: false\n  xy: 2, 2\n  size: 132, 137\n  orig: 132, 137\n  offset: 0, 0\n  index: -1\n4-5/4\n  rotate: false\n  xy: 2, 301\n  size: 378, 162\n  orig: 378, 162\n  offset: 0, 0\n  index: -1\n4-5/5\n  rotate: false\n  xy: 2, 141\n  size: 254, 158\n  orig: 254, 158\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "1f744819-9621-4701-a8ee-e18a6fdafee6"

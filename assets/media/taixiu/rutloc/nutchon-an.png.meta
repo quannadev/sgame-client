@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4bc62341-c3bb-401c-bc11-184dc77edc21",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "nutchon-an": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "16ccaeab-1c31-4286-8226-76e92c172e69",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4bc62341-c3bb-401c-bc11-184dc77edc21",
       "trimType": "auto",
       "trimThreshold": 1,

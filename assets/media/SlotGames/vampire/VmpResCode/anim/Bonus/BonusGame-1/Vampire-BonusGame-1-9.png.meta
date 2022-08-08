@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e612fb8d-6232-4e16-98be-27d1a9ecce62",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Vampire-BonusGame-1-9": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6fac6c78-1df3-4c4c-9654-67c9401b7ac6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e612fb8d-6232-4e16-98be-27d1a9ecce62",
       "trimType": "auto",
       "trimThreshold": 1,

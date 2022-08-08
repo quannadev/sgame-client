@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "76b8ac29-be07-4174-a560-defd2f1bb9cf",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "chonban": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0d1cf9c9-2abc-4caf-b662-a4c4abb9fc1e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "76b8ac29-be07-4174-a560-defd2f1bb9cf",
       "trimType": "custom",
       "trimThreshold": 1,

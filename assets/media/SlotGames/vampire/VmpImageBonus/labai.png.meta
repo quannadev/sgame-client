@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "92a7aca2-4fa5-466c-a8f7-c5243e45e8e1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "labai": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "eb03e3be-56f7-4c03-b7b4-cd832fbd602b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "92a7aca2-4fa5-466c-a8f7-c5243e45e8e1",
       "trimType": "auto",
       "trimThreshold": 1,

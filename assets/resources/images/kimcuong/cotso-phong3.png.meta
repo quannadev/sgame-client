@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c8eff30f-96a7-4ce3-8a8d-e8f31d4dba2c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "cotso-phong3": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b5899cbb-cad1-4a84-8784-c4a1054e40bc",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c8eff30f-96a7-4ce3-8a8d-e8f31d4dba2c",
       "trimType": "auto",
       "trimThreshold": 1,

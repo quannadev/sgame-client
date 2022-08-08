@@ -1797,7 +1797,7 @@
       }
     }
   },
-  "_atlasText": "\r\nKimCuong-Icon-Jackpot.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nSpine/Ingame-Icon/Jackpot/1\r\n  rotate: false\r\n  xy: 136, 124\r\n  size: 128, 128\r\n  orig: 128, 128\r\n  offset: 0, 0\r\n  index: -1\r\nSpine/Ingame-Icon/Jackpot/2\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 116, 123\r\n  orig: 116, 123\r\n  offset: 0, 0\r\n  index: -1\r\nSpine/Ingame-Icon/Jackpot/3\r\n  rotate: false\r\n  xy: 2, 120\r\n  size: 132, 132\r\n  orig: 132, 132\r\n  offset: 0, 0\r\n  index: -1\r\nSpine/Ingame-Icon/Jackpot/4\r\n  rotate: false\r\n  xy: 266, 139\r\n  size: 23, 23\r\n  orig: 23, 23\r\n  offset: 0, 0\r\n  index: -1\r\nSpine/Lobby/fx-2\r\n  rotate: false\r\n  xy: 266, 164\r\n  size: 94, 88\r\n  orig: 94, 88\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nKimCuong-Icon-Jackpot.png\nsize: 512,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nSpine/Ingame-Icon/Jackpot/1\n  rotate: false\n  xy: 136, 124\n  size: 128, 128\n  orig: 128, 128\n  offset: 0, 0\n  index: -1\nSpine/Ingame-Icon/Jackpot/2\n  rotate: true\n  xy: 2, 2\n  size: 116, 123\n  orig: 116, 123\n  offset: 0, 0\n  index: -1\nSpine/Ingame-Icon/Jackpot/3\n  rotate: false\n  xy: 2, 120\n  size: 132, 132\n  orig: 132, 132\n  offset: 0, 0\n  index: -1\nSpine/Ingame-Icon/Jackpot/4\n  rotate: false\n  xy: 266, 139\n  size: 23, 23\n  orig: 23, 23\n  offset: 0, 0\n  index: -1\nSpine/Lobby/fx-2\n  rotate: false\n  xy: 266, 164\n  size: 94, 88\n  orig: 94, 88\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "1942d6cc-2e84-4386-884c-5a9bd54d4431"

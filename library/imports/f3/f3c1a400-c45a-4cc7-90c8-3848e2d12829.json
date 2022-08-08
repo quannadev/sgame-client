@@ -1249,7 +1249,7 @@
       }
     }
   },
-  "_atlasText": "\r\nSukien-X6-Sindbad.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: true\r\n  xy: 194, 105\r\n  size: 141, 234\r\n  orig: 141, 234\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: false\r\n  xy: 2, 55\r\n  size: 190, 191\r\n  orig: 190, 191\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 73, 51\r\n  orig: 73, 51\r\n  offset: 0, 0\r\n  index: -1\r\n4\r\n  rotate: false\r\n  xy: 430, 192\r\n  size: 51, 54\r\n  orig: 51, 54\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nSukien-X6-Sindbad.png\nsize: 512,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: true\n  xy: 194, 105\n  size: 141, 234\n  orig: 141, 234\n  offset: 0, 0\n  index: -1\n2\n  rotate: false\n  xy: 2, 55\n  size: 190, 191\n  orig: 190, 191\n  offset: 0, 0\n  index: -1\n3\n  rotate: false\n  xy: 2, 2\n  size: 73, 51\n  orig: 73, 51\n  offset: 0, 0\n  index: -1\n4\n  rotate: false\n  xy: 430, 192\n  size: 51, 54\n  orig: 51, 54\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "c6e5a74d-892f-4742-99e1-31b4b343b22b"

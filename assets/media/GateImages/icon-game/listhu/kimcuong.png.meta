@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d53eccfd-ef2c-4cbf-b185-37c806ad59b3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "kimcuong": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5f0dbffd-f8f9-43aa-a94d-ad30d70843a3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d53eccfd-ef2c-4cbf-b185-37c806ad59b3",
       "trimType": "custom",
       "trimThreshold": 1,

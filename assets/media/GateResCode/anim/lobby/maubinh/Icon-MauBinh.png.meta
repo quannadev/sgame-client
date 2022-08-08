@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "68776ba1-5662-4bae-854a-06d6efd42d1e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Icon-MauBinh": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "10928abe-3d41-421c-b857-7ee99d5225c4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "68776ba1-5662-4bae-854a-06d6efd42d1e",
       "trimType": "custom",
       "trimThreshold": 1,

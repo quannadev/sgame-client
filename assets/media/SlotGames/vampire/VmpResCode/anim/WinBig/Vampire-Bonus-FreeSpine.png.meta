@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "06f89011-d04f-4b6e-8eac-cbc750b9bd5c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Vampire-Bonus-FreeSpine": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8edb6337-5bb2-4b4b-b546-6cfb59c08075",
+      "importer": "sprite-frame",
       "rawTextureUuid": "06f89011-d04f-4b6e-8eac-cbc750b9bd5c",
       "trimType": "auto",
       "trimThreshold": 1,

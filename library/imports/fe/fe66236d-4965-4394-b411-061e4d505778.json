@@ -4870,7 +4870,7 @@
       }
     }
   },
-  "_atlasText": "\r\nIcon-MiniGame.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 111, 108\r\n  orig: 111, 108\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: false\r\n  xy: 132, 112\r\n  size: 101, 56\r\n  orig: 101, 56\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 132, 170\r\n  size: 101, 65\r\n  orig: 101, 65\r\n  offset: 0, 0\r\n  index: -1\r\n4\r\n  rotate: false\r\n  xy: 2, 112\r\n  size: 128, 123\r\n  orig: 128, 123\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nIcon-MiniGame.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: false\n  xy: 2, 2\n  size: 111, 108\n  orig: 111, 108\n  offset: 0, 0\n  index: -1\n2\n  rotate: false\n  xy: 132, 112\n  size: 101, 56\n  orig: 101, 56\n  offset: 0, 0\n  index: -1\n3\n  rotate: false\n  xy: 132, 170\n  size: 101, 65\n  orig: 101, 65\n  offset: 0, 0\n  index: -1\n4\n  rotate: false\n  xy: 2, 112\n  size: 128, 123\n  orig: 128, 123\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "87fa1588-1c50-4810-94f1-73879af1ca79"

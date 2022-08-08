@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "90f84de6-dd55-4095-912d-e5f9a7930dda",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "XocXoc-Bat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "af91bc7f-8729-46db-9657-b9b132d0ecef",
+      "importer": "sprite-frame",
       "rawTextureUuid": "90f84de6-dd55-4095-912d-e5f9a7930dda",
       "trimType": "custom",
       "trimThreshold": 1,

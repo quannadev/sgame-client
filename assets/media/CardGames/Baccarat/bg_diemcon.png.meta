@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5b430cab-3b44-4139-85fb-3b383a6cfd96",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bg_diemcon": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e69e0b62-c45a-43be-9e7c-dee8b6d20c01",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5b430cab-3b44-4139-85fb-3b383a6cfd96",
       "trimType": "custom",
       "trimThreshold": 1,

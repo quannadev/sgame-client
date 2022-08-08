@@ -237,7 +237,7 @@
       }
     }
   },
-  "_atlasText": "\r\nInGame-Thang-2.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nPoker/InGame/Thang-2/User/1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 268, 279\r\n  orig: 268, 279\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nInGame-Thang-2.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nPoker/InGame/Thang-2/User/1\n  rotate: false\n  xy: 2, 2\n  size: 268, 279\n  orig: 268, 279\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "92282994-789f-4772-88f9-7782602ef628"

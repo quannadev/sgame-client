@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c2a39235-8874-469e-8e1a-188a962fb3f9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "latbai-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "63ee0f97-88ca-4044-abe0-c9576005a4dd",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c2a39235-8874-469e-8e1a-188a962fb3f9",
       "trimType": "custom",
       "trimThreshold": 1,

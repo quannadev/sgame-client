@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8f666f83-0c2f-4ddc-85a4-f0616444500f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "baccarat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "88a616d3-0a0c-488b-bedb-b3d1da517853",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8f666f83-0c2f-4ddc-85a4-f0616444500f",
       "trimType": "auto",
       "trimThreshold": 1,

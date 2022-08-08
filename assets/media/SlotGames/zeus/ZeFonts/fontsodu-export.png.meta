@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3b5733f7-f87d-4a1a-af8e-d8b5261e87c8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "fontsodu-export": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "343d48f2-0cfd-43b7-a6d5-e1f78e0583b8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3b5733f7-f87d-4a1a-af8e-d8b5261e87c8",
       "trimType": "auto",
       "trimThreshold": 1,

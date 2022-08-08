@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "692632a8-3672-481f-9df8-e589efee6b39",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "tiencuoc-text": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "dd1b750b-0e99-4d61-93b2-652133b808b3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "692632a8-3672-481f-9df8-e589efee6b39",
       "trimType": "auto",
       "trimThreshold": 1,

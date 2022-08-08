@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d82ca3a1-c1a1-44bc-b3d3-afa6fe98e902",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "lichsuhu-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2e397904-ede1-4467-8483-95dfc7709070",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d82ca3a1-c1a1-44bc-b3d3-afa6fe98e902",
       "trimType": "auto",
       "trimThreshold": 1,

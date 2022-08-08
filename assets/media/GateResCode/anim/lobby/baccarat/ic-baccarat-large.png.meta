@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1b0c38c2-b4f0-46b0-84c8-03e020cbf1a6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ic-baccarat-large": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "85bf3b75-0343-40ea-98df-6cb16bb2a60e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1b0c38c2-b4f0-46b0-84c8-03e020cbf1a6",
       "trimType": "custom",
       "trimThreshold": 1,

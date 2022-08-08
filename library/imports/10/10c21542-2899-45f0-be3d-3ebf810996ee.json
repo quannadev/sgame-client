@@ -778,7 +778,7 @@
       }
     }
   },
-  "_atlasText": "\r\nIcon3.png\r\nsize: 512,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nXe dien/main/fx-2\r\n  rotate: false\r\n  xy: 138, 16\r\n  size: 100, 100\r\n  orig: 100, 100\r\n  offset: 0, 0\r\n  index: -1\r\nXe dien/minigame/icon3/den\r\n  rotate: false\r\n  xy: 240, 77\r\n  size: 74, 39\r\n  orig: 74, 39\r\n  offset: 0, 0\r\n  index: -1\r\nXe dien/minigame/icon3/nhaymat\r\n  rotate: false\r\n  xy: 240, 56\r\n  size: 57, 19\r\n  orig: 57, 19\r\n  offset: 0, 0\r\n  index: -1\r\nXe dien/minigame/icon3/than\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 134, 114\r\n  orig: 134, 114\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nIcon3.png\nsize: 512,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nXe dien/main/fx-2\n  rotate: false\n  xy: 138, 16\n  size: 100, 100\n  orig: 100, 100\n  offset: 0, 0\n  index: -1\nXe dien/minigame/icon3/den\n  rotate: false\n  xy: 240, 77\n  size: 74, 39\n  orig: 74, 39\n  offset: 0, 0\n  index: -1\nXe dien/minigame/icon3/nhaymat\n  rotate: false\n  xy: 240, 56\n  size: 57, 19\n  orig: 57, 19\n  offset: 0, 0\n  index: -1\nXe dien/minigame/icon3/than\n  rotate: false\n  xy: 2, 2\n  size: 134, 114\n  orig: 134, 114\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "88a8a10d-fd76-408b-ac43-8c0c52799b02"

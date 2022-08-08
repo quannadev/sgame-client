@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "09a86bc9-2174-442c-8bd2-a30baaf76ae2",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "sodu500": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e4a7939c-2a79-4ea2-b0d3-4444840ec1d3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "09a86bc9-2174-442c-8bd2-a30baaf76ae2",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b51c06cb-b249-48f8-8ac1-ef079e25295a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Zeus-ThangLon-2": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b3dd01a9-91a6-43c8-825e-ed214589b7e4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b51c06cb-b249-48f8-8ac1-ef079e25295a",
       "trimType": "auto",
       "trimThreshold": 1,

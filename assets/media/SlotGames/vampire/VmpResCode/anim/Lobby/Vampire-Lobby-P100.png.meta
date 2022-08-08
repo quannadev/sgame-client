@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b044ed4f-0598-4d84-ba43-e5b4fcdac30f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Vampire-Lobby-P100": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d49e23f1-08b0-4140-ba99-af946c8a1f38",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b044ed4f-0598-4d84-ba43-e5b4fcdac30f",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -2640,7 +2640,7 @@
       }
     }
   },
-  "_atlasText": "\r\nLine-2-S.png\r\nsize: 256,64\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nimages/fx-1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 152, 34\r\n  orig: 152, 34\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nLine-2-S.png\nsize: 256,64\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimages/fx-1\n  rotate: false\n  xy: 2, 2\n  size: 152, 34\n  orig: 152, 34\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "ff7ecf37-c8e4-4cab-b65c-093d93d0315a"

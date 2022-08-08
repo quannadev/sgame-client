@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e468a8fc-e44b-47d0-8b18-2ccf1449230d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "InGame-Thang-1": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c456e985-6fab-4b67-bda2-03792f0676b3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e468a8fc-e44b-47d0-8b18-2ccf1449230d",
       "trimType": "custom",
       "trimThreshold": 1,

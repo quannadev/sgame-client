@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a17a4305-af22-450c-9685-047dacb8c945",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "cuocnut": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c88a3b7a-3e84-454c-9679-cbca0c606678",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a17a4305-af22-450c-9685-047dacb8c945",
       "trimType": "auto",
       "trimThreshold": 1,

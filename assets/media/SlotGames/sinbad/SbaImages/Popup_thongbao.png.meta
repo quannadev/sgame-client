@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "43ae58af-dd81-4a04-be52-251e134e3d90",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Popup_thongbao": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b79b9a7e-52d4-4bc0-b248-c3280d62d715",
+      "importer": "sprite-frame",
       "rawTextureUuid": "43ae58af-dd81-4a04-be52-251e134e3d90",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "144d05a8-445d-420e-aa82-a4bd7c647545",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "datlai-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0a4ae507-fa88-42c4-9ddd-c267df323ebb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "144d05a8-445d-420e-aa82-a4bd7c647545",
       "trimType": "custom",
       "trimThreshold": 1,

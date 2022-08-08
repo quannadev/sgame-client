@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d24c8371-54c5-46c4-b328-336bb4ee8d5f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "button-huongdan": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e1a0dbef-08b7-4ee6-b5cf-b599a83a3d97",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d24c8371-54c5-46c4-b328-336bb4ee8d5f",
       "trimType": "auto",
       "trimThreshold": 1,

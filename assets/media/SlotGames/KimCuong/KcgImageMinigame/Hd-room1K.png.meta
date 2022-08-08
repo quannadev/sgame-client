@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4409ca52-80ac-41f7-8b07-d7cd1fc33c69",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Hd-room1K": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a2adc122-c868-4dc7-94b5-7275b8a22a46",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4409ca52-80ac-41f7-8b07-d7cd1fc33c69",
       "trimType": "auto",
       "trimThreshold": 1,

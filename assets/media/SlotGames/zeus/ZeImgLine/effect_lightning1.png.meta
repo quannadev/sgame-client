@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "edceb055-87e0-4d5f-93bc-2390f28e3099",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "effect_lightning1": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "67843f9a-13f5-4a4e-9763-5a56c9a02aaa",
+      "importer": "sprite-frame",
       "rawTextureUuid": "edceb055-87e0-4d5f-93bc-2390f28e3099",
       "trimType": "auto",
       "trimThreshold": 1,

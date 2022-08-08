@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5691ca82-6940-4c9a-b1ae-454e4cf760cd",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "trenduoi": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b246f029-d7e7-4981-857a-4d89b177a078",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5691ca82-6940-4c9a-b1ae-454e4cf760cd",
       "trimType": "custom",
       "trimThreshold": 1,

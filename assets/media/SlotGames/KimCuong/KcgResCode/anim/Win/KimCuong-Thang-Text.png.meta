@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "65c1171f-1e23-4e98-aea4-933ebed0a2f8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "KimCuong-Thang-Text": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d6faebe2-00f2-45a0-80e6-31ba650f4a6a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "65c1171f-1e23-4e98-aea4-933ebed0a2f8",
       "trimType": "auto",
       "trimThreshold": 1,

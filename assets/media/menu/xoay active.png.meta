@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "33d1da28-7bcc-4eac-bd67-1d0d3b4b4495",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "xoay active": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "fed2c18d-4099-4eb0-ae25-15497d16da72",
+      "importer": "sprite-frame",
       "rawTextureUuid": "33d1da28-7bcc-4eac-bd67-1d0d3b4b4495",
       "trimType": "auto",
       "trimThreshold": 1,

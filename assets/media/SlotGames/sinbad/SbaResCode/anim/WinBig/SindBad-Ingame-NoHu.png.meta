@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5a996d89-b7f8-41e8-8445-fc869e8713c7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "SindBad-Ingame-NoHu": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1587f24b-a75a-4f8d-a442-13ec1c7b7f86",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5a996d89-b7f8-41e8-8445-fc869e8713c7",
       "trimType": "auto",
       "trimThreshold": 1,

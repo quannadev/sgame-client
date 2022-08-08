@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ab43598a-3997-42b9-9bd1-af1101ad1caf",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "tatca-text": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "07b55944-c9fd-4549-ada8-4d09fbf30555",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ab43598a-3997-42b9-9bd1-af1101ad1caf",
       "trimType": "auto",
       "trimThreshold": 1,

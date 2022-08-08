@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "098af0e2-8573-462a-9ec4-1ac8836c4771",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "cuadat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7866b324-0023-4451-bcea-4c944e5281b6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "098af0e2-8573-462a-9ec4-1ac8836c4771",
       "trimType": "custom",
       "trimThreshold": 1,

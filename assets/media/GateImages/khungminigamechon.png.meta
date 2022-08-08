@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d01e9d32-7034-4ee2-ae7c-0c61799e9067",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "khungminigamechon": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "bbf74d13-de40-464f-8243-a56cb05d157a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d01e9d32-7034-4ee2-ae7c-0c61799e9067",
       "trimType": "auto",
       "trimThreshold": 1,

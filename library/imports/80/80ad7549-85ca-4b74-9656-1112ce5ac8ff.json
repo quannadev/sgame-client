@@ -1757,7 +1757,7 @@
       }
     }
   },
-  "_atlasText": "\r\nLobby-BackGroud-1.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nMay/cloud\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 400, 152\r\n  orig: 400, 152\r\n  offset: 0, 0\r\n  index: -1\r\nMay/dust-2\r\n  rotate: false\r\n  xy: 2, 156\r\n  size: 364, 245\r\n  orig: 364, 245\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nLobby-BackGroud-1.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nMay/cloud\n  rotate: false\n  xy: 2, 2\n  size: 400, 152\n  orig: 400, 152\n  offset: 0, 0\n  index: -1\nMay/dust-2\n  rotate: false\n  xy: 2, 156\n  size: 364, 245\n  orig: 364, 245\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "ceba0d80-4ae4-43e4-9312-3776ce34b223"

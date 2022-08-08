@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f0950093-ad46-4962-aa67-0c02c8acb038",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "danhbai-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f6f74fc4-30b4-47b5-bc4d-1d2dba3ef59d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f0950093-ad46-4962-aa67-0c02c8acb038",
       "trimType": "custom",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "63c089e6-5131-40a6-a8f0-49522413110e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bg_cuoc_ca_nhan": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5c6cf212-bf8a-4e00-9fd5-dc0508fe003a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "63c089e6-5131-40a6-a8f0-49522413110e",
       "trimType": "custom",
       "trimThreshold": 1,

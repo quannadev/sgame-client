@@ -6,9 +6,10 @@
   "properties": null,
   "techniques": [
     {
-      "name": "add",
+      "name": "opaque-add",
       "passes": [
         {
+          "stage": "opaque",
           "rasterizerState": {
             "cullMode": 0
           },
@@ -59,9 +60,10 @@
       ]
     },
     {
-      "name": "alpha-blend",
+      "name": "opaque-alpha-blend",
       "passes": [
         {
+          "stage": "opaque",
           "rasterizerState": {
             "cullMode": 0
           },
@@ -112,9 +114,10 @@
       ]
     },
     {
-      "name": "add-multiply",
+      "name": "opaque-add-multiply",
       "passes": [
         {
+          "stage": "opaque",
           "rasterizerState": {
             "cullMode": 0
           },
@@ -165,9 +168,10 @@
       ]
     },
     {
-      "name": "add-smooth",
+      "name": "opaque-add-smooth",
       "passes": [
         {
+          "stage": "opaque",
           "rasterizerState": {
             "cullMode": 0
           },
@@ -206,9 +210,256 @@
       ]
     },
     {
-      "name": "premultiply-blend",
+      "name": "opaque-premultiply-blend",
       "passes": [
         {
+          "stage": "opaque",
+          "rasterizerState": {
+            "cullMode": 0
+          },
+          "blendState": {
+            "targets": [
+              {
+                "blend": true,
+                "blendSrc": 770,
+                "blendDst": 771,
+                "blendSrcAlpha": 770,
+                "blendDstAlpha": 771
+              }
+            ]
+          },
+          "depthStencilState": {
+            "depthTest": true,
+            "depthWrite": false
+          },
+          "properties": {
+            "mainTexture": {
+              "value": "grey",
+              "type": 29
+            },
+            "mainTiling_Offset": {
+              "value": [
+                1,
+                1,
+                0,
+                0
+              ],
+              "type": 16
+            }
+          },
+          "program": "builtin-3d-particle|particle-vs-legacy:lpvs_main|no-tint-fs:premultiplied"
+        }
+      ]
+    },
+    {
+      "name": "transparent-add",
+      "passes": [
+        {
+          "stage": "transparent",
+          "rasterizerState": {
+            "cullMode": 0
+          },
+          "blendState": {
+            "targets": [
+              {
+                "blend": true,
+                "blendSrc": 770,
+                "blendDst": 1,
+                "blendSrcAlpha": 770,
+                "blendDstAlpha": 1
+              }
+            ]
+          },
+          "depthStencilState": {
+            "depthTest": true,
+            "depthWrite": false
+          },
+          "properties": {
+            "mainTexture": {
+              "value": "grey",
+              "type": 29
+            },
+            "mainTiling_Offset": {
+              "value": [
+                1,
+                1,
+                0,
+                0
+              ],
+              "type": 16
+            },
+            "tintColor": {
+              "value": [
+                0.5,
+                0.5,
+                0.5,
+                0.5
+              ],
+              "inspector": {
+                "type": "color"
+              },
+              "type": 16
+            }
+          },
+          "program": "builtin-3d-particle|particle-vs-legacy:lpvs_main|tinted-fs:add"
+        }
+      ]
+    },
+    {
+      "name": "transparent-alpha-blend",
+      "passes": [
+        {
+          "stage": "transparent",
+          "rasterizerState": {
+            "cullMode": 0
+          },
+          "blendState": {
+            "targets": [
+              {
+                "blend": true,
+                "blendSrc": 770,
+                "blendDst": 771,
+                "blendSrcAlpha": 770,
+                "blendDstAlpha": 771
+              }
+            ]
+          },
+          "depthStencilState": {
+            "depthTest": true,
+            "depthWrite": false
+          },
+          "properties": {
+            "mainTexture": {
+              "value": "grey",
+              "type": 29
+            },
+            "mainTiling_Offset": {
+              "value": [
+                1,
+                1,
+                0,
+                0
+              ],
+              "type": 16
+            },
+            "tintColor": {
+              "value": [
+                0.5,
+                0.5,
+                0.5,
+                0.5
+              ],
+              "inspector": {
+                "type": "color"
+              },
+              "type": 16
+            }
+          },
+          "program": "builtin-3d-particle|particle-vs-legacy:lpvs_main|tinted-fs:add"
+        }
+      ]
+    },
+    {
+      "name": "transparent-add-multiply",
+      "passes": [
+        {
+          "stage": "transparent",
+          "rasterizerState": {
+            "cullMode": 0
+          },
+          "blendState": {
+            "targets": [
+              {
+                "blend": true,
+                "blendSrc": 770,
+                "blendDst": 771,
+                "blendSrcAlpha": 770,
+                "blendDstAlpha": 771
+              }
+            ]
+          },
+          "depthStencilState": {
+            "depthTest": true,
+            "depthWrite": false
+          },
+          "properties": {
+            "mainTexture": {
+              "value": "grey",
+              "type": 29
+            },
+            "mainTiling_Offset": {
+              "value": [
+                1,
+                1,
+                0,
+                0
+              ],
+              "type": 16
+            },
+            "tintColor": {
+              "value": [
+                0.5,
+                0.5,
+                0.5,
+                0.5
+              ],
+              "inspector": {
+                "type": "color"
+              },
+              "type": 16
+            }
+          },
+          "program": "builtin-3d-particle|particle-vs-legacy:lpvs_main|tinted-fs:multiply"
+        }
+      ]
+    },
+    {
+      "name": "transparent-add-smooth",
+      "passes": [
+        {
+          "stage": "transparent",
+          "rasterizerState": {
+            "cullMode": 0
+          },
+          "blendState": {
+            "targets": [
+              {
+                "blend": true,
+                "blendSrc": 770,
+                "blendDst": 771,
+                "blendSrcAlpha": 770,
+                "blendDstAlpha": 771
+              }
+            ]
+          },
+          "depthStencilState": {
+            "depthTest": true,
+            "depthWrite": false
+          },
+          "properties": {
+            "mainTexture": {
+              "value": "grey",
+              "type": 29
+            },
+            "mainTiling_Offset": {
+              "value": [
+                1,
+                1,
+                0,
+                0
+              ],
+              "type": 16
+            }
+          },
+          "program": "builtin-3d-particle|particle-vs-legacy:lpvs_main|no-tint-fs:addSmooth"
+        }
+      ]
+    },
+    {
+      "name": "transparent-premultiply-blend",
+      "passes": [
+        {
+          "stage": "transparent",
           "rasterizerState": {
             "cullMode": 0
           },

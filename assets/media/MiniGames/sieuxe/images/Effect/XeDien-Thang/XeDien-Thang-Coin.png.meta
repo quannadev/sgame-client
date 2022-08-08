@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8a6243bd-531c-4525-8901-ba7d1e15c56e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "XeDien-Thang-Coin": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "62c3186a-baaa-4f38-9163-c1f92dc455b5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8a6243bd-531c-4525-8901-ba7d1e15c56e",
       "trimType": "auto",
       "trimThreshold": 1,

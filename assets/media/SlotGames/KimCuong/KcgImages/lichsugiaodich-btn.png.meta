@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d9450359-600d-40b8-a5c8-0785d5729e3f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "lichsugiaodich-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "988b2aef-4287-4d47-86df-03dd8a799e5a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d9450359-600d-40b8-a5c8-0785d5729e3f",
       "trimType": "auto",
       "trimThreshold": 1,

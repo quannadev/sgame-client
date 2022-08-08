@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2cd50015-8a9b-48d3-8592-ed07ce653cdc",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "chamthan": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2c4f2060-f794-4aa5-8d2d-f4ac2aca3d95",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2cd50015-8a9b-48d3-8592-ed07ce653cdc",
       "trimType": "auto",
       "trimThreshold": 1,

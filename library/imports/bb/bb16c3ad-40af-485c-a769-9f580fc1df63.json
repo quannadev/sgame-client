@@ -1326,7 +1326,7 @@
       }
     }
   },
-  "_atlasText": "\r\nKimCuong-BonusGame.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nimages/bonus game/icon\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 130, 130\r\n  orig: 130, 130\r\n  offset: 0, 0\r\n  index: -1\r\nimages/bonus game/icon-active1\r\n  rotate: false\r\n  xy: 2, 297\r\n  size: 160, 160\r\n  orig: 160, 160\r\n  offset: 0, 0\r\n  index: -1\r\nimages/bonus game/icon-active2\r\n  rotate: true\r\n  xy: 2, 134\r\n  size: 161, 152\r\n  orig: 161, 152\r\n  offset: 0, 0\r\n  index: -1\r\nimages/bonus game/icon-win\r\n  rotate: false\r\n  xy: 164, 327\r\n  size: 143, 130\r\n  orig: 143, 130\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nKimCuong-BonusGame.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimages/bonus game/icon\n  rotate: false\n  xy: 2, 2\n  size: 130, 130\n  orig: 130, 130\n  offset: 0, 0\n  index: -1\nimages/bonus game/icon-active1\n  rotate: false\n  xy: 2, 297\n  size: 160, 160\n  orig: 160, 160\n  offset: 0, 0\n  index: -1\nimages/bonus game/icon-active2\n  rotate: true\n  xy: 2, 134\n  size: 161, 152\n  orig: 161, 152\n  offset: 0, 0\n  index: -1\nimages/bonus game/icon-win\n  rotate: false\n  xy: 164, 327\n  size: 143, 130\n  orig: 143, 130\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "fc57d8c8-c5d4-458f-af45-9bd241d9a0b9"

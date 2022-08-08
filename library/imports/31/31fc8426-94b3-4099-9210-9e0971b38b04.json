@@ -1001,7 +1001,7 @@
       }
     }
   },
-  "_atlasText": "\r\nIcon-3Cay.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nIcon-3Cay-P/1\r\n  rotate: false\r\n  xy: 2, 61\r\n  size: 190, 190\r\n  orig: 192, 192\r\n  offset: 1, 1\r\n  index: -1\r\nIcon-3Cay-P/2 1\r\n  rotate: false\r\n  xy: 194, 153\r\n  size: 36, 48\r\n  orig: 38, 50\r\n  offset: 1, 1\r\n  index: -1\r\nIcon-3Cay-P/2 2\r\n  rotate: false\r\n  xy: 48, 10\r\n  size: 36, 49\r\n  orig: 38, 51\r\n  offset: 1, 1\r\n  index: -1\r\nIcon-3Cay-P/2 3\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 44, 57\r\n  orig: 46, 59\r\n  offset: 1, 1\r\n  index: -1\r\nIcon-3Cay-P/2 4\r\n  rotate: false\r\n  xy: 194, 203\r\n  size: 40, 48\r\n  orig: 42, 50\r\n  offset: 1, 1\r\n  index: -1\r\n",
+  "_atlasText": "\nIcon-3Cay.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nIcon-3Cay-P/1\n  rotate: false\n  xy: 2, 61\n  size: 190, 190\n  orig: 192, 192\n  offset: 1, 1\n  index: -1\nIcon-3Cay-P/2 1\n  rotate: false\n  xy: 194, 153\n  size: 36, 48\n  orig: 38, 50\n  offset: 1, 1\n  index: -1\nIcon-3Cay-P/2 2\n  rotate: false\n  xy: 48, 10\n  size: 36, 49\n  orig: 38, 51\n  offset: 1, 1\n  index: -1\nIcon-3Cay-P/2 3\n  rotate: false\n  xy: 2, 2\n  size: 44, 57\n  orig: 46, 59\n  offset: 1, 1\n  index: -1\nIcon-3Cay-P/2 4\n  rotate: false\n  xy: 194, 203\n  size: 40, 48\n  orig: 42, 50\n  offset: 1, 1\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "fa4bcdb5-ae01-427c-8ed5-e711999a6e60"

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "94c33a3d-4819-4002-9d69-69412b5db9ba",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "thiendia": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4656e145-9fdd-4d2d-afda-c9792d1f2647",
+      "importer": "sprite-frame",
       "rawTextureUuid": "94c33a3d-4819-4002-9d69-69412b5db9ba",
       "trimType": "custom",
       "trimThreshold": 1,

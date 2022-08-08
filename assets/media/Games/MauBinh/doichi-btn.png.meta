@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1d6d08f6-6546-480f-9738-cc544713d40a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "doichi-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "269609d4-a453-4bc6-8340-eaaf228bace3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1d6d08f6-6546-480f-9738-cc544713d40a",
       "trimType": "auto",
       "trimThreshold": 1,

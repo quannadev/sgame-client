@@ -96,7 +96,7 @@
       }
     }
   },
-  "_atlasText": "\r\nKimCuong-Lobby-P00.png\r\nsize: 1024,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nKimcuong/Spine/Lobby/P0/1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 322, 192\r\n  orig: 322, 192\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Spine/Lobby/P0/2\r\n  rotate: false\r\n  xy: 654, 464\r\n  size: 162, 42\r\n  orig: 162, 42\r\n  offset: 0, 0\r\n  index: -1\r\nKimcuong/Spine/Lobby/fx\r\n  rotate: false\r\n  xy: 2, 196\r\n  size: 650, 310\r\n  orig: 650, 310\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nKimCuong-Lobby-P00.png\nsize: 1024,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nKimcuong/Spine/Lobby/P0/1\n  rotate: false\n  xy: 2, 2\n  size: 322, 192\n  orig: 322, 192\n  offset: 0, 0\n  index: -1\nKimcuong/Spine/Lobby/P0/2\n  rotate: false\n  xy: 654, 464\n  size: 162, 42\n  orig: 162, 42\n  offset: 0, 0\n  index: -1\nKimcuong/Spine/Lobby/fx\n  rotate: false\n  xy: 2, 196\n  size: 650, 310\n  orig: 650, 310\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "020219ab-69c9-4036-8293-b060a5eb8e3a"

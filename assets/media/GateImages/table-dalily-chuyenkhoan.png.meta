@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b9f21622-b718-40f9-aa89-060c71420448",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "table-dalily-chuyenkhoan": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "34cbb512-94a9-4941-9984-29f94aaf7e18",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b9f21622-b718-40f9-aa89-060c71420448",
       "trimType": "custom",
       "trimThreshold": 1,

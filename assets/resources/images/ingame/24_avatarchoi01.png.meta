@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "01a3d2b2-319c-463d-a25c-828f8dd04b78",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "24_avatarchoi01": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "69285023-f5bb-4b90-9680-0d6f259369a9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "01a3d2b2-319c-463d-a25c-828f8dd04b78",
       "trimType": "custom",
       "trimThreshold": 1,

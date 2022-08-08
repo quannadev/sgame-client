@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "da686dfb-3da2-49b8-aa88-2c765b33fb44",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Sukien-X6-Zeus": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "79976541-0a2e-4c11-aab5-a40f7785ae0b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "da686dfb-3da2-49b8-aa88-2c765b33fb44",
       "trimType": "auto",
       "trimThreshold": 1,

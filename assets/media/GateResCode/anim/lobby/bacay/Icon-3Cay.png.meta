@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "fa4bcdb5-ae01-427c-8ed5-e711999a6e60",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Icon-3Cay": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2b85d545-146f-4820-bdb6-50b3e1d4030d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "fa4bcdb5-ae01-427c-8ed5-e711999a6e60",
       "trimType": "custom",
       "trimThreshold": 1,

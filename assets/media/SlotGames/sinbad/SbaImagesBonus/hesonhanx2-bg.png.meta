@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ae604a77-8acc-400d-8656-01571acdf15d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "hesonhanx2-bg": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4a0d6145-944e-484e-b172-05f4671091e3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ae604a77-8acc-400d-8656-01571acdf15d",
       "trimType": "auto",
       "trimThreshold": 1,

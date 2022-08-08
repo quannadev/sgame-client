@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2552a171-bdbf-48a3-8f17-e200a85a5250",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Batuoc": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d64cfe3b-dc18-4ba5-bc63-2c342aba9ee4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2552a171-bdbf-48a3-8f17-e200a85a5250",
       "trimType": "custom",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "1.2.4",
+  "ver": "1.2.6",
   "uuid": "fc930653-8573-42f9-8cf1-e4f783ce69b4",
+  "importer": "sprite-atlas",
   "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
   "size": {
     "width": 1024,
@@ -9,8 +10,9 @@
   "type": "Texture Packer",
   "subMetas": {
     "line01.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1176fada-3bdb-434c-b27f-3f6fdb991681",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -31,8 +33,9 @@
       "subMetas": {}
     },
     "line02.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e8182ea9-0f9c-48f8-ba72-490f66d08eac",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -53,8 +56,9 @@
       "subMetas": {}
     },
     "line03.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "30e18962-c085-4270-beed-be4bfc98b0e1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -75,8 +79,9 @@
       "subMetas": {}
     },
     "line04.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3d9dbf13-e8cf-46c4-8ccd-c8d1a1b32e12",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -97,8 +102,9 @@
       "subMetas": {}
     },
     "line05.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "11417258-f139-4309-bf5b-0785aef78110",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -119,8 +125,9 @@
       "subMetas": {}
     },
     "line06.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "500f3ec6-0b05-49fc-a34a-ebca4fa604b0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -141,8 +148,9 @@
       "subMetas": {}
     },
     "line07.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "11eb9e60-9b4b-4051-8232-08d801f72d74",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -163,8 +171,9 @@
       "subMetas": {}
     },
     "line08.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "90cb00a8-0900-44b6-8656-4accf6b75801",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -185,8 +194,9 @@
       "subMetas": {}
     },
     "line09.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e33cc723-92ca-4f68-b333-02cf5735bb21",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -207,8 +217,9 @@
       "subMetas": {}
     },
     "line10.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e7a5a25c-8f97-41aa-a9ad-e855041ce293",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -229,8 +240,9 @@
       "subMetas": {}
     },
     "line11.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6122320b-a6fd-4a72-a246-28ba0ff521c4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -251,8 +263,9 @@
       "subMetas": {}
     },
     "line12.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "64def143-a9da-437c-824e-b1f15e28658f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -273,8 +286,9 @@
       "subMetas": {}
     },
     "line13.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d4c4df83-e26f-4b82-aafd-5fe7870e2759",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -295,8 +309,9 @@
       "subMetas": {}
     },
     "line14.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5050a188-0598-4d68-985b-3a8b53b63979",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -317,8 +332,9 @@
       "subMetas": {}
     },
     "line15.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "99806433-5c91-403c-a225-a10c024cc4d8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -339,8 +355,9 @@
       "subMetas": {}
     },
     "line16.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "09c8d21a-5f4e-43ce-951e-dee8fc68026b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -361,8 +378,9 @@
       "subMetas": {}
     },
     "line17.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ded63250-5f26-4d5b-b602-903661007838",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -383,8 +401,9 @@
       "subMetas": {}
     },
     "line18.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "083de69a-8930-41aa-ac7b-257aca376231",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -405,8 +424,9 @@
       "subMetas": {}
     },
     "line19.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ca4164d9-47d0-4c80-a42c-e1884bf489de",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -427,8 +447,9 @@
       "subMetas": {}
     },
     "line20.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "9903743b-4505-44da-b659-92cd4d2f78b9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -449,8 +470,9 @@
       "subMetas": {}
     },
     "line21.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d8ed4d72-413d-4873-9294-8296534f24db",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -471,8 +493,9 @@
       "subMetas": {}
     },
     "line22.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8ff68e90-62b0-49ca-ae90-a3d2a2e06ab7",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -493,8 +516,9 @@
       "subMetas": {}
     },
     "line23.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a3ca7d25-1d6d-4c70-b056-a932e457306a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -515,8 +539,9 @@
       "subMetas": {}
     },
     "line24.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c7885af6-3ca2-41ee-bba9-73f45837f57f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,
@@ -537,8 +562,9 @@
       "subMetas": {}
     },
     "line25.png": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "20802b73-14fb-4e82-aa05-c75c7c3fa867",
+      "importer": "sprite-frame",
       "rawTextureUuid": "653d4b49-8a9c-4829-b600-f35f0248eb48",
       "trimType": "auto",
       "trimThreshold": 1,

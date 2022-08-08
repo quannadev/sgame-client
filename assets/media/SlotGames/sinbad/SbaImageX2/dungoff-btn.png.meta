@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f52cb51b-3df5-4142-a0f3-04052a2a36bc",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "dungoff-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "908371df-9546-4a55-96f3-e47b5d7332a8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f52cb51b-3df5-4142-a0f3-04052a2a36bc",
       "trimType": "auto",
       "trimThreshold": 1,

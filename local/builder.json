@@ -1,6 +1,6 @@
 {
-  "platform": "web-mobile",
-  "actualPlatform": "web-mobile",
+  "platform": "ios",
+  "actualPlatform": "ios",
   "template": "link",
   "buildPath": "./build",
   "debug": false,

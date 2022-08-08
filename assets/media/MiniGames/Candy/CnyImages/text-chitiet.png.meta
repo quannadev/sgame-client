@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f0332832-8bb0-4d7c-a36d-4bfd3b3e5bda",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "text-chitiet": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7cdf57b6-89ea-47a6-85e0-dab43577a336",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f0332832-8bb0-4d7c-a36d-4bfd3b3e5bda",
       "trimType": "custom",
       "trimThreshold": 1,

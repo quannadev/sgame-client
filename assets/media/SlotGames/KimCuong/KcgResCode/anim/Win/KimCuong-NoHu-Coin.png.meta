@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2928ce56-4dd9-4eaf-baed-f3d0155e0b48",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "KimCuong-NoHu-Coin": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c811490d-3d6b-477c-8d36-52519fc6c9ce",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2928ce56-4dd9-4eaf-baed-f3d0155e0b48",
       "trimType": "auto",
       "trimThreshold": 1,

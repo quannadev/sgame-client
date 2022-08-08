@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "073c6e7a-d17c-4d5e-90e8-b8ba2cd6db22",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ocvit": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "44973952-3408-4a58-b1ea-6bfb5d50b830",
+      "importer": "sprite-frame",
       "rawTextureUuid": "073c6e7a-d17c-4d5e-90e8-b8ba2cd6db22",
       "trimType": "auto",
       "trimThreshold": 1,

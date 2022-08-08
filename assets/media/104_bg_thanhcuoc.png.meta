@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "87c3f4bc-d372-43bf-83ef-f0579550c833",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "104_bg_thanhcuoc": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "80ca5988-8b25-4845-9f17-024edd3edb3d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "87c3f4bc-d372-43bf-83ef-f0579550c833",
       "trimType": "custom",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "579a7907-08b4-4f35-80dd-b930c15a8973",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "cuoc-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "83813e66-f783-469f-8204-64bb06794454",
+      "importer": "sprite-frame",
       "rawTextureUuid": "579a7907-08b4-4f35-80dd-b930c15a8973",
       "trimType": "auto",
       "trimThreshold": 1,

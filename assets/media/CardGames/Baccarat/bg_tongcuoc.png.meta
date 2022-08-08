@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e2c8c03c-f4cd-4c65-9631-ffe043aea9da",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bg_tongcuoc": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "30ffa0e8-7c1b-4ccc-96ad-e6d0b3607ace",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e2c8c03c-f4cd-4c65-9631-ffe043aea9da",
       "trimType": "custom",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "1.2.3",
+  "ver": "1.2.5",
   "uuid": "67502821-06ce-4633-a25e-db9d8a447ba6",
+  "importer": "spine",
   "textures": [
     "1f2d072c-bac0-46c6-b7e2-b9b12bca9c2d"
   ],

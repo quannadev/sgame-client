@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "183c4369-626d-4d12-bd58-827eb6d74e79",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "cuoc-bg": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a442d126-bdbf-486e-bb93-afda64e7efc0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "183c4369-626d-4d12-bd58-827eb6d74e79",
       "trimType": "auto",
       "trimThreshold": 1,

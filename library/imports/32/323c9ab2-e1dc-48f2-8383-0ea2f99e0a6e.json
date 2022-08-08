@@ -3797,7 +3797,7 @@
       }
     }
   },
-  "_atlasText": "\r\nSukien-X6-Zeus.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: false\r\n  xy: 185, 271\r\n  size: 183, 186\r\n  orig: 183, 186\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 183, 186\r\n  orig: 183, 186\r\n  offset: 0, 0\r\n  index: -1\r\nZeus-X6/1\r\n  rotate: false\r\n  xy: 2, 190\r\n  size: 181, 267\r\n  orig: 181, 267\r\n  offset: 0, 0\r\n  index: -1\r\nZeus-X6/4\r\n  rotate: false\r\n  xy: 187, 50\r\n  size: 76, 67\r\n  orig: 76, 67\r\n  offset: 0, 0\r\n  index: -1\r\nZeus-X6/5\r\n  rotate: false\r\n  xy: 370, 381\r\n  size: 78, 76\r\n  orig: 78, 76\r\n  offset: 0, 0\r\n  index: -1\r\nfx-2\r\n  rotate: false\r\n  xy: 187, 119\r\n  size: 150, 150\r\n  orig: 150, 150\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nSukien-X6-Zeus.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: false\n  xy: 185, 271\n  size: 183, 186\n  orig: 183, 186\n  offset: 0, 0\n  index: -1\n3\n  rotate: false\n  xy: 2, 2\n  size: 183, 186\n  orig: 183, 186\n  offset: 0, 0\n  index: -1\nZeus-X6/1\n  rotate: false\n  xy: 2, 190\n  size: 181, 267\n  orig: 181, 267\n  offset: 0, 0\n  index: -1\nZeus-X6/4\n  rotate: false\n  xy: 187, 50\n  size: 76, 67\n  orig: 76, 67\n  offset: 0, 0\n  index: -1\nZeus-X6/5\n  rotate: false\n  xy: 370, 381\n  size: 78, 76\n  orig: 78, 76\n  offset: 0, 0\n  index: -1\nfx-2\n  rotate: false\n  xy: 187, 119\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "da686dfb-3da2-49b8-aa88-2c765b33fb44"

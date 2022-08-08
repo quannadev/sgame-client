@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "7f0048cc-a123-4a77-97e3-b27ffc461f71",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "xedien": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "acd6740c-b022-4ce1-994d-f30b00da381f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "7f0048cc-a123-4a77-97e3-b27ffc461f71",
       "trimType": "custom",
       "trimThreshold": 1,

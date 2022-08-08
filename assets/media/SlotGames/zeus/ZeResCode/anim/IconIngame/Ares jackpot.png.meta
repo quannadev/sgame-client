@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "40c8d7d8-f3cc-4bb5-b932-72febbdeeee9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Ares jackpot": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7df1e166-6520-4914-a454-081f87b46bd1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "40c8d7d8-f3cc-4bb5-b932-72febbdeeee9",
       "trimType": "auto",
       "trimThreshold": 1,

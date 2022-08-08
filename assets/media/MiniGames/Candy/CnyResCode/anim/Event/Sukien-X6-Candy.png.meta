@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e06c4c26-a51e-4a7f-b86a-15f14e9e1c27",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Sukien-X6-Candy": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3c2a67e5-41e9-4383-995c-a14ed145ed9f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e06c4c26-a51e-4a7f-b86a-15f14e9e1c27",
       "trimType": "custom",
       "trimThreshold": 1,

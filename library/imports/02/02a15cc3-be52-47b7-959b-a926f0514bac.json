@@ -6027,7 +6027,7 @@
       }
     }
   },
-  "_atlasText": "\r\nInGame-Thang-1.png\r\nsize: 512,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nPoker/InGame/Thang-2/User/3\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 27, 25\r\n  orig: 27, 25\r\n  offset: 0, 0\r\n  index: -1\r\nPoker/InGame/Thang-2/User/4\r\n  rotate: false\r\n  xy: 259, 54\r\n  size: 124, 49\r\n  orig: 124, 49\r\n  offset: 0, 0\r\n  index: -1\r\nPoker/InGame/Thang-2/User/toitrang\r\n  rotate: false\r\n  xy: 2, 29\r\n  size: 255, 74\r\n  orig: 255, 74\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nInGame-Thang-1.png\nsize: 512,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nPoker/InGame/Thang-2/User/3\n  rotate: false\n  xy: 2, 2\n  size: 27, 25\n  orig: 27, 25\n  offset: 0, 0\n  index: -1\nPoker/InGame/Thang-2/User/4\n  rotate: false\n  xy: 259, 54\n  size: 124, 49\n  orig: 124, 49\n  offset: 0, 0\n  index: -1\nPoker/InGame/Thang-2/User/toitrang\n  rotate: false\n  xy: 2, 29\n  size: 255, 74\n  orig: 255, 74\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "e468a8fc-e44b-47d0-8b18-2ccf1449230d"

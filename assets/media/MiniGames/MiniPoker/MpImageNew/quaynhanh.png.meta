@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4dfa9e9e-176f-488a-96aa-f4dc8dcd7eb8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "quaynhanh": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "37295a82-25e6-4b4a-b8dd-770fd3438002",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4dfa9e9e-176f-488a-96aa-f4dc8dcd7eb8",
       "trimType": "custom",
       "trimThreshold": 1,

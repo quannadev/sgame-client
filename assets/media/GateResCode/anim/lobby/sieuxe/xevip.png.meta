@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "bb07fa44-ac5b-4836-87ed-371e4ccc0c60",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "xevip": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "97e255e4-fcca-4f81-8d3c-2e2331e95e25",
+      "importer": "sprite-frame",
       "rawTextureUuid": "bb07fa44-ac5b-4836-87ed-371e4ccc0c60",
       "trimType": "custom",
       "trimThreshold": 1,

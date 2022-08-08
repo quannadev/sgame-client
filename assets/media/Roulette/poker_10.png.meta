@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "56239be8-10e1-4237-9994-edc0ec6c0a85",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "poker_10": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5677f51c-b4c4-4e32-8b3b-74cf3e642126",
+      "importer": "sprite-frame",
       "rawTextureUuid": "56239be8-10e1-4237-9994-edc0ec6c0a85",
       "trimType": "auto",
       "trimThreshold": 1,

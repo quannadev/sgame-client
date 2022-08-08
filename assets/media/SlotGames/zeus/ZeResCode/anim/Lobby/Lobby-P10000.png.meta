@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5d02b94f-ae3b-4a02-8b01-22c490d759a3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Lobby-P10000": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f9a1a8e5-ff93-4e1d-840a-9071923ab802",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5d02b94f-ae3b-4a02-8b01-22c490d759a3",
       "trimType": "auto",
       "trimThreshold": 1,

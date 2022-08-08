@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c18656d3-eaa5-467c-9ed3-88b8484703f9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "CandyCrush-Thang2": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0b05fd21-178f-4fcb-bc20-9310958ab2b0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c18656d3-eaa5-467c-9ed3-88b8484703f9",
       "trimType": "custom",
       "trimThreshold": 1,

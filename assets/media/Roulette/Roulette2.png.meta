@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "473fbf3c-0a21-4f14-863e-041d7db08b0f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Roulette2": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6ed8a22d-a084-47f0-bc90-a70ccbc277e4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "473fbf3c-0a21-4f14-863e-041d7db08b0f",
       "trimType": "auto",
       "trimThreshold": 1,

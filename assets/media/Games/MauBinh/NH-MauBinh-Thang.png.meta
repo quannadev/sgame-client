@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "20837dac-9656-441c-946a-d78bd39177f1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "NH-MauBinh-Thang": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "be17cd6a-cac4-47c3-a500-5c85cf8c39cc",
+      "importer": "sprite-frame",
       "rawTextureUuid": "20837dac-9656-441c-946a-d78bd39177f1",
       "trimType": "auto",
       "trimThreshold": 1,

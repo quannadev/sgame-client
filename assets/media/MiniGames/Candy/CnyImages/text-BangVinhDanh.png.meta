@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a1cf29d9-e759-4cbc-acbd-2b2bd57ff17a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "text-BangVinhDanh": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f24bbc5b-0e2c-4306-ad13-d1a4d46e9dc5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a1cf29d9-e759-4cbc-acbd-2b2bd57ff17a",
       "trimType": "custom",
       "trimThreshold": 1,

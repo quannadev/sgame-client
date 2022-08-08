@@ -258,7 +258,7 @@
       }
     }
   },
-  "_atlasText": "\r\nIcon-Poseidon- jackpot.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 183, 186\r\n  orig: 183, 186\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: false\r\n  xy: 325, 57\r\n  size: 131, 131\r\n  orig: 131, 131\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 187, 26\r\n  size: 136, 162\r\n  orig: 136, 162\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nIcon-Poseidon- jackpot.png\nsize: 512,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: false\n  xy: 2, 2\n  size: 183, 186\n  orig: 183, 186\n  offset: 0, 0\n  index: -1\n2\n  rotate: false\n  xy: 325, 57\n  size: 131, 131\n  orig: 131, 131\n  offset: 0, 0\n  index: -1\n3\n  rotate: false\n  xy: 187, 26\n  size: 136, 162\n  orig: 136, 162\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "a1f63a8c-0261-4e0a-bff5-07c2e5c302a3"

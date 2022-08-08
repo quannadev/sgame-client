@@ -1935,8 +1935,6 @@
     "__type__": "cc.TextureAnimationModule",
     "_enable": false,
     "_mode": 0,
-    "numTilesX": 0,
-    "numTilesY": 0,
     "animation": 0,
     "randomRow": false,
     "rowIndex": 0,
@@ -1946,7 +1944,9 @@
     "startFrame": {
       "__id__": 133
     },
-    "cycleCount": 0
+    "cycleCount": 0,
+    "_numTilesX": 0,
+    "_numTilesY": 0
   },
   {
     "__type__": "cc.CurveRange",

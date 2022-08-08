@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b31028c9-6119-42c9-b8ed-7547df8b9da9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "boluot-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7a5f31be-60a7-4a7b-8666-46f593b8407b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b31028c9-6119-42c9-b8ed-7547df8b9da9",
       "trimType": "custom",
       "trimThreshold": 1,

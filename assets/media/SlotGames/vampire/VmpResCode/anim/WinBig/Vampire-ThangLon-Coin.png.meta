@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "94f5fcc1-c720-438e-8332-97b6b238b329",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Vampire-ThangLon-Coin": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f95b4c23-052a-4364-8fec-9b927203df1d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "94f5fcc1-c720-438e-8332-97b6b238b329",
       "trimType": "auto",
       "trimThreshold": 1,

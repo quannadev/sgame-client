@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ff49518b-fb52-4032-967c-d15939d35b8b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Vampire3": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "9f06b593-6501-4dc4-baa2-c1687305058c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ff49518b-fb52-4032-967c-d15939d35b8b",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2cd4fa73-ec7d-4226-b7e6-6010a2aaafd4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "lsgd-icon": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ff18c1df-ba21-4773-af26-e113240fccbf",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2cd4fa73-ec7d-4226-b7e6-6010a2aaafd4",
       "trimType": "custom",
       "trimThreshold": 1,

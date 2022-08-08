@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "72f3aa57-fefa-4fc2-84b2-8b4fc52ee1a9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "caothap": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4657fa94-7529-4cc7-8367-881a87dc5530",
+      "importer": "sprite-frame",
       "rawTextureUuid": "72f3aa57-fefa-4fc2-84b2-8b4fc52ee1a9",
       "trimType": "custom",
       "trimThreshold": 1,

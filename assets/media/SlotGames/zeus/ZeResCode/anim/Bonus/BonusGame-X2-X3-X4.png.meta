@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6089e0b6-b757-4c22-9baa-f93783a532f4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "BonusGame-X2-X3-X4": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "af948cdf-f25b-4b66-8b31-0e8caf09ec7e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6089e0b6-b757-4c22-9baa-f93783a532f4",
       "trimType": "auto",
       "trimThreshold": 1,

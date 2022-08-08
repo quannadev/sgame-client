@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6c2951b8-bf89-4744-81fd-cdf31be8e9f3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "iconchat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2628de5e-2c60-4cc3-b415-194041cd40ea",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6c2951b8-bf89-4744-81fd-cdf31be8e9f3",
       "trimType": "auto",
       "trimThreshold": 1,

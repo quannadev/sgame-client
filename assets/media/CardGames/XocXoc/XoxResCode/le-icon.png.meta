@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "672ed4f3-505b-421c-8445-f78da62fcadb",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "le-icon": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "22c60046-3a67-448a-b2f6-6d24248cd837",
+      "importer": "sprite-frame",
       "rawTextureUuid": "672ed4f3-505b-421c-8445-f78da62fcadb",
       "trimType": "custom",
       "trimThreshold": 1,

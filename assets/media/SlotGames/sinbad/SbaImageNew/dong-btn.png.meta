@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "009e6cf5-d797-4dae-9848-b84a98888f8f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "dong-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c360ce2c-fe9d-48f9-a85e-df3248a984fa",
+      "importer": "sprite-frame",
       "rawTextureUuid": "009e6cf5-d797-4dae-9848-b84a98888f8f",
       "trimType": "auto",
       "trimThreshold": 1,

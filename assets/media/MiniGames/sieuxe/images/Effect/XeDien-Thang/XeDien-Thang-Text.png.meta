@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "33ba37c9-f6be-4eac-a95d-81232938c582",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "XeDien-Thang-Text": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f057367a-ec46-4916-a1bf-47ec26309f74",
+      "importer": "sprite-frame",
       "rawTextureUuid": "33ba37c9-f6be-4eac-a95d-81232938c582",
       "trimType": "auto",
       "trimThreshold": 1,

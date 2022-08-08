@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "56357e08-4a2f-4c06-9e04-9a74d8faadf8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "danhbien-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "49becdb1-caf7-4206-9380-6ec4c31f053d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "56357e08-4a2f-4c06-9e04-9a74d8faadf8",
       "trimType": "custom",
       "trimThreshold": 1,

@@ -322,7 +322,7 @@
       }
     }
   },
-  "_atlasText": "\r\nic-baccarat-small.png\r\nsize: 469,209\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nBaccarat\r\n  rotate: true\r\n  xy: 196, 27\r\n  size: 180, 35\r\n  orig: 180, 35\r\n  offset: 0, 0\r\n  index: -1\r\nLayer 3\r\n  rotate: true\r\n  xy: 343, 103\r\n  size: 104, 124\r\n  orig: 104, 124\r\n  offset: 0, 0\r\n  index: -1\r\nLayer 4\r\n  rotate: true\r\n  xy: 343, 2\r\n  size: 99, 116\r\n  orig: 99, 116\r\n  offset: 0, 0\r\n  index: -1\r\nLayer 5\r\n  rotate: false\r\n  xy: 233, 78\r\n  size: 108, 129\r\n  orig: 108, 129\r\n  offset: 0, 0\r\n  index: -1\r\nbg\r\n  rotate: false\r\n  xy: 2, 15\r\n  size: 192, 192\r\n  orig: 192, 192\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nic-baccarat-small.png\nsize: 469,209\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nBaccarat\n  rotate: true\n  xy: 196, 27\n  size: 180, 35\n  orig: 180, 35\n  offset: 0, 0\n  index: -1\nLayer 3\n  rotate: true\n  xy: 343, 103\n  size: 104, 124\n  orig: 104, 124\n  offset: 0, 0\n  index: -1\nLayer 4\n  rotate: true\n  xy: 343, 2\n  size: 99, 116\n  orig: 99, 116\n  offset: 0, 0\n  index: -1\nLayer 5\n  rotate: false\n  xy: 233, 78\n  size: 108, 129\n  orig: 108, 129\n  offset: 0, 0\n  index: -1\nbg\n  rotate: false\n  xy: 2, 15\n  size: 192, 192\n  orig: 192, 192\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "7e6cf59e-937d-466d-8a13-8cbc7449aa8e"

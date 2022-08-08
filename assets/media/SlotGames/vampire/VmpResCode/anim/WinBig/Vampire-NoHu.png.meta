@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d2339a56-9e53-481e-a8a4-358c8f582bcd",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Vampire-NoHu": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2f6f8517-c557-4ebd-a37a-b36febe84f00",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d2339a56-9e53-481e-a8a4-358c8f582bcd",
       "trimType": "auto",
       "trimThreshold": 1,

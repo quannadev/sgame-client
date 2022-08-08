@@ -1813,7 +1813,7 @@
       }
     }
   },
-  "_atlasText": "\r\nIcon-Zeus-jackpot.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\ndemo\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 183, 186\r\n  orig: 183, 186\r\n  offset: 0, 0\r\n  index: -1\r\nfx-2\r\n  rotate: false\r\n  xy: 187, 38\r\n  size: 150, 150\r\n  orig: 150, 150\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nIcon-Zeus-jackpot.png\nsize: 512,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ndemo\n  rotate: false\n  xy: 2, 2\n  size: 183, 186\n  orig: 183, 186\n  offset: 0, 0\n  index: -1\nfx-2\n  rotate: false\n  xy: 187, 38\n  size: 150, 150\n  orig: 150, 150\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "a0f4b804-ed3b-46e2-9d5a-d37e1c6e98ca"

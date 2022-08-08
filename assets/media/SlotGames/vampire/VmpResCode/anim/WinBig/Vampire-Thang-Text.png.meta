@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8ee9712c-8778-4bb3-9cd8-4e1047981320",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Vampire-Thang-Text": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a6ebecb9-35c0-4f01-a4e0-f0398aedda74",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8ee9712c-8778-4bb3-9cd8-4e1047981320",
       "trimType": "auto",
       "trimThreshold": 1,

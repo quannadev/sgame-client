@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "48219e68-32fe-405b-835f-f1703004f1f4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "dung-btn": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b747b4f7-879a-44e8-9f63-1a465168d45f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "48219e68-32fe-405b-835f-f1703004f1f4",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d1b65d7b-d3e7-4f75-afd2-08e4470ea3a6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "iconzalo": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "20bb6f7c-4a27-4729-b0d3-9d85fb73c653",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d1b65d7b-d3e7-4f75-afd2-08e4470ea3a6",
       "trimType": "auto",
       "trimThreshold": 1,

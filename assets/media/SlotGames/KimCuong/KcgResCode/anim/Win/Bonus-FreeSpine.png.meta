@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0a77c195-89f7-4c6d-926b-3fe9c47f3278",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Bonus-FreeSpine": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "222900bc-7ade-4762-914c-eb37c9fa5e0d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0a77c195-89f7-4c6d-926b-3fe9c47f3278",
       "trimType": "auto",
       "trimThreshold": 1,

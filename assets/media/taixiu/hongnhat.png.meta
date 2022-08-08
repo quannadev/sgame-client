@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "39536ac8-17e6-4334-aeee-768d628598d9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "hongnhat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ef685d8b-a343-4c67-b929-a6156deec86c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "39536ac8-17e6-4334-aeee-768d628598d9",
       "trimType": "auto",
       "trimThreshold": 1,

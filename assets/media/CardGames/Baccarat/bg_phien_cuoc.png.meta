@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4e96ecb6-7d1a-49a2-89f8-3f33deac5382",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bg_phien_cuoc": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3f4d149a-9b1a-4f9c-8fdc-b8140942433d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4e96ecb6-7d1a-49a2-89f8-3f33deac5382",
       "trimType": "custom",
       "trimThreshold": 1,

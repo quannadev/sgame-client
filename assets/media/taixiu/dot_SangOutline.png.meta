@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "bc90ed52-c680-48d2-b9b1-6a24e9a028c7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "dot_SangOutline": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "007e305b-39af-4528-9493-7b47fe3a554a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "bc90ed52-c680-48d2-b9b1-6a24e9a028c7",
       "trimType": "auto",
       "trimThreshold": 1,

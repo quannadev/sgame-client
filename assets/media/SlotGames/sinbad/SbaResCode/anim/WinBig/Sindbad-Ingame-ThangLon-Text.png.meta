@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0d1906c4-0b9f-451e-aaa5-714795b1e07b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Sindbad-Ingame-ThangLon-Text": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ec00ac03-e625-4a11-afe6-8d5ae66396ab",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0d1906c4-0b9f-451e-aaa5-714795b1e07b",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "abf249c8-e863-4910-ad89-9652c6a19ad9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "somoi-export": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2d242883-a20e-464d-bc8e-2e0338a22eb1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "abf249c8-e863-4910-ad89-9652c6a19ad9",
       "trimType": "auto",
       "trimThreshold": 1,

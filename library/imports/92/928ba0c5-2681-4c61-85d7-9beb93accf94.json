@@ -2885,7 +2885,7 @@
       }
     }
   },
-  "_atlasText": "\r\nCandy-Text.png\r\nsize: 512,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nminigame/Candy Crush/image/text-Candy/1\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 95, 100\r\n  orig: 95, 100\r\n  offset: 0, 0\r\n  index: -1\r\nminigame/Candy Crush/image/text-Candy/2\r\n  rotate: false\r\n  xy: 369, 18\r\n  size: 86, 84\r\n  orig: 86, 84\r\n  offset: 0, 0\r\n  index: -1\r\nminigame/Candy Crush/image/text-Candy/3\r\n  rotate: false\r\n  xy: 277, 18\r\n  size: 90, 84\r\n  orig: 90, 84\r\n  offset: 0, 0\r\n  index: -1\r\nminigame/Candy Crush/image/text-Candy/4\r\n  rotate: false\r\n  xy: 99, 4\r\n  size: 89, 98\r\n  orig: 89, 98\r\n  offset: 0, 0\r\n  index: -1\r\nminigame/Candy Crush/image/text-Candy/5\r\n  rotate: false\r\n  xy: 190, 11\r\n  size: 85, 91\r\n  orig: 85, 91\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nCandy-Text.png\nsize: 512,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nminigame/Candy Crush/image/text-Candy/1\n  rotate: false\n  xy: 2, 2\n  size: 95, 100\n  orig: 95, 100\n  offset: 0, 0\n  index: -1\nminigame/Candy Crush/image/text-Candy/2\n  rotate: false\n  xy: 369, 18\n  size: 86, 84\n  orig: 86, 84\n  offset: 0, 0\n  index: -1\nminigame/Candy Crush/image/text-Candy/3\n  rotate: false\n  xy: 277, 18\n  size: 90, 84\n  orig: 90, 84\n  offset: 0, 0\n  index: -1\nminigame/Candy Crush/image/text-Candy/4\n  rotate: false\n  xy: 99, 4\n  size: 89, 98\n  orig: 89, 98\n  offset: 0, 0\n  index: -1\nminigame/Candy Crush/image/text-Candy/5\n  rotate: false\n  xy: 190, 11\n  size: 85, 91\n  orig: 85, 91\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "eeed919f-8da4-4237-b165-8b8b9bdc5a77"

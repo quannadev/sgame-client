@@ -2669,7 +2669,7 @@
       }
     }
   },
-  "_atlasText": "\r\nBonusGame-2-ConMa.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: false\r\n  xy: 2, 71\r\n  size: 128, 170\r\n  orig: 130, 172\r\n  offset: 1, 1\r\n  index: -1\r\n2 1\r\n  rotate: false\r\n  xy: 132, 221\r\n  size: 37, 20\r\n  orig: 39, 22\r\n  offset: 1, 1\r\n  index: -1\r\n2 2\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 8, 21\r\n  orig: 10, 23\r\n  offset: 1, 1\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 2, 25\r\n  size: 29, 44\r\n  orig: 31, 46\r\n  offset: 1, 1\r\n  index: -1\r\n",
+  "_atlasText": "\nBonusGame-2-ConMa.png\nsize: 256,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1\n  rotate: false\n  xy: 2, 71\n  size: 128, 170\n  orig: 130, 172\n  offset: 1, 1\n  index: -1\n2 1\n  rotate: false\n  xy: 132, 221\n  size: 37, 20\n  orig: 39, 22\n  offset: 1, 1\n  index: -1\n2 2\n  rotate: false\n  xy: 2, 2\n  size: 8, 21\n  orig: 10, 23\n  offset: 1, 1\n  index: -1\n3\n  rotate: false\n  xy: 2, 25\n  size: 29, 44\n  orig: 31, 46\n  offset: 1, 1\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "9f41745f-1bf4-40da-9b06-a623e626f04a"

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c0b5e564-d558-4ac8-90b4-a553ef87ef80",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "title-maubinh": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c8fac60e-248b-40c4-bb95-b3ca666f6848",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c0b5e564-d558-4ac8-90b4-a553ef87ef80",
       "trimType": "custom",
       "trimThreshold": 1,

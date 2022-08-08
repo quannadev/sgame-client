@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "cf73a81a-de38-4b4e-8e05-d251ca3dd130",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "KimCuong-Lobby-P1000": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "9ad777bc-94ee-4e1c-9858-fbe6a87013e7",
+      "importer": "sprite-frame",
       "rawTextureUuid": "cf73a81a-de38-4b4e-8e05-d251ca3dd130",
       "trimType": "auto",
       "trimThreshold": 1,

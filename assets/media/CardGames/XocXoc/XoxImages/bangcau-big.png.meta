@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "dee5b9cd-4ce7-4374-8571-5e8f574ac8c2",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "bangcau-big": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "42bb6a99-72fc-446a-9d14-44462df2fd39",
+      "importer": "sprite-frame",
       "rawTextureUuid": "dee5b9cd-4ce7-4374-8571-5e8f574ac8c2",
       "trimType": "custom",
       "trimThreshold": 1,

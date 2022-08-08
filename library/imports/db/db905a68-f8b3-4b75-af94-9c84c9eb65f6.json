@@ -1685,7 +1685,7 @@
       }
     }
   },
-  "_atlasText": "\r\nVampire-Lobby-ChoiThu.png\r\nsize: 512,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nimages/0k\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 273, 424\r\n  orig: 273, 424\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nVampire-Lobby-ChoiThu.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimages/0k\n  rotate: false\n  xy: 2, 2\n  size: 273, 424\n  orig: 273, 424\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "bfdb39a1-1474-4c5f-ada9-1e357ae69398"

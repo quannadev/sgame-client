@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "90f14db6-8949-4d66-8a34-b15e4ae6b4e2",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "miniGameBg": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1d254d6c-3beb-4157-8f78-e6c5f1eaf29d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "90f14db6-8949-4d66-8a34-b15e4ae6b4e2",
       "trimType": "auto",
       "trimThreshold": 1,

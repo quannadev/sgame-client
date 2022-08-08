@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "19e43614-b85e-4f1a-840e-a3c06773889d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "cardsminipokerBlur": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3e5a25c9-2683-45b3-a0c9-30f8c1d1686a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "19e43614-b85e-4f1a-840e-a3c06773889d",
       "trimType": "custom",
       "trimThreshold": 1,

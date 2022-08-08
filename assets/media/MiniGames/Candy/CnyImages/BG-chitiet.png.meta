@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "022b6a9f-206a-4579-8301-0d3ccb5e93cf",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "BG-chitiet": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c4fa38ef-0bcf-45cc-a8d0-d507a0b88f9a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "022b6a9f-206a-4579-8301-0d3ccb5e93cf",
       "trimType": "custom",
       "trimThreshold": 1,
