@@ -1,0 +1,1 @@
+window._CCSettings={platform:"ios",groupList:["default","Bat","Card","Bet"],collisionMatrix:[[true],[false,true],[false,false,true],[false,false,false,true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/Main.fire",orientation:"",server:"",jsList:["assets/SmartFoxSDK.js"]};
