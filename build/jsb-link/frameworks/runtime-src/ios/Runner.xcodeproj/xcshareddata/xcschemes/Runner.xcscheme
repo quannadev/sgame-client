@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A922753C1517C094001B78AA"
-               BuildableName = "SGame68-mobile.app"
-               BlueprintName = "SGame68-mobile"
-               ReferencedContainer = "container:SGame68.xcodeproj">
+               BuildableName = "Runner-mobile.app"
+               BlueprintName = "Runner"
+               ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A922753C1517C094001B78AA"
-            BuildableName = "SGame68-mobile.app"
-            BlueprintName = "SGame68-mobile"
-            ReferencedContainer = "container:SGame68.xcodeproj">
+            BuildableName = "Runner-mobile.app"
+            BlueprintName = "Runner"
+            ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A922753C1517C094001B78AA"
-            BuildableName = "SGame68-mobile.app"
-            BlueprintName = "SGame68-mobile"
-            ReferencedContainer = "container:SGame68.xcodeproj">
+            BuildableName = "Runner-mobile.app"
+            BlueprintName = "Runner"
+            ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

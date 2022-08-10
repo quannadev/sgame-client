@@ -204,7 +204,7 @@
 		4D697BD91CBD301C00A5AF29 /* libjs_static.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libjs_static.a; path = "/Applications/CocosCreator/Creator/2.4.9/CocosCreator.app/Contents/Resources/cocos2d-x/external/ios/libs/libjs_static.a"; sourceTree = "<absolute>"; };
 		4D697BDC1CBD303100A5AF29 /* libjs_static.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libjs_static.a; path = "/Applications/CocosCreator/Creator/2.4.9/CocosCreator.app/Contents/Resources/cocos2d-x/external/mac/libs/libjs_static.a"; sourceTree = "<absolute>"; };
 		502380DB17EBB88200990C9B /* libcurl.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcurl.dylib; path = usr/lib/libcurl.dylib; sourceTree = SDKROOT; };
-		509D4AAA17EBB24E00697056 /* SGame68-desktop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SGame68-desktop.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		509D4AAA17EBB24E00697056 /* Runner-desktop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Runner-desktop.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		509D4AAB17EBB2AB00697056 /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppController.h; path = ios/AppController.h; sourceTree = "<group>"; };
 		509D4AAC17EBB2AB00697056 /* AppController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppController.mm; path = ios/AppController.mm; sourceTree = "<group>"; };
 		509D4AB717EBB2AB00697056 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ios/Info.plist; sourceTree = "<group>"; };
@@ -221,7 +221,7 @@
 		70AC7CD828A1085F0015DDB9 /* SGame.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SGame.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		70AC7CDA28A1085F0015DDB9 /* SGame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SGame.h; sourceTree = "<group>"; };
 		70AC7CDB28A1085F0015DDB9 /* SGame.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = SGame.docc; sourceTree = "<group>"; };
-		A922753D1517C094001B78AA /* SGame68-mobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SGame68-mobile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A922753D1517C094001B78AA /* Runner-mobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Runner-mobile.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A92275411517C094001B78AA /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		A92275431517C094001B78AA /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		A92275451517C094001B78AA /* OpenAL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenAL.framework; path = System/Library/Frameworks/OpenAL.framework; sourceTree = SDKROOT; };
@@ -420,8 +420,8 @@
 		A922753E1517C094001B78AA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A922753D1517C094001B78AA /* SGame68-mobile.app */,
-				509D4AAA17EBB24E00697056 /* SGame68-desktop.app */,
+				A922753D1517C094001B78AA /* Runner-mobile.app */,
+				509D4AAA17EBB24E00697056 /* Runner-desktop.app */,
 				70AC7CD828A1085F0015DDB9 /* SGame.framework */,
 			);
 			name = Products;
@@ -525,9 +525,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		509D4A7517EBB24E00697056 /* SGame68-desktop */ = {
+		509D4A7517EBB24E00697056 /* Runner-desktop */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 509D4AA717EBB24E00697056 /* Build configuration list for PBXNativeTarget "SGame68-desktop" */;
+			buildConfigurationList = 509D4AA717EBB24E00697056 /* Build configuration list for PBXNativeTarget "Runner-desktop" */;
 			buildPhases = (
 				509D4A8017EBB24E00697056 /* Sources */,
 				509D4A9317EBB24E00697056 /* Resources */,
@@ -538,9 +538,9 @@
 			dependencies = (
 				4DD5E6AA1CDAF6330046171E /* PBXTargetDependency */,
 			);
-			name = "SGame68-desktop";
+			name = "Runner-desktop";
 			productName = SGame68;
-			productReference = 509D4AAA17EBB24E00697056 /* SGame68-desktop.app */;
+			productReference = 509D4AAA17EBB24E00697056 /* Runner-desktop.app */;
 			productType = "com.apple.product-type.application";
 		};
 		70AC7CD728A1085F0015DDB9 /* SGame */ = {
@@ -561,9 +561,9 @@
 			productReference = 70AC7CD828A1085F0015DDB9 /* SGame.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		A922753C1517C094001B78AA /* SGame68-mobile */ = {
+		A922753C1517C094001B78AA /* Runner */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A92277001517C097001B78AA /* Build configuration list for PBXNativeTarget "SGame68-mobile" */;
+			buildConfigurationList = A92277001517C097001B78AA /* Build configuration list for PBXNativeTarget "Runner" */;
 			buildPhases = (
 				A92275391517C094001B78AA /* Sources */,
 				A922753A1517C094001B78AA /* Frameworks */,
@@ -576,9 +576,9 @@
 				4DD5E6B01CDAF6520046171E /* PBXTargetDependency */,
 				70AC7CDF28A1085F0015DDB9 /* PBXTargetDependency */,
 			);
-			name = "SGame68-mobile";
+			name = Runner;
 			productName = SGame68;
-			productReference = A922753D1517C094001B78AA /* SGame68-mobile.app */;
+			productReference = A922753D1517C094001B78AA /* Runner-mobile.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -595,7 +595,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A92275371517C094001B78AA /* Build configuration list for PBXProject "SGame68" */;
+			buildConfigurationList = A92275371517C094001B78AA /* Build configuration list for PBXProject "Runner" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -616,8 +616,8 @@
 			);
 			projectRoot = "";
 			targets = (
-				A922753C1517C094001B78AA /* SGame68-mobile */,
-				509D4A7517EBB24E00697056 /* SGame68-desktop */,
+				A922753C1517C094001B78AA /* Runner */,
+				509D4A7517EBB24E00697056 /* Runner-desktop */,
 				70AC7CD728A1085F0015DDB9 /* SGame */,
 			);
 		};
@@ -779,6 +779,7 @@
 				INFOPLIST_FILE = mac/Info.plist;
 				LIBRARY_SEARCH_PATHS = "/Applications/CocosCreator/Creator/2.4.9/CocosCreator.app/Contents/Resources/cocos2d-x/external/mac/libs";
 				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "Runner-desktop";
 				SDKROOT = macosx;
 				USER_HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -810,6 +811,7 @@
 				INFOPLIST_FILE = mac/Info.plist;
 				LIBRARY_SEARCH_PATHS = "/Applications/CocosCreator/Creator/2.4.9/CocosCreator.app/Contents/Resources/cocos2d-x/external/mac/libs";
 				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "Runner-desktop";
 				SDKROOT = macosx;
 				USER_HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1162,6 +1164,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
+				PRODUCT_NAME = "Runner-mobile";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1206,6 +1209,7 @@
 					"-ObjC",
 					"$(inherited)",
 				);
+				PRODUCT_NAME = "Runner-mobile";
 				SDKROOT = iphoneos;
 				STRIP_PNG_TEXT = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1223,7 +1227,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		509D4AA717EBB24E00697056 /* Build configuration list for PBXNativeTarget "SGame68-desktop" */ = {
+		509D4AA717EBB24E00697056 /* Build configuration list for PBXNativeTarget "Runner-desktop" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				509D4AA817EBB24E00697056 /* Debug */,
@@ -1241,7 +1245,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A92275371517C094001B78AA /* Build configuration list for PBXProject "SGame68" */ = {
+		A92275371517C094001B78AA /* Build configuration list for PBXProject "Runner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A92276FE1517C097001B78AA /* Debug */,
@@ -1250,7 +1254,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A92277001517C097001B78AA /* Build configuration list for PBXNativeTarget "SGame68-mobile" */ = {
+		A92277001517C097001B78AA /* Build configuration list for PBXNativeTarget "Runner" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A92277011517C097001B78AA /* Debug */,
