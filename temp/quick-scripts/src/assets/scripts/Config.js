@@ -7,7 +7,7 @@ cc._RF.push(module, 'a40c0InVC1Lraf05u1kjNDU', 'Config');
 var Config = {};
 var debug = false; // let host  = "192.46.230.137";
 
-var host = "127.0.0.1";
+var host = "gsv1.8668live.com";
 var isSSL = false;
 Config.zoneConfig = {
   "portal": {

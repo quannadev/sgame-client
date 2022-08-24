@@ -6,3 +6,6 @@
 	#import <Foundation/Foundation.h>
 	#import <UIKit/UIKit.h>
 #endif
+
+//#import <FlutterPluginRegistrant/GeneratedPluginRegistrant.h>
+//#import "GeneratedPluginRegistrant.h"

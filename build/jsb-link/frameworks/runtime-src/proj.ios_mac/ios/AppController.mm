@@ -30,8 +30,7 @@
 #import "RootViewController.h"
 #import "SDKWrapper.h"
 #import "platform/ios/CCEAGLView-ios.h"
-
-
+#import "BaseFlutterViewController.h"
 
 using namespace cocos2d;
 
@@ -54,35 +53,31 @@ Application* app = nullptr;
     app = new AppDelegate(bounds.size.width * scale, bounds.size.height * scale);
     app->setMultitouch(true);
     
+    [self setupViewController];
+    
     // Use RootViewController to manage CCEAGLView
-    _viewController = [[RootViewController alloc]init];
-#ifdef NSFoundationVersionNumber_iOS_7_0
-    _viewController.automaticallyAdjustsScrollViewInsets = NO;
-    _viewController.extendedLayoutIncludesOpaqueBars = NO;
-    _viewController.edgesForExtendedLayout = UIRectEdgeAll;
-#else
-    _viewController.wantsFullScreenLayout = YES;
-#endif
-    // Set RootViewController to window
-    if ( [[UIDevice currentDevice].systemVersion floatValue] < 6.0)
-    {
-        // warning: addSubView doesn't work on iOS6
-        [window addSubview: _viewController.view];
-    }
-    else
-    {
-        // use this method on ios6
-        [window setRootViewController:_viewController];
-    }
-    
-    [window makeKeyAndVisible];
-    
+//    _viewController = [[RootViewController alloc]init];
+//#ifdef NSFoundationVersionNumber_iOS_7_0
+//    _viewController.automaticallyAdjustsScrollViewInsets = NO;
+//    _viewController.extendedLayoutIncludesOpaqueBars = NO;
+//    _viewController.edgesForExtendedLayout = UIRectEdgeAll;
+//#else
+//    _viewController.wantsFullScreenLayout = YES;
+//#endif
     [[UIApplication sharedApplication] setStatusBarHidden:YES];
     
     //run the cocos2d-x game scene
     app->start();
     
     return YES;
+}
+
+- (void)setupViewController {
+    BaseFlutterViewController *vc = [[BaseFlutterViewController alloc] initWithEntryPoint: @"main"];
+    _viewController = vc;
+    
+    [window setRootViewController:_viewController];
+    [window makeKeyAndVisible];
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {

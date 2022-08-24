@@ -1,7 +1,7 @@
 let Config = {};
 let debug = false;
 // let host  = "192.46.230.137";
-let host  = "127.0.0.1";
+let host  = "gsv1.8668live.com";
 let isSSL = false;
 Config.zoneConfig = {
     "portal": {

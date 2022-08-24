@@ -24,6 +24,7 @@
  THE SOFTWARE.
  ****************************************************************************/
 #import <UIKit/UIKit.h>
+#import <Flutter/Flutter.h>
 
 @class RootViewController;
 
@@ -31,7 +32,7 @@
 {
 }
 
-@property(nonatomic, readonly) RootViewController* viewController;
+@property(nonatomic, readonly) UIViewController* viewController;
 
 @end
 

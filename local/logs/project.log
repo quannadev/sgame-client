@@ -1,193 +1,76 @@
-2022-08-08T04:32:07.103Z - success: protocol editor-framework registered
-2022-08-08T04:32:07.103Z - success: protocol app registered
-2022-08-08T04:32:07.103Z - success: protocol theme registered
-2022-08-08T04:32:07.104Z - success: protocol packages registered
-2022-08-08T04:32:07.111Z - normal: Load ~/.CocosCreator/settings.json
-2022-08-08T04:32:07.120Z - success: protocol uuid registerred
-2022-08-08T04:32:07.120Z - success: protocol db registerred
-2022-08-08T04:32:07.121Z - success: protocol thumbnail registerred
-2022-08-08T04:32:07.157Z - normal: Initializing Asset Database
-2022-08-08T04:32:07.159Z - normal: checking language setting...
-2022-08-08T04:32:07.159Z - normal: Language: en
-2022-08-08T04:32:07.161Z - success: protocol unpack registerred
-2022-08-08T04:32:07.161Z - success: protocol disable-commonjs registerred
-2022-08-08T04:32:08.376Z - normal: connected!
-2022-08-08T04:32:08.855Z - normal: Check project /Users/dotoan/Work/XD/sgame-client
-2022-08-08T04:32:08.857Z - normal: Initializing project /Users/dotoan/Work/XD/sgame-client
-2022-08-08T04:32:08.979Z - success: adapters loaded
-2022-08-08T04:32:08.980Z - success: asset-db-debugger loaded
-2022-08-08T04:32:09.010Z - success: fb-audience-network loaded
-2022-08-08T04:32:09.027Z - success: fb-live-stream loaded
-2022-08-08T04:32:09.028Z - success: google-play-instant loaded
-2022-08-08T04:32:09.028Z - success: jsb-adapter loaded
-2022-08-08T04:32:09.029Z - success: package-manager loaded
-2022-08-08T04:32:09.030Z - success: runtime-adapters loaded
-2022-08-08T04:32:09.030Z - success: runtime-dev-tools loaded
-2022-08-08T04:32:09.031Z - success: ui-kit-preview-extra loaded
-2022-08-08T04:32:09.032Z - success: ui-kit-preview loaded
-2022-08-08T04:32:09.385Z - success: alipay-minigame loaded
-2022-08-08T04:32:09.389Z - success: assets loaded
-2022-08-08T04:32:09.391Z - success: baidugame-opendata loaded
-2022-08-08T04:32:09.392Z - success: baidugame loaded
-2022-08-08T04:32:09.395Z - success: builder loaded
-2022-08-08T04:32:09.396Z - success: bytedance-opendata loaded
-2022-08-08T04:32:09.398Z - success: bytedance loaded
-2022-08-08T04:32:09.400Z - success: channel-upload-tools loaded
-2022-08-08T04:32:09.463Z - success: cloud-function loaded
-2022-08-08T04:32:09.554Z - success: cocos-services loaded
-2022-08-08T04:32:09.556Z - success: console loaded
-2022-08-08T04:32:09.557Z - success: curve-editor loaded
-2022-08-08T04:32:09.562Z - success: fb-instant-games loaded
-2022-08-08T04:32:09.564Z - success: game-window loaded
-2022-08-08T04:32:09.564Z - success: google-instant-games loaded
-2022-08-08T04:32:09.567Z - success: hierarchy loaded
-2022-08-08T04:32:09.568Z - success: huawei-agc loaded
-2022-08-08T04:32:09.570Z - success: huawei-runtime loaded
-2022-08-08T04:32:09.571Z - success: inspector loaded
-2022-08-08T04:32:09.579Z - success: cpk-publish loaded
-2022-08-08T04:32:09.580Z - success: keystore loaded
-2022-08-08T04:32:09.589Z - success: link-sure-runtime loaded
-2022-08-08T04:32:09.596Z - success: node-library loaded
-2022-08-08T04:32:09.597Z - success: open-recent-items loaded
-2022-08-08T04:32:09.599Z - success: oppo-runtime loaded
-2022-08-08T04:32:09.600Z - success: package-asset loaded
-2022-08-08T04:32:09.600Z - success: preferences loaded
-2022-08-08T04:32:09.602Z - success: project-importer loaded
-2022-08-08T04:32:09.606Z - success: project-settings loaded
-2022-08-08T04:32:09.614Z - success: qtt-runtime loaded
-2022-08-08T04:32:09.616Z - success: scene loaded
-2022-08-08T04:32:09.617Z - success: simulator-debugger loaded
-2022-08-08T04:32:09.617Z - success: sprite-editor loaded
-2022-08-08T04:32:09.647Z - success: store loaded
-2022-08-08T04:32:09.648Z - success: taobao-creativeapp loaded
-2022-08-08T04:32:09.650Z - success: timeline loaded
-2022-08-08T04:32:09.652Z - success: vivo-runtime loaded
-2022-08-08T04:32:09.653Z - success: wechatgame-opendata loaded
-2022-08-08T04:32:09.655Z - success: wechatgame loaded
-2022-08-08T04:32:09.657Z - success: xiaomi-runtime loaded
-2022-08-08T04:32:09.658Z - success: hot-update loaded
-2022-08-08T04:32:09.658Z - success: preview server running at http://localhost:7456
-2022-08-08T04:32:09.692Z - info: Cocos Service load base data!
-2022-08-08T04:32:10.052Z - normal: Initializing Cocos2d
-2022-08-08T04:32:10.160Z - normal: Initializing engine extends
-2022-08-08T04:32:21.360Z - normal: Loading packages
-2022-08-08T04:32:21.362Z - normal: Run Application
-2022-08-08T04:32:24.012Z - success: cloud-function unloaded
-2022-08-08T04:32:42.563Z - normal: Start building with options : {
-  "title": "SGame68",
-  "packageName": "org.cocos2d.demo",
-  "startScene": "780a4e97-2a84-499a-b9aa-cf8699dd9288",
-  "excludeScenes": [],
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "webOrientation": "landscape",
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "mainCompressionType": "default",
-  "mainIsRemote": false,
-  "optimizeHotUpdate": false,
-  "md5Cache": false,
-  "encryptJs": false,
-  "xxteaKey": "0ab63801-a5e2-4a",
-  "zipCompressJs": true,
-  "fb-instant-games": {},
-  "android": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "koja.sgame68.me"
-  },
-  "ios": {
-    "REMOTE_SERVER_ROOT": "",
-    "packageName": "com.game.sgame68.vip",
-    "ios_enable_jit": true
-  },
-  "mac": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "packageName": "org.cocos2d.demo",
-    "width": 1280
-  },
-  "win32": {
-    "REMOTE_SERVER_ROOT": "",
-    "height": 720,
-    "width": 1280
-  },
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "packageName": "org.cocos2d.demo",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "appBundle": false,
-  "agreements": {},
-  "platform": "ios",
-  "actualPlatform": "ios",
-  "template": "link",
-  "buildPath": "/Users/dotoan/Work/XD/sgame-client/build",
-  "debug": false,
-  "sourceMaps": false,
-  "embedWebDebugger": false,
-  "previewWidth": "1280",
-  "previewHeight": "720",
-  "useDebugKeystore": true,
-  "apiLevel": "",
-  "appABIs": [],
-  "vsVersion": "auto",
-  "buildScriptsOnly": false,
-  "dest": "/Users/dotoan/Work/XD/sgame-client/build/jsb-link",
-  "separateEngineMode": false,
-  "scenes": [
-    "780a4e97-2a84-499a-b9aa-cf8699dd9288"
-  ],
-  "excludedModules": [
-    "3D",
-    "3D Primitive",
-    "3D Physics/cannon.js",
-    "3D Physics/Builtin",
-    "3D Particle"
-  ],
-  "project": "/Users/dotoan/Work/XD/sgame-client",
-  "projectName": "SGame68",
-  "debugBuildWorker": false
-}
-2022-08-08T04:32:42.648Z - normal: Building /Users/dotoan/Work/XD/sgame-client
-2022-08-08T04:32:42.648Z - normal: Destination /Users/dotoan/Work/XD/sgame-client/build/jsb-link
-2022-08-08T04:32:42.693Z - normal: Start spawn build-worker
-2022-08-08T04:32:43.551Z - normal: Finish spawn build-worker
-2022-08-08T04:32:43.552Z - normal: Delete /Users/dotoan/Work/XD/sgame-client/build/jsb-link/assets/**/*,/Users/dotoan/Work/XD/sgame-client/build/jsb-link/remote/**/*,/Users/dotoan/Work/XD/sgame-client/build/jsb-link/src/**/*
-2022-08-08T04:32:43.680Z - normal: Checked Python Version [2.7.18]
-2022-08-08T04:32:45.479Z - normal: Creating native cocos project to  /Users/dotoan/Work/XD/sgame-client/build/jsb-link
-2022-08-08T04:33:00.324Z - normal: Compiling /Users/dotoan/Work/XD/sgame-client
-2022-08-08T04:33:02.633Z - normal: Start init build-worker
-2022-08-08T04:33:03.314Z - normal: Finish init build-worker
-2022-08-08T04:33:03.314Z - normal: Start build-assets in worker
-2022-08-08T04:33:03.314Z - normal: 
---- build-asset: {"root":"db://internal/resources","name":"internal","dest":"/Users/dotoan/Work/XD/sgame-client/build/jsb-link/assets/internal","scriptDest":"/Users/dotoan/Work/XD/sgame-client/build/jsb-link/assets/internal","priority":11,"scenes":[],"compressionType":"merge_all_json"}
-
-2022-08-08T04:33:03.387Z - normal: 
---- build-asset: {"root":"db://assets/resources","name":"resources","dest":"/Users/dotoan/Work/XD/sgame-client/build/jsb-link/assets/resources","scriptDest":"/Users/dotoan/Work/XD/sgame-client/build/jsb-link/assets/resources","priority":8,"scenes":[],"compressionType":"default"}
-
-2022-08-08T04:33:05.250Z - normal: 
---- build-asset: {"root":null,"priority":7,"dest":"/Users/dotoan/Work/XD/sgame-client/build/jsb-link/assets/main","scriptDest":"/Users/dotoan/Work/XD/sgame-client/build/jsb-link/assets/main","name":"main","scenes":["780a4e97-2a84-499a-b9aa-cf8699dd9288"],"compressionType":"default","optimizeHotUpdate":false,"inlineSpriteFrames":true,"isRemote":false}
-
-2022-08-08T04:33:05.255Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
-2022-08-08T04:33:05.307Z - normal: Finish build-assets in worker
-2022-08-08T04:33:05.374Z - normal: Start building plugin scripts
-2022-08-08T04:33:05.938Z - normal: Finish building plugin scripts
-2022-08-08T04:33:05.948Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.4.9/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2022-08-08T04:33:05.958Z - normal: Built to "/Users/dotoan/Work/XD/sgame-client/build/jsb-link" successfully
-2022-08-08T04:33:05.991Z - normal: SearchPath updated in built main.js for hot update
-2022-08-08T04:33:18.948Z - normal: Checked Python Version [2.7.18]
-2022-08-08T04:33:20.113Z - normal: Start to compile native project. Please wait...
-2022-08-08T04:33:20.113Z - normal: The log file path [ /Users/dotoan/.CocosCreator/logs/native.log ]
-2022-08-08T04:33:59.600Z - normal: Compile native project successfully.
-2022-08-08T04:34:02.759Z - normal: Start to run project
-2022-08-08T04:34:02.857Z - normal: Checked Python Version [2.7.18]
-2022-08-08T04:34:04.032Z - normal: Start to run project. Please wait...
-2022-08-08T04:34:04.032Z - normal: The log file path [ /Users/dotoan/.CocosCreator/logs/native.log ]
+2022-08-24T03:40:52.745Z - success: protocol editor-framework registered
+2022-08-24T03:40:52.746Z - success: protocol app registered
+2022-08-24T03:40:52.746Z - success: protocol theme registered
+2022-08-24T03:40:52.746Z - success: protocol packages registered
+2022-08-24T03:40:52.762Z - normal: Load ~/.CocosCreator/settings.json
+2022-08-24T03:40:52.785Z - success: protocol uuid registerred
+2022-08-24T03:40:52.785Z - success: protocol db registerred
+2022-08-24T03:40:52.785Z - success: protocol thumbnail registerred
+2022-08-24T03:40:52.905Z - normal: Initializing Asset Database
+2022-08-24T03:40:52.911Z - normal: checking language setting...
+2022-08-24T03:40:52.911Z - normal: Language: en
+2022-08-24T03:40:52.915Z - success: protocol unpack registerred
+2022-08-24T03:40:52.915Z - success: protocol disable-commonjs registerred
+2022-08-24T03:40:55.293Z - normal: connected!
+2022-08-24T03:40:56.940Z - normal: Check project /Users/macbook/Work/XD/sgame-client
+2022-08-24T03:40:56.941Z - normal: Initializing project /Users/macbook/Work/XD/sgame-client
+2022-08-24T03:40:57.199Z - success: adapters loaded
+2022-08-24T03:40:57.202Z - success: asset-db-debugger loaded
+2022-08-24T03:40:57.282Z - success: fb-audience-network loaded
+2022-08-24T03:40:57.331Z - success: fb-live-stream loaded
+2022-08-24T03:40:57.334Z - success: google-play-instant loaded
+2022-08-24T03:40:57.335Z - success: jsb-adapter loaded
+2022-08-24T03:40:57.338Z - success: package-manager loaded
+2022-08-24T03:40:57.338Z - success: runtime-adapters loaded
+2022-08-24T03:40:57.340Z - success: runtime-dev-tools loaded
+2022-08-24T03:40:57.343Z - success: ui-kit-preview-extra loaded
+2022-08-24T03:40:57.345Z - success: ui-kit-preview loaded
+2022-08-24T03:40:58.312Z - success: alipay-minigame loaded
+2022-08-24T03:40:58.321Z - success: assets loaded
+2022-08-24T03:40:58.325Z - success: baidugame-opendata loaded
+2022-08-24T03:40:58.328Z - success: baidugame loaded
+2022-08-24T03:40:58.332Z - success: builder loaded
+2022-08-24T03:40:58.336Z - success: bytedance-opendata loaded
+2022-08-24T03:40:58.341Z - success: bytedance loaded
+2022-08-24T03:40:58.346Z - success: channel-upload-tools loaded
+2022-08-24T03:40:58.513Z - success: cloud-function loaded
+2022-08-24T03:40:58.749Z - success: cocos-services loaded
+2022-08-24T03:40:58.753Z - success: console loaded
+2022-08-24T03:40:58.756Z - success: curve-editor loaded
+2022-08-24T03:40:58.767Z - success: fb-instant-games loaded
+2022-08-24T03:40:58.770Z - success: game-window loaded
+2022-08-24T03:40:58.772Z - success: google-instant-games loaded
+2022-08-24T03:40:58.778Z - success: hierarchy loaded
+2022-08-24T03:40:58.782Z - success: huawei-agc loaded
+2022-08-24T03:40:58.786Z - success: huawei-runtime loaded
+2022-08-24T03:40:58.793Z - success: inspector loaded
+2022-08-24T03:40:58.811Z - success: cpk-publish loaded
+2022-08-24T03:40:58.812Z - success: keystore loaded
+2022-08-24T03:40:58.834Z - success: link-sure-runtime loaded
+2022-08-24T03:40:58.848Z - success: node-library loaded
+2022-08-24T03:40:58.850Z - success: open-recent-items loaded
+2022-08-24T03:40:58.855Z - success: oppo-runtime loaded
+2022-08-24T03:40:58.860Z - success: package-asset loaded
+2022-08-24T03:40:58.862Z - success: preferences loaded
+2022-08-24T03:40:58.868Z - success: project-importer loaded
+2022-08-24T03:40:58.872Z - success: project-settings loaded
+2022-08-24T03:40:58.891Z - success: qtt-runtime loaded
+2022-08-24T03:40:58.897Z - success: scene loaded
+2022-08-24T03:40:58.901Z - success: simulator-debugger loaded
+2022-08-24T03:40:58.903Z - success: sprite-editor loaded
+2022-08-24T03:40:59.007Z - success: store loaded
+2022-08-24T03:40:59.009Z - success: taobao-creativeapp loaded
+2022-08-24T03:40:59.014Z - success: timeline loaded
+2022-08-24T03:40:59.022Z - success: vivo-runtime loaded
+2022-08-24T03:40:59.025Z - success: wechatgame-opendata loaded
+2022-08-24T03:40:59.030Z - success: wechatgame loaded
+2022-08-24T03:40:59.036Z - success: xiaomi-runtime loaded
+2022-08-24T03:40:59.126Z - success: im-plugin loaded
+2022-08-24T03:40:59.129Z - success: hot-update loaded
+2022-08-24T03:40:59.130Z - success: preview server running at http://localhost:7456
+2022-08-24T03:41:00.083Z - normal: Initializing Cocos2d
+2022-08-24T03:41:00.590Z - normal: Initializing engine extends
+2022-08-24T03:41:07.801Z - normal: Loading packages
+2022-08-24T03:41:07.806Z - normal: Run Application
+2022-08-24T03:41:10.503Z - info: Cocos Service load base data!
+2022-08-24T03:41:14.427Z - success: cloud-function unloaded

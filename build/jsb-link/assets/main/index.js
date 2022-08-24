@@ -14853,7 +14853,7 @@ t.scheduleOnce(t.loadResources, 0);
 },
 loadResources: function() {
 var t = this, e = [];
-this.lbUpdate.string = "Tải tài nguyên, không tốn dung lượng.";
+this.lbUpdate.string = "Tải tài nguyên, không tốn dung lượng. Vui lòng chờ!!!";
 e.push("UIHome");
 e.push("UILogin");
 e.push("taixiu/UITaiXiu");
@@ -14882,7 +14882,10 @@ e.push("baccarat/UIBaccarat");
 cc.loader.loadResArray(e, cc.Asset, function(e, i) {
 t.updateProcess(e / i);
 }, function(e, i) {
-if (e) console.log(e); else {
+if (e) {
+console.log(e);
+t.loadFinish();
+} else {
 for (var n = 0; n < i.length; n++) cc.loader.setAutoReleaseRecursively(i[n], !0);
 t.loadFinish();
 }
