@@ -10,7 +10,7 @@ jsb-binary/
 web-desktop/
 web-mobile/
 runtime/
-build/
+# build/
 jsb/
 export/
 
@@ -73,3 +73,5 @@ quick_gen_project_*_autogen.sh.meta
 
 creator.d.ts
 .vscode/
+
+build/jsb-link/frameworks/runtime-src/proj.ios_mac/build/
