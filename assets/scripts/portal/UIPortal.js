@@ -58,7 +58,8 @@ cc.Class({
             self.updateProcess(completedCount / totalCount);
         },function (err, assets) {
             if(err){
-                console.log(err);
+                console.log("load resource error: ", err);
+                self.loadFinish();
                 return;
             }
             for(let i = 0 ;i < assets.length;i++){
