@@ -13107,12 +13107,12 @@ this.onLoadSubGame();
 mm.audio.playButton();
 },
 onSelectTXGame: function() {
-var t = GameVariables.Poker.getUserJson(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
-cc.native.reflection.callStaticMethod("CocosBridge", "openTXGame", t);
+GameVariables.Poker.getUserJson(SmartFoxSDK.PortalController.ZoneInstance.mySelf), 
+jsb.reflection.callStaticMethod("CocosBridge", "openTXGame:", "");
 },
 onSelectXDGame: function() {
-var t = GameVariables.Poker.getUserJson(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
-cc.native.reflection.callStaticMethod("CocosBridge", "openXDGame", t);
+GameVariables.Poker.getUserJson(SmartFoxSDK.PortalController.ZoneInstance.mySelf), 
+jsb.reflection.callStaticMethod("CocosBridge", "openXDGame:", "");
 },
 onToggleCategoryGame: function(t) {
 mm.audio.playButton();
