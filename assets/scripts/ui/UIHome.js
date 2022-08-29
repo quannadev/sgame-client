@@ -70,7 +70,6 @@ cc.Class({
         let user = GameVariables.Poker.getDisplayName(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
         var ret = cc.native.reflection.callStaticMethod("CocosBridge",
                                          "openTXGame",
-                                         "token",
                                          user);
 
     },
@@ -78,7 +77,6 @@ cc.Class({
         let user = GameVariables.Poker.getDisplayName(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
         var ret = cc.native.reflection.callStaticMethod("CocosBridge",
                                          "openXDGame",
-                                         "token",
                                          user);
 
     },
