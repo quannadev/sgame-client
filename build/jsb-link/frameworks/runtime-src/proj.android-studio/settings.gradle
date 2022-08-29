@@ -1,4 +1,0 @@
-include ':libcocos2dx',':instantapp'
-project(':libcocos2dx').projectDir = new File('/Applications/CocosCreator/Creator/2.4.9/CocosCreator.app/Contents/Resources/cocos2d-x/cocos/platform/android/libcocos2dx')
-include ':SGame68'
-project(':SGame68').projectDir = new File(settingsDir, 'app')

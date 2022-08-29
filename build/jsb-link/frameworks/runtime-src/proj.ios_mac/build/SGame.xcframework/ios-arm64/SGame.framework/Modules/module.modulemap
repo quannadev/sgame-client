@@ -1,6 +1,0 @@
-framework module SGame {
-  umbrella header "SGame.h"
-
-  export *
-  module * { export * }
-}

@@ -1,1 +1,0 @@
-{"version":3,"sources":["assets/scripts/baccarat/BaccaratCauItem.js"],"names":["cc","Class","Component","properties"],"mappings":";;;;;;AAAAA,EAAE,CAACC,KAAH,CAAS;AACL,aAASD,EAAE,CAACE,SADP;AAGLC,EAAAA,UAAU,EAAE;AAHP,CAAT","sourceRoot":"/","sourcesContent":["cc.Class({\n    extends: cc.Component,\n\n    properties: {\n\n    },\n});\n"]}

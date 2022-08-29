@@ -1,9 +1,0 @@
-{
-  "__type__": "cc.ParticleAsset",
-  "_name": "particle_texture",
-  "_objFlags": 0,
-  "_native": ".plist",
-  "spriteFrame": {
-    "__uuid__": "481dbee2-a37d-4faf-8705-b08680fb88c1"
-  }
-}
