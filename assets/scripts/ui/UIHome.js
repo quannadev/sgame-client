@@ -67,18 +67,16 @@ cc.Class({
         mm.audio.playButton();
     },
     onSelectTXGame(event, game) {
-        let user = GameVariables.Poker.getDisplayName(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
+        let user = GameVariables.Poker.getUserJson(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
         var ret = cc.native.reflection.callStaticMethod("CocosBridge",
                                          "openTXGame",
-                                         "token",
                                          user);
 
     },
     onSelectXDGame(event, game) {
-        let user = GameVariables.Poker.getDisplayName(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
+        let user = GameVariables.Poker.getUserJson(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
         var ret = cc.native.reflection.callStaticMethod("CocosBridge",
                                          "openXDGame",
-                                         "token",
                                          user);
 
     },
