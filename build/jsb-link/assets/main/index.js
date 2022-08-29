@@ -14897,7 +14897,10 @@ e.push("baccarat/UIBaccarat");
 cc.loader.loadResArray(e, cc.Asset, function(e, i) {
 t.updateProcess(e / i);
 }, function(e, i) {
-if (e) console.log(e); else {
+if (e) {
+console.log("load resource error: ", e);
+t.loadFinish();
+} else {
 for (var n = 0; n < i.length; n++) cc.loader.setAutoReleaseRecursively(i[n], !0);
 t.loadFinish();
 }
