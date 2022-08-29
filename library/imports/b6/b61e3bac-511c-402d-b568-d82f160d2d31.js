@@ -75,6 +75,14 @@ cc.Class({
     this.onLoadSubGame();
     mm.audio.playButton();
   },
+  onSelectTXGame: function onSelectTXGame(event, game) {
+    var user = GameVariables.Poker.getDisplayName(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
+    var ret = cc["native"].reflection.callStaticMethod("CocosBridge", "openTXGame", "token", user);
+  },
+  onSelectXDGame: function onSelectXDGame(event, game) {
+    var user = GameVariables.Poker.getDisplayName(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
+    var ret = cc["native"].reflection.callStaticMethod("CocosBridge", "openXDGame", "token", user);
+  },
   onToggleCategoryGame: function onToggleCategoryGame(event) {
     mm.audio.playButton();
 

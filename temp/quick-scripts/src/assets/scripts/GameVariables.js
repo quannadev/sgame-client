@@ -13,6 +13,15 @@ GameVariables.Poker.getChip = function (user) {
   return 0;
 };
 
+GameVariables.Poker.getUserJson = function (user) {
+  if (!(user instanceof SmartFoxSDK.SmartFox.Entities.User)) return {};
+  return {
+    "amount": this.getChip(user),
+    "id": user.id,
+    "username": user.username
+  };
+};
+
 GameVariables.Poker.getDisplayName = function (user) {
   if (!(user instanceof SmartFoxSDK.SmartFox.Entities.User)) return "";
   if (user && user.getVariable("dn")) return user.getVariable("dn").value;

@@ -7575,8 +7575,8 @@
     "relativePath": "prefabs/zeus/ZeusTransactionItem.prefab"
   },
   "81cf70e7-6adf-4c89-bf44-c1e914956a1d": {
-    "asset": 1659947949138,
-    "meta": 1660534959471,
+    "asset": 1661484008087,
+    "meta": 1661484010032,
     "relativePath": "resources"
   },
   "db6918f3-8cf4-48a0-96ba-7f663a7af794": {
@@ -8670,13 +8670,13 @@
     "relativePath": "resources/roulette/UIRouletteTransaction.prefab"
   },
   "75cf56dc-1fe7-4b94-94cd-79aaca989014": {
-    "asset": 1659947949129,
-    "meta": 1660534959681,
+    "asset": 1661483469506,
+    "meta": 1661484010034,
     "relativePath": "resources/taixiu"
   },
   "ad269569-3bb3-451c-a991-e6fcecebb749": {
-    "asset": 1659947949123,
-    "meta": 1660534965976,
+    "asset": 1661483469510,
+    "meta": 1661484010596,
     "relativePath": "resources/taixiu/UITaiXiu.prefab"
   },
   "450977fe-6fa7-4b15-aadb-3711f3b724b0": {
@@ -8760,8 +8760,8 @@
     "relativePath": "resources/UIRegister.prefab"
   },
   "d6384927-27eb-4b33-aeb7-3f31dd70d2d9": {
-    "asset": 1659947948960,
-    "meta": 1660534959663,
+    "asset": 1661500024052,
+    "meta": 1661500024072,
     "relativePath": "resources/UIHome.prefab"
   },
   "98b96a77-fbe5-4453-a8a2-d47dbd0721be": {
@@ -8840,23 +8840,23 @@
     "relativePath": "scenes"
   },
   "780a4e97-2a84-499a-b9aa-cf8699dd9288": {
-    "asset": 1659947949144,
-    "meta": 1660534960424,
+    "asset": 1661393621836,
+    "meta": 1661484010579,
     "relativePath": "scenes/Main.fire"
   },
   "cdff95c8-af9b-4daf-a3c3-6ee6d8fd2c0a": {
-    "asset": 1659947949238,
-    "meta": 1660534959474,
+    "asset": 1661484008098,
+    "meta": 1661484010032,
     "relativePath": "scripts"
   },
   "7687b52d-bf28-46b3-aa1b-80723820a5f6": {
-    "asset": 1659947949153,
-    "meta": 1660534960116,
+    "asset": 1661483469514,
+    "meta": 1661484010125,
     "relativePath": "scripts/abase"
   },
   "f030ab62-8aae-4e2f-9ef0-c28af2a0bbfc": {
-    "asset": 1659947949147,
-    "meta": 1660534966196,
+    "asset": 1661483469515,
+    "meta": 1661484010256,
     "relativePath": "scripts/abase/BaseController.js"
   },
   "ca072dec-564e-4a35-818f-1fb49ce55499": {
@@ -9153,11 +9153,6 @@
     "asset": 1659947949164,
     "meta": 1660534968140,
     "relativePath": "scripts/enum/CasinoEnum.js"
-  },
-  "dab1db70-7c68-4a93-be61-fc6772036d5b": {
-    "asset": 1659947949146,
-    "meta": 1660534959932,
-    "relativePath": "scripts/GameVariables.js"
   },
   "fd66d315-d769-4c85-aa98-3098e7923306": {
     "asset": 1659947949146,
@@ -9500,8 +9495,8 @@
     "relativePath": "scripts/poker/UIPokerRank.js"
   },
   "b9bcab10-e3a6-464b-8449-e69f664db72f": {
-    "asset": 1659947949192,
-    "meta": 1660534960132,
+    "asset": 1661483469517,
+    "meta": 1661484010126,
     "relativePath": "scripts/portal"
   },
   "5b1ceb4d-a83c-4804-8656-37378f8f049c": {
@@ -9700,13 +9695,13 @@
     "relativePath": "scripts/SmartFoxAudio.js"
   },
   "60bf8cf3-61dd-4303-8083-7fedce3e6eb6": {
-    "asset": 1659947949220,
-    "meta": 1660534960143,
+    "asset": 1661483469519,
+    "meta": 1661484010127,
     "relativePath": "scripts/taixiu"
   },
   "8222df7f-ee6f-4c6e-9f90-8e38f51b8ac2": {
-    "asset": 1659947949215,
-    "meta": 1660534970601,
+    "asset": 1661483469519,
+    "meta": 1661484010412,
     "relativePath": "scripts/taixiu/TaiXiuController.js"
   },
   "ee6afd6b-507d-4313-b073-a4b587f5a4fb": {
@@ -9740,8 +9735,8 @@
     "relativePath": "scripts/taixiu/TXSessionDetail.js"
   },
   "3c82d353-cc6d-4b78-bc4b-deb46f998abf": {
-    "asset": 1659947949217,
-    "meta": 1660534970762,
+    "asset": 1661483469520,
+    "meta": 1661484010541,
     "relativePath": "scripts/taixiu/UITaiXiu.js"
   },
   "4808c174-1786-4a2f-b1ad-b33959ef88fa": {
@@ -9780,8 +9775,8 @@
     "relativePath": "scripts/taixiu/UITaiXiuTransaction.js"
   },
   "3b26dac5-cfb8-4d46-a5a9-bd6664c5930a": {
-    "asset": 1659947949226,
-    "meta": 1660534960145,
+    "asset": 1661483469520,
+    "meta": 1661484010130,
     "relativePath": "scripts/ui"
   },
   "b779678b-8e74-4670-bfeb-dfe63441b903": {
@@ -9798,11 +9793,6 @@
     "asset": 1659947949222,
     "meta": 1660534970926,
     "relativePath": "scripts/ui/UIDialogTwo.js"
-  },
-  "b61e3bac-511c-402d-b568-d82f160d2d31": {
-    "asset": 1659947949224,
-    "meta": 1660534970955,
-    "relativePath": "scripts/ui/UIHome.js"
   },
   "35ba67e3-7d11-4680-9b90-f811eba9f1b0": {
     "asset": 1659947949225,
@@ -13085,8 +13075,8 @@
     "relativePath": "media/GateResCode/anim/lobby/sieuxe/xevip.png"
   },
   "aa39efd9-150e-4ebe-a580-1199313a26b3": {
-    "asset": 1659947949189,
-    "meta": 1660534969461,
+    "asset": 1661483469516,
+    "meta": 1661484010286,
     "relativePath": "scripts/portal/PortalManager.js"
   },
   "c530e2e5-a411-4115-a283-40b173dd9a1d": {
@@ -13119,19 +13109,39 @@
     "meta": 1660534971218,
     "relativePath": "scripts/vampire/VampireRequest.js"
   },
-  "bb37c179-22b1-474a-89a8-353dfd167972": {
-    "asset": 1659947946574,
-    "meta": 1660534959508,
-    "relativePath": "SmartFoxSDK.js"
-  },
   "f6ef97a2-c18c-45f0-8434-08b821ca4a98": {
-    "asset": 1660552513036,
-    "meta": 1661312464338,
+    "asset": 1661483469518,
+    "meta": 1661484010329,
     "relativePath": "scripts/portal/UIPortal.js"
   },
   "a40c0227-542d-4bad-a7f4-e6ed648cd0d4": {
-    "asset": 1661330929646,
-    "meta": 1661330935656,
+    "asset": 1661483469513,
+    "meta": 1661484010118,
     "relativePath": "scripts/Config.js"
+  },
+  "53c4d82d-99c1-4517-98e4-ad55af37df4b": {
+    "asset": 1661483504896,
+    "meta": 1661484010034,
+    "relativePath": "resources/taixiulive"
+  },
+  "883c22be-9d9a-48f7-b334-7cc8cb1e46a7": {
+    "asset": 1661483504904,
+    "meta": 1661484010128,
+    "relativePath": "scripts/taixiulive"
+  },
+  "bb37c179-22b1-474a-89a8-353dfd167972": {
+    "asset": 1661487880563,
+    "meta": 1661489885127,
+    "relativePath": "SmartFoxSDK.js"
+  },
+  "dab1db70-7c68-4a93-be61-fc6772036d5b": {
+    "asset": 1661499029881,
+    "meta": 1661499103401,
+    "relativePath": "scripts/GameVariables.js"
+  },
+  "b61e3bac-511c-402d-b568-d82f160d2d31": {
+    "asset": 1661500141454,
+    "meta": 1661500145159,
+    "relativePath": "scripts/ui/UIHome.js"
   }
 }

@@ -2989,6 +2989,8 @@
             b.user = this._smartFox.mySelf;
             b.data = params.get("po");
             this._smartFox._dispatchEvent(SmartFox.Event.LOGIN, b);
+            let token = params.get("token");
+            console.log("token", token);
         }
     };
     SmartFox.Controllers.SystemController.prototype._fnLogout = function (b) {
