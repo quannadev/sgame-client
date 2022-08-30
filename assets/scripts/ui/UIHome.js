@@ -67,18 +67,18 @@ cc.Class({
         mm.audio.playButton();
     },
     onSelectTXGame(event, game) {
-        let user = GameVariables.Poker.getDisplayName(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
-        var ret = cc.native.reflection.callStaticMethod("CocosBridge",
-                                         "openTXGame",
-                                         user);
-
+        mm.audio.pauseMusic();
+        let user = GameVariables.Poker.getUserJson(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
+        var ret = jsb.reflection.callStaticMethod("CocosBridge",
+                                         "openTXGame:",
+                                         '');
     },
     onSelectXDGame(event, game) {
-        let user = GameVariables.Poker.getDisplayName(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
-        var ret = cc.native.reflection.callStaticMethod("CocosBridge",
-                                         "openXDGame",
-                                         user);
-
+        mm.audio.pauseMusic();
+        let user = GameVariables.Poker.getUserJson(SmartFoxSDK.PortalController.ZoneInstance.mySelf);
+        var ret = jsb.reflection.callStaticMethod("CocosBridge",
+                                         "openXDGame:",
+                                         '');
     },
     onToggleCategoryGame(event){
         mm.audio.playButton();
