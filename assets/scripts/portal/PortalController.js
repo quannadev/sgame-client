@@ -31,6 +31,7 @@ let PortalController = SmartFoxSDK.BaseController.extend({
         UIManger.show("UIHome");
         Config.saveUsername(this.un);
         Config.savePass(this.pass);
+        // MQTTManager.connect();
     },
     onHistoryEvent(event){
         mm.Loading.hide();

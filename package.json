@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "mqtt-no-shebang": "3.0.1"
+  }
+}

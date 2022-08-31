@@ -208,4 +208,31 @@ Config.clearUserPass = function(){
     localStorage.setItem("un", "");
     localStorage.setItem("pwd", "");
 }
+Config.getAccessToken = function(){
+    let localStorage = cc.sys.localStorage;
+    if(localStorage.getItem("access_token") === null || localStorage.getItem("access_token") === undefined){
+        localStorage.setItem("access_token", "");
+    }
+    return localStorage.getItem("access_token");
+}
+Config.saveAccessToken = function(token){
+    let localStorage = cc.sys.localStorage;
+    localStorage.setItem("access_token", token);
+}
+Config.getRefreshToken = function(){
+    let localStorage = cc.sys.localStorage;
+    if(localStorage.getItem("refresh_token") === null || localStorage.getItem("refresh_token") === undefined){
+        localStorage.setItem("refresh_token", "");
+    }
+    return localStorage.getItem("refresh_token");
+}
+Config.saveRefreshToken = function(token){
+    let localStorage = cc.sys.localStorage;
+    localStorage.setItem("refresh_token", token);
+}
+Config.clearTokens = function() {
+    this.saveAccessToken("");
+    this.saveRefreshToken("");
+}
+
 window.Config = Config;

@@ -10,6 +10,9 @@ let HttpHandler = {
             } else {
             }
         };
+        if (Config.getAccessToken() != "") {
+            xhr.setRequestHeader("Authorization", "Bearer " + Config.getAccessToken());
+        }
         xhr.open("GET", url, true);
         xhr.send();
     },
@@ -18,6 +21,9 @@ let HttpHandler = {
         var xhr = cc.loader.getXMLHttpRequest();
         xhr.open("POST", url, true);
         xhr.setRequestHeader("Content-Type", "text/plain;charset=UTF-8");
+        if (Config.getAccessToken() != "") {
+            xhr.setRequestHeader("Authorization", "Bearer " + Config.getAccessToken());
+        }
         xhr.onreadystatechange = function () {
             if (xhr.readyState == 4 && (xhr.status >= 200 && xhr.status < 400)) {
                 var json = JSON.parse(xhr.responseText);
